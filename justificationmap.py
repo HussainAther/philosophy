@@ -21,5 +21,5 @@ with open(file, "r") as infile:
 
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
-finder = BigramCollocationFinder.from_words(nltk.corpus.genesis.words(file))
+finder = BigramCollocationFinder.from_words(nltk.corpus.genesis.words(file).decode("utf-8"))
 finder.nbest(bigram_measures.pmi, 10)
