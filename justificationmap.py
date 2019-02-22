@@ -22,5 +22,10 @@ just = {} # justification map
 # Collocations to figure out where multiple words commonly occur together.
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
-finder = BigramCollocationFinder.from_words(nltk.corpus.genesis.words(text))
-finder.nbest(bigram_measures.pmi, 10)
+finder = BigramCollocationFinder.from_words(a)
+# Print hte top ten bigram collocations in the text
+print(finder.nbest(bigram_measures.pmi, 10))
+
+#
+finder.apply_freq_filter(3)
+finder.nbest
