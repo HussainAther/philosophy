@@ -1,5 +1,6 @@
 import sys
 import nltk
+from ntlk.collocations import *
 
 """
 Use Natural Language Tool Kit.
@@ -15,3 +16,4 @@ just = {} # justification map
 with open(file, "r") as infile:
     for line in infile:
 
+bigram_measures =
