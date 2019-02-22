@@ -1,9 +1,6 @@
 import sys
 import codecs
 import nltk
-from nltk.collocations import *
-
-nltk.download("genesis")
 
 """
 Use Natural Language Tool Kit.
@@ -13,13 +10,11 @@ Create a logical map that shows how claims are justified.
 Call this a justification map.
 """
 file = codecs.open("/Users/syedather/Desktop/thoughts.txt", "r", "utf-8-sig")
-# file = open("/Users/syedather/Desktop/thoughts.txt", "r")
 
 text = file.read()
+a = nltk.word_tokenize(text)
 
 just = {} # justification map
 
-bigram_measures = nltk.collocations.BigramAssocMeasures()
-trigram_measures = nltk.collocations.TrigramAssocMeasures()
-finder = BigramCollocationFinder.from_words(nltk.corpus.genesis.words(file))
-finder.nbest(bigram_measures.pmi, 10)
+
+
