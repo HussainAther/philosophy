@@ -23,9 +23,11 @@ just = {} # justification map
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
 finder = BigramCollocationFinder.from_words(a)
-# Print hte top ten bigram collocations in the text
-print(finder.nbest(bigram_measures.pmi, 10))
+# Print the top ten bigram collocations in the text
+finder.nbest(bigram_measures.pmi, 10)
+# print(finder.nbest(bigram_measures.pmi, 10))
 
-#
+# They may be highly collocated, but they're very infrequent.
+# Let's use a filter to ignore all bigrams which occur fewer than three times in the text.
 finder.apply_freq_filter(3)
-finder.nbest
+print(finder.nbest(bigram_measures.pmi, 10))
