@@ -15,5 +15,7 @@ just = {} # justification map
 
 with open(file, "r") as infile:
     for line in infile:
+        pass
 
-bigram_measures =
+bigram_measures = mltk.collocations.BigramAssocMeasures()
+trigram_measures = nltk.collocations.TrigramAssocMeasures()
