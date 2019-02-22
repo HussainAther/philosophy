@@ -1,5 +1,5 @@
 import sys
-import ntlk
+import nltk
 
 """
 Use Natural Language Tool Kit.
