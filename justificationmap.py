@@ -1,4 +1,5 @@
 import sys
+import codecs
 import nltk
 from nltk.collocations import *
 
@@ -11,17 +12,14 @@ Require user to justify claims using other claims in the text.
 Create a logical map that shows how claims are justified.
 Call this a justification map.
 """
-file = "/Users/syedather/Desktop/thoughts.txt"
-raw = urlopen(file).read()
-raw = raw.decode("utf-8")
+file = codecs.open("/Users/syedather/Desktop/thoughts.txt", "r", "utf-8-sig")
+# file = open("/Users/syedather/Desktop/thoughts.txt", "r")
+
+text = file.read()
 
 just = {} # justification map
 
-with open(file, "r") as infile:
-    for line in infile:
-        pass
-
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
-finder = BigramCollocationFinder.from_words(nltk.corpus.genesis.words(raw))
+finder = BigramCollocationFinder.from_words(nltk.corpus.genesis.words(file))
 finder.nbest(bigram_measures.pmi, 10)
