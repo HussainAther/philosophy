@@ -9,7 +9,7 @@ Require user to justify claims using other claims in the text.
 Create a logical map that shows how claims are justified.
 Call this a justification map.
 """
-file = sys.argv[1]
+file = "/Users/Desktop/thoughts.txt"
 
 just = {} # justification map
 
@@ -19,3 +19,5 @@ with open(file, "r") as infile:
 
 bigram_measures = mltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
+finder = BigramCollocationFinder.from_words(nltk.corpus.genesis.words(file))
+finder.nbest(bigram_measures.pmi, 10) 
