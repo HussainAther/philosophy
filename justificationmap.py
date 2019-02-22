@@ -23,3 +23,4 @@ just = {} # justification map
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
 finder = BigramCollocationFinder.from_words(nltk.corpus.genesis.words(text))
+finder.nbest(bigram_measures.pmi, 10)
