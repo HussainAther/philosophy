@@ -32,3 +32,24 @@ finder.nbest(bigram_measures.pmi, 10)
 # Let's use a filter to ignore all bigrams which occur fewer than three times in the text.
 finder.apply_freq_filter(3)
 print(finder.nbest(bigram_measures.pmi, 10))
+
+"""
+        w1    ~w1
+     ------ ------
+ w2 | n_ii | n_oi | = n_xi
+     ------ ------
+~w2 | n_io | n_oo |
+     ------ ------
+     = n_ix        TOTAL = n_xx
+"""
+# Student's t-test
+print('%0.4f' % bigram_measures.student_t(8, (15828, 4675), 14307668))
+
+# Chi-square
+print('%0.2f' % bigram_measures.chi_sq(8, (15828, 4675), 14307668))
+
+# Likelihood ratios
+print('%0.2f' % bigram_measures.likelihood_ratio(110, (2552, 221), 31777))
+
+# Pointwise Mutual information
+print('%0.2f' % bigram_measures.pmi(20, (42, 20), 14307668))
