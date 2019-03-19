@@ -66,3 +66,5 @@ Beach, Dore. 1996. __Responsible Conduct of Research__. John Wiley & Sons, Incor
 Bebeau, Muriel J., et al. 1995. __Moral Reasoning in Scientific Research: Cases for Teaching and Assessment__. Poynter Center for the Study of Ethics and American Institutions. Source: Order or download in PDF format at http://poynter.indiana.edu/mr/mr-main.shtml.
 
 Bulger, Ruth Ellen, Elizabeth Heitman, and Stanley Joel Reiser, eds. 2002. __The Ethical Dimensions of the Biological and Health Sciences__. 2nd ed. Cambridge University Press.
+
+Elliott, Deni, and Judy E. Stern, eds. 1997. __Research Ethics: A Reader__. University Press of New England. See also Stern and Elliott, __The Ethics of Scientific Research__.
