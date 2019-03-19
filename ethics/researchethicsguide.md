@@ -52,3 +52,13 @@ The Scientist – http://www.thescientist.comNature – http://www.nature.com/
 Science – http://www.sciencemag.org/
 
 The Scientist – http://www.thescientist.com
+
+## Ethical theory
+
+Frankena, William K. 1988. __Ethics__. 2nd ed. Prentice-Hall, Inc.
+
+Rachels, James, and Stuart Rachels. 2009. __The Elements of Moral Philosophy__. 6th ed. McGraw-Hill Companies.
+
+## Books
+
+Beach, Dore. 1996. __Responsible Conduct of Research__. John Wiley & Sons, Incorporated.
