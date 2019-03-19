@@ -59,6 +59,6 @@ Education:
 + Wendy Brown “Undoing the Demos: Neoliberalism's Stealth Revolution”
 + Lorin W. Anderson, Lauren A. Sosniak “Bloom's Taxonomy: A Forty+ Year Retrospective”
 
-### Aesthetics (this is more indirect, but I’m interested in the influence of the philosophy of art on academia):
+### Aesthetics:
 + Clive Bell “Art”
 + Tolstoy “What is Art”
