@@ -8,7 +8,12 @@ are the following sentences (closed well-formed formula)
 def axiom1(x);
     if 0 in x:
         return False
+    return True
 
-
-
-
+def axiom2(x, y):
+    result = []
+    for i in x:
+        for j in y:
+            if i == j:
+                result.append([i, j])
+    return result
