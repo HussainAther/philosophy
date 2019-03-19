@@ -15,8 +15,9 @@ logical form of the hypothesis. The rider that the hypothesis should be corrobor
 ought to have passed—tests which confront it with accepted basic statements.
 
 The following is an example of inconsistent (logically false) statement - that is - one in which
-p ·  ̄p can be deduced.
+p · ~p can be deduced.
 """
 
-p -> (p v q) # From Bertrand Russell's "primitive propositions"
-
+1. p -> (p v q) # From Bertrand Russell's "primitive propositions"
+2. ~p -> (p -> q) # From substitiuting   ̄pp for p and then p -> q for ~p v q
+3. ~p · p -> q # By importation
