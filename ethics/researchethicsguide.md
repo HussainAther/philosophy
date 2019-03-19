@@ -31,6 +31,24 @@ Journal of Empirical Research on Human Research Ethics – http://www.ucpressjou
 
 Science and Engineering Ethics – http://www.springer.com/philosophy/ethics/journal/11948#8085218705268172855
 
+## News publications
 
+The Chronicle of Higher Education – http://www.chronicle.com/
 
+Nature – http://www.nature.com/
 
+Science – http://www.sciencemag.org/
+
+The Scientist – http://www.thescientist.comNature – http://www.nature.com/
+
+Science – http://www.sciencemag.org/
+
+The Scientist – http://www.thescientist.comNature – http://www.nature.com/
+
+Science – http://www.sciencemag.org/
+
+The Scientist – http://www.thescientist.comNature – http://www.nature.com/
+
+Science – http://www.sciencemag.org/
+
+The Scientist – http://www.thescientist.com
