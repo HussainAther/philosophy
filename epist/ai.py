@@ -12,3 +12,4 @@ def concepts(knowledge):
     combination = "45-25-17" # a combination for a safe
     if knowledge == combination:
         print("The formalization of this knowlege is: 'The combination of the safe is %'" %f combination) 
+     
