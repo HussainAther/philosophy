@@ -20,7 +20,7 @@
 + Discussion, writing, ethical questions, critiquing,
 + Emphasizing General Education and Humanities requirements for what value they should have.
 + Writing exercises have been shown to promote positive effects (http://blogs.discovermagazine.com/notrocketscience/2010/11/25/15-minute-writing-exercise-closes-the-gender-gap-in-university-level-physics/#.VecABrTnt6F)
-+ This should not be “junk therapy.” I don’t want to this to be some sort of feel+ good “well-being” fad nor exaggerate its benefits. The benefits of these discussions require deliberate effort and willpower to achieve.
++ This should not be “junk therapy.” I don’t want to this to be some sort of feel-good “well-being” fad nor exaggerate its benefits. The benefits of these discussions require deliberate effort and willpower to achieve.
 
 ### Questions:
 #### Basic value:
@@ -53,11 +53,11 @@ Education:
 + William Deresiewicz “Excellent Sheep”
 + Jackson Lears “Liberal Arts vs. Neoliberalism”
 
-Philosophy:
+### Philosophy:
 + Terry Eagleton “The Illusions of Postmodernism”
 + Wendy Brown “Undoing the Demos: Neoliberalism's Stealth Revolution”
 + Lorin W. Anderson, Lauren A. Sosniak “Bloom's Taxonomy: A Forty+ Year Retrospective”
 
-Aesthetics (this is more far+ fetched, but I’m interested in the influence of the philosophy of art on academia):
+### Aesthetics (this is more indirect, but I’m interested in the influence of the philosophy of art on academia):
 + Clive Bell “Art”
 + Tolstoy “What is Art”
