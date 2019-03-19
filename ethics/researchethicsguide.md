@@ -23,4 +23,14 @@ RCR-Instruction, Office of Research Integrity – send a request to askori@hhs.g
 
 ## Journals 
 
- 
+Accountability in Research – http://www.tandf.co.uk/journals/titles/08989621.asp 
+
+Ethics and Behavior – http://www.tandf.co.uk/journals/titles/10508422.asp
+
+Journal of Empirical Research on Human Research Ethics – http://www.ucpressjournals.com/journal.asp?j=jer
+
+Science and Engineering Ethics – http://www.springer.com/philosophy/ethics/journal/11948#8085218705268172855
+
+
+
+
