@@ -52,6 +52,7 @@ Education:
 + Arthur W. Foshay “The Curriculum Matrix: Transcendence and Mathematics”
 + William Deresiewicz “Excellent Sheep”
 + Jackson Lears “Liberal Arts vs. Neoliberalism”
++ Suzanne Mettler "Degrees of Inequality: How the Politics of Higher Education Sabotaged the American Dream""
 
 ### Philosophy:
 + Terry Eagleton “The Illusions of Postmodernism”
