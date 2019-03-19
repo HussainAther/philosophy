@@ -25,3 +25,12 @@ def axiom3(x):
 
 def axiom4(x, y):
     pass
+
+def axiom5(x):
+    for i in x:
+        if i * 0 != 0:
+            return False
+    return True
+
+def axiom6(x, y):
+    pass
