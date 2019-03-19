@@ -83,38 +83,38 @@ Israel, Mark, and Iain Hay. 2006. __Research Ethics for Social Scientists: Betwe
 
 Johnson, Deborah G. 2008. __Computer Ethics__. 4th ed. Prentice Hall PTR.
 
-Korenman, Stanley G., and Allan C. Shipp. 1994. Teaching the Responsible Conduct of Research through a Case Study Approach: A Handbook for Instructors. Association of American Medical Colleges. Source: Order from http://www.aamc.org/publications/
+Korenman, Stanley G., and Allan C. Shipp. 1994. __Teaching the Responsible Conduct of Research through a Case Study Approach: A Handbook for Instructors__. Association of American Medical Colleges. Source: Order from http://www.aamc.org/publications/
 
-Loue, Sana. 2000. Textbook of Research Ethics: Theory and Practice. Springer.
+Loue, Sana. 2000. __Textbook of Research Ethics: Theory and Practice__. Springer.
 
-Macrina, Francis L. 2005. Scientific Integrity: Text and Cases in Responsible Conduct of Research. 3rd ed. ASM Press.
+Macrina, Francis L. 2005. __Scientific Integrity: Text and Cases in Responsible Conduct of Research__. 3rd ed. ASM Press.
 
-Miller, David J., and Michel Hersen, eds. 1992. Research Fraud in the Behavioral and Biomedical Sciences. John Wiley & Sons, Incorporated.
+Miller, David J., and Michel Hersen, eds. 1992. __Research Fraud in the Behavioral and Biomedical Sciences__. John Wiley & Sons, Incorporated.
 
-Murphy, Timothy F. 2004. Case Studies in Biomedical Research Ethics. MIT Press.
+Murphy, Timothy F. 2004. __Case Studies in Biomedical Research Ethics__. MIT Press.
 
-National Academy of Sciences. 2009. On Being a Scientist: A Guide to Responsible Conduct in Research. 3rd edition. National Academy Press. Source: Order from http://www.nap.edu/catalog.php?record_id=12192
+National Academy of Sciences. 2009. __On Being a Scientist: A Guide to Responsible Conduct in Research__. 3rd edition. National Academy Press. Source: Order from http://www.nap.edu/catalog.php?record_id=12192
 
-National Academy of Sciences. 1992. Responsible Science, Vol. 1: Ensuring the Integrity of the Research Process. Source: Order from http://www.nap.edu/catalog.php?record_id=1864
+National Academy of Sciences. 1992. __Responsible Science, Vol. 1: Ensuring the Integrity of the Research Process__. Source: Order from http://www.nap.edu/catalog.php?record_id=1864
 
-National Academy of Sciences. 1992. Responsible Science, Vol. 2: Background Papers and Resource Documents. Source: Order from http://www.nap.edu/catalog.php?record_id=2091
+National Academy of Sciences. 1992. __Responsible Science, Vol. 2: Background Papers and Resource Documents__. Source: Order from http://www.nap.edu/catalog.php?record_id=2091
 
-Oliver, Paul. 2010. The Students’ Guide to Research Ethics. 2nd ed. McGraw-Hill Education.
+Oliver, Paul. 2010. __The Students’ Guide to Research Ethics__. 2nd ed. McGraw-Hill Education.
 
-Orlans, F. Barbara, et al., eds. 2008. The Human Use of Animals: Case Studies in Ethical Choice. 2nd ed. Oxford University Press.
+Orlans, F. Barbara, et al., eds. 2008. __The Human Use of Animals: Case Studies in Ethical Choice__. 2nd ed. Oxford University Press.
 
-Penslar, Robin Levin, ed. 1995. Research Ethics: Cases and Materials. Indiana University Press.
+Penslar, Robin Levin, ed. 1995. __Research Ethics: Cases and Materials__. Indiana University Press.
 
-Resnik, David B. 1998. The Ethics of Science: An Introduction. Routledge.
+Resnik, David B. 1998. __The Ethics of Science: An Introduction__. Routledge.
 
-Schrag, Brian, ed. 1997-2006. Research Ethics: Cases and Commentaries. Seven volumes. Association for Practical and Professional Ethics. Source: Order from http://www.indiana.edu/~appe/publications.html#research.
+Schrag, Brian, ed. 1997-2006. __Research Ethics: Cases and Commentaries__. Seven volumes. Association for Practical and Professional Ethics. Source: Order from http://www.indiana.edu/~appe/publications.html#research.
 
-Seebauer, Edmund G., and Robert L. Barry. 2000. Fundamentals of Ethics for Scientists and Engineers. Oxford University Press.
+Seebauer, Edmund G., and Robert L. Barry. 2000. __Fundamentals of Ethics for Scientists and Engineers__. Oxford University Press.
 
-Seebauer, Edmund G.. 2000. Instructor’s Manual for Fundamentals of Ethics for Scientists and Engineers. Oxford University Press.
+Seebauer, Edmund G.. 2000. __Instructor’s Manual for Fundamentals of Ethics for Scientists and Engineers__. Oxford University Press.
 
-Shamoo, Adil E., and David B. Resnik. 2009. Responsible Conduct of Research. Oxford University Press.
+Shamoo, Adil E., and David B. Resnik. 2009. __Responsible Conduct of Research__. Oxford University Press.
 
-Shrader-Frechette, Kristin S. 1994. Ethics of Scientific Research. Rowman & Littlefield Publishers, Inc.
+Shrader-Frechette, Kristin S. 1994. __Ethics of Scientific Research__. Rowman & Littlefield Publishers, Inc.
 
-Sieber, Joan E. 1992. Planning Ethically Responsible Research: A Guide for Students and Internal Review Boards. SAGE Publications, Inc.
+Sieber, Joan E. 1992. __Planning Ethically Responsible Research: A Guide for Students and Internal Review Boards__. SAGE Publications, Inc.
