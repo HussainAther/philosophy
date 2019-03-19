@@ -118,3 +118,13 @@ Shamoo, Adil E., and David B. Resnik. 2009. __Responsible Conduct of Research__.
 Shrader-Frechette, Kristin S. 1994. __Ethics of Scientific Research__. Rowman & Littlefield Publishers, Inc.
 
 Sieber, Joan E. 1992. __Planning Ethically Responsible Research: A Guide for Students and Internal Review Boards__. SAGE Publications, Inc.
+
+Sigma Xi. 1999. __Honor in Science. Sigma Xi, the Scientific Research Society__. Source: Order from http://www.sigmaxi.org/resources/merchandise/index.shtml
+
+Sigma Xi. 1999. __The Responsible Researcher: Paths and Pitfalls. Sigma Xi, the Scientific Research Society__. Source: Order from http://www.sigmaxi.org/resources/merchandise/index.shtml or download in PDF format at http://sigmaxi.org/programs/ethics/ResResearcher.pdf
+
+Steneck, Nicholas H. 2007. __ORI Introduction to the Responsible Conduct of Research. Revised ed__. DIANE Publishing Company. Source: Order from http://bookstore.gpo.gov/collections/ori-research.jsp or download in PDF format at http://ori.dhhs.gov/publications/ori_intro_text.shtml.
+
+Stern, Judy E., and Deni Elliott. 1997. __The Ethics of Scientific Research: A Guidebook for Course Development__. University Press of New England. See also Elliott and Stern, eds., Research Ethics: A Reader.
+
+Vitelli, Karen D., and Chip Colwell-Chanthaphonh, eds. 2006. __Archaeological Ethics__. 2nd ed. AltaMira Press.
