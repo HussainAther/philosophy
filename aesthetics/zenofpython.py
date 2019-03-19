@@ -2,6 +2,8 @@ import sys
 import os
 
 """
+How python is your code? 
+
 Compute a Python score based on how close code is to the principles
 given by the Zen of Python.
 
@@ -27,6 +29,9 @@ Namespaces are one honking great idea—let's do more of those!
 """
 
 with open(sys.argv[1], "r") as file:
-    score = 
+    score = 0 
+    linecount = 0
+   
+    linecount += 1
     
-    print(score)
+print(score)
