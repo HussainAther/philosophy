@@ -18,7 +18,7 @@ we always stay within the class of computable functions.
 
 def f1(n):
     """
-    Recrusive function for evaluating the factorial function.
+    Primitive recursive function for evaluating the factorial function.
     """
     fact = factorial(0)
     for y in range(0, n):
