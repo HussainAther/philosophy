@@ -68,3 +68,15 @@ Bebeau, Muriel J., et al. 1995. __Moral Reasoning in Scientific Research: Cases 
 Bulger, Ruth Ellen, Elizabeth Heitman, and Stanley Joel Reiser, eds. 2002. __The Ethical Dimensions of the Biological and Health Sciences__. 2nd ed. Cambridge University Press.
 
 Elliott, Deni, and Judy E. Stern, eds. 1997. __Research Ethics: A Reader__. University Press of New England. See also Stern and Elliott, __The Ethics of Scientific Research__.
+
+Erwin, Edward, Sidney Gendin, and Lowell Kleiman, eds. 1994. __Ethical Issues in Scientific Research: An Anthology__. Garland Publishing.
+
+Fleddermann, Charles B. 2007. __Engineering Ethics__. 3rd ed. Prentice Hall.
+
+Fluehr-Lobban, Carolyn. 2002. __Ethics and the Profession of Anthropology: Dialogue for Ethically Conscious Practice__. 2nd ed. AltaMira Press.
+
+Goodstein, David L. 2010. __On Fact and Fraud: Cautionary Tales from the Front Lines of Science__. Princeton University Press.
+
+Harris, Charles E., Jr., Michael S. Pritchard, and Michael J. Rabins. 2008. __Engineering Ethics: Concepts and Cases__. 4th edition. Wadsworth.
+
+
