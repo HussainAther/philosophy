@@ -15,9 +15,20 @@ logical form of the hypothesis. The rider that the hypothesis should be corrobor
 ought to have passed—tests which confront it with accepted basic statements.
 
 The following is an example of inconsistent (logically false) statement - that is - one in which
-p · ~p can be deduced.
+p · ~p can be deduced. This is not an example of a falsifiable statement.
 """
 
 1. p -> (p v q) # From Bertrand Russell's "primitive propositions"
 2. ~p -> (p -> q) # From substitiuting   ̄pp for p and then p -> q for ~p v q
 3. ~p · p -> q # By importation
+
+
+"""
+Consider a class α of a finite number of occurrences, for example the class of throws made yesterday with this
+particular die. This class α, which is assumed to be non-empty, serves, as it were, as a frame of reference, and
+will be called a (finite) reference-class. The number of elements belonging to α, i.e. its cardinal number, is
+denoted by ‘N(α)’, to be read ‘the number of α’. Now let there be another class, β, which may be finite or not.
+
+We call β our property-class: it may be, for example, the class of all throws which show a five, or (as we shall say)
+which have the property five.
+"""
