@@ -23,4 +23,5 @@ def axiom3(x):
         return True
     return False
 
-    
+def axiom4(x, y):
+    pass
