@@ -13,4 +13,10 @@ The requirement that the falsifying hypothesis must be empirical, and so falsifi
 stand in a certain logical relationship to possible basic statements; thus this requirement only concerns the
 logical form of the hypothesis. The rider that the hypothesis should be corroborated refers to tests which it
 ought to have passed—tests which confront it with accepted basic statements.
+
+The following is an example of inconsistent (logically false) statement - that is - one in which
+p ·  ̄p can be deduced.
 """
+
+p -> (p v q) # From Bertrand Russell's "primitive propositions"
+
