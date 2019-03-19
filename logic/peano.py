@@ -5,4 +5,10 @@ Its axioms – eliminating the redundancy from our original statement of the axi
 are the following sentences (closed well-formed formula)
 """
 
+def axiom1(x);
+    if 0 in x:
+        return False
+
+
+
 
