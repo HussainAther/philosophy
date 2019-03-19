@@ -17,3 +17,10 @@ def axiom2(x, y):
             if i == j:
                 result.append([i, j])
     return result
+
+def axiom3(x):
+    if x + 0 == x:
+        return True
+    return False
+
+    
