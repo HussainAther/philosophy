@@ -34,6 +34,7 @@ with open(sys.argv[1], "r") as file:
     linelens = []
     for line in file:
         linelens.append(len(line))
-        linecount += 1		
+        linecount += 1	
+    score += sum(linelens)/linecount	
     
 print(score)
