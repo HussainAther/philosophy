@@ -1,0 +1,3 @@
+"""
+Check for satisfiability.
+"""
