@@ -80,4 +80,15 @@ Conway's Game of Life is an example of 2-D CA
 
 Each cell has two states—live and dead—and 8 neighbors—north, south, east, west, and the four diagonals. This set of neighbors is sometimes called a Moore neighborhood.
 The rules of GoL are totalistic, which means that the next state of a cell depends on the number of live neighbors only, not on their arrangement. The following table summarizes the rules:
+
+Number of neighbors | Current state | Next state
+2–3  | live | live
+0–1, 4–8 | live | dead
+3  | dead | live
+0–2,4–8 | dead | dead
+
+This is further explored in conwaygameoflife.py.
+
+Stephen Wolfram's Principle of Computational Equivalence:
+Almost all processes that are not obviously simple can be viewed as computations of equivalent sophistication.
 """
