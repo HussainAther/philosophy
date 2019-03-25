@@ -12,6 +12,8 @@ def simplicity(f):
     """
     Return the simplicity of some function f. We may view simplicity
     as a function of the number of paramters. In this case, we return the
-    number of parameters.
+    number of parameters. This is a very basic, simple method of measuring   
+    simplicity (on the assumption it can be computed using object-oriented 
+    programming to begin with). It's not to be taken seriously.
     """
     return sig = signature(f)
