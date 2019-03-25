@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 """
-In Conway's game of Life (Conway), we watch how a system of cellular
+In Conway's game of Life (Conway GoL), we watch how a system of cellular
 automata (CA) evolve over time.
 """
 
@@ -45,6 +45,14 @@ plt.xticks([])
 plt.yticks([])
 pcolor = None
 
-
 steps = 10 
 fig.canvas.manager.window.after(1000, animate_callback)
+
+"""
+As Conway's GoL runs, patterns (Methuselahs) emerge. From most initial conditions,
+GoL reaches a stable state. 
+
+Conway's conjecture concerns whether the initial patterns stabilize. 
+According to Stephen Wolfram's Principle of Computational Equivalence (as outlined in cellularautomata.py),
+GoL should be (and is) Class 4 and Turing Complete. 
+"""
