@@ -24,16 +24,8 @@ class AI():
             action = history[not self.order][round - 2]
         return action 
 
-
 """
-According to Moore's autoepistemic logic, modal theories of logic 
-can be pursued for certain epistemic interpretations based on the concept
-that a default rule as one that licenses a conclusion for a reasoning agent unless something
-that the agent knows blocks the conclusion. An extension E of such theory T is a superset of T
-that is stable (deductively closed) if it satisfies the following two rules:
-
-1. If A∈E then □A∈E.
-2. If A∉E then ¬□A∈E.
+Its epistemic limits can be explored.
 """
 
 
