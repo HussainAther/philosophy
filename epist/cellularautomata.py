@@ -41,4 +41,19 @@ D2: Many physical systems can be modeled by deterministic processes, but some ar
 D3: All events are casued by prior events, but many physical systems are nevertheless
     fundamentally unpredictable.
 D4: All events are caused by prior events, and can (in principle) be predicted.
+
+An example of a Class 4 CA that is Turing complete would be Wolfram's Rule 110.
+In principle, any calculation can be simulated using this automata.
+"""
+
+def rule110(s,m=range(40)):
+    """
+    Wolfram's Rule 110 in generating interesting behavior 
+    on the boundary between stability and chaos.
+    """
+    s=[int(i in s)for i in m]
+    for g in m:print''.join([' X'[i]for i in s]);s=[int(not''.join(map(str,s[i-1:i+2]if i else s[:2]))in'111 100 000 00'.split())for i in m]
+
+"""
+
 """
