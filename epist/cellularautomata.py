@@ -50,10 +50,26 @@ def rule110(s,m=range(40)):
     """
     Wolfram's Rule 110 in generating interesting behavior 
     on the boundary between stability and chaos.
+    
+    It has the following set of rules:
+
+    Current pattern | New state	
+    111 | 0	
+    110	| 1
+    101	| 1
+    100	| 0
+    011	| 1
+    010	| 1
+    001	| 1
+    000 | 0
     """
     s=[int(i in s)for i in m]
     for g in m:print''.join([' X'[i]for i in s]);s=[int(not''.join(map(str,s[i-1:i+2]if i else s[:2]))in'111 100 000 00'.split())for i in m]
 
 """
+Turing machine is a 1-D CA inifnite in both directions. It records the state of the
+machine and acts based on a table of rules.
 
+Every reasonable model of computation is Turing complete. This lead to the Church-Turing
+Thesis which (in informal language) defined what it meant to be computable.
 """
