@@ -32,4 +32,13 @@ def rule50(s):
 """
 Wolfram's Rule 50 is an example of Class 2 cellular automata. It generates a simple pattern
 with a nested structure, as described above.
+
+For Class 3 CAs, we can consider philosophical determinism in classifying our automata.
+Determinism can be defined in such a way of increasing strength:
+D1: Deterministic models can make accurate predictinos for some physical systems.
+D2: Many physical systems can be modeled by deterministic processes, but some are
+    intrinsically random.
+D3: All events are casued by prior events, but many physical systems are nevertheless
+    fundamentally unpredictable.
+D4: All events are caused by prior events, and can (in principle) be predicted.
 """
