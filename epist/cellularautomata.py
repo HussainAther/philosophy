@@ -71,5 +71,11 @@ Turing machine is a 1-D CA inifnite in both directions. It records the state of 
 machine and acts based on a table of rules.
 
 Every reasonable model of computation is Turing complete. This lead to the Church-Turing
-Thesis which (in informal language) defined what it meant to be computable.
+Thesis which (in rough, informal language) defined what it meant to be computable.
+"""
+
+
+"""
+Conway's Game of Life
+
 """
