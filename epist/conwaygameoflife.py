@@ -23,4 +23,28 @@ def step(a, w, m):
     """
     con = scipy.ndimage.filters.convolve(a, w, m)
 
+def update(a, cmap):
+    """
+    Update the display with each step.
+    """
+    pcolor = plot.pcolor(a, cmap=cmap)
+    fig.canvas.draw()
 
+def animate_callback(a, w, m, steps):
+    """
+    Invoke the step function to update and update the display.
+    """
+    cmap = matplotlib.cm.gray_r # color map
+    for i in range(steps):
+         step(a, w, m)
+         update(a, cmap)
+
+fig = plt.figure()
+plt.axis([0, n, 0, n])
+plt.xticks([])
+plt.yticks([])
+pcolor = None
+
+
+steps = 10 
+fig.canvas.manager.window.after(1000, animate_callback)
