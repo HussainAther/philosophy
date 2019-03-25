@@ -1,6 +1,7 @@
 
 """
 Knowing one isn't a brain in a vat (BIV).
+Let's look at various methods of reasoning.
 """
 
 def notbiv():
