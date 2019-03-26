@@ -11,7 +11,8 @@ to the function optimization and approximation.
 
 We generally regard tools and techniques with respect to their efficiency or effectiveness
 in solving problems. In the philosophy of mathematics and discussions on machine learning,
-the "no free lunch theorem" can tell us generally that there are bound claims of applicability
+the "no free lunch theorem" (that averaging over all optimization problems means all non-resampling 
+optimization algorithms perform equally well) can tell us generally that there are bound claims of applicability
 of a given strategy with respect to its feature overlap with the attributes of a given problem
 domain. We can describe the appropriateness (can the approach address the problem), feasability
 (availability of resoucres and related efficiency concerns), and flexibility (addressing unexpected
