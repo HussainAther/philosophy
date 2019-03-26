@@ -77,12 +77,12 @@ def watchlist(i):
          w[c[0]].append(c) # keep track of which literal the clause is watching
     return w
 
-def updateW(i, w, f, a, v):
+def updateW(i, w, f, a):
     """
     Update the watchlist w after literal f was just assigned False by making any clause
     watching f something else. Return False if it's impossible (a clause contradicted the
     current assignment). i is our instance, w is the watchlist, f is the "flase_literal",
-    a is the assignment, and v means verbose.
+    and a is the assignment.
     """
     while w[f]:
         c = w[f][0] # get the clause c
@@ -94,4 +94,6 @@ def updateW(i, w, f, a, v):
                 fa = True # we have found an alternative
                 del w[f][0] # delete the false literal
                 break
-   
+        if not fa:  
+            return False
+    return True
