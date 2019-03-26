@@ -18,3 +18,13 @@ domain. We can describe the appropriateness (can the approach address the proble
 or unintended effects). We can address issues of suitability using (1) the systemic elicitatino of 
 system and problem features and (2) consideration of overlap of problem-problem, algorithm-algorithm,
 and problem-algorithm overlap of features sets.
+
+### Systematic Feature Elicitation
+
+We can define a feature of a system as a distinctive element or property we use to differentiate
+it from similar or related cases. We may create features either from a system perpsective (with a 
+focus on the lower levle functional elements and investigations toward correlating specific
+controlled procedures with predictable emergent behaviors) or problem perspective (generalizing
+a specific case to the general problem case with a functional or logical decomposition
+into its constituent parts). Generalization adn functional decomposition are important. Simplification
+and modularity can let us reduce the cost and complexicty of finding solutions.
