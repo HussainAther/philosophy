@@ -111,11 +111,17 @@ def solve(i, w, a, d):
         if d == n:
             yield a 
             d -= 1
-            continue 
+            continue
+    tr = False # we haven't tried an assignment
     if d == len(i.variables):
         yield a # when our instance's variables are accounted for by the variable array d
         return 
     for b in [0, 1]: # for each bitwise operator
+        if (s[d] >> b) & 1 == 0:
+            tr = True
+            s[d] != 1 << b 
+            a[d] = b
+            if not updateW(i, w, (d<<1) | b, a): # if we can update our watchlist with the corresponding false literal
         a[d] = b # update our assignemnt
         if updateW(i, w, (d<<1) | b, a): # if we can update our watchlist with the corresponding false literal
             for i solve(i, w, a, d + 1):
