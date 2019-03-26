@@ -35,3 +35,12 @@ Overlap of features between combinations of systems and problems can be categori
 system overlap (suitability of one system to another, or comparability), problem overlap (suitability of 
 one problem to another, or transferability), and system-problem overlap (suitability of a system on
 a given problem, or applicability).
+
+## Strong and Weak methods
+
+The stronger the method, the more we need to know about the problem domain. On a sort of continuum
+of methods from the weakest (e.g., black box techniques with a few assumptions about the problem domain)
+to strongest (e..g, need all of the problem-specific information available). The Traveling Salesman problem
+uses combinatorial optimization that can vary from exploiting only permutations of cities to stronger methods
+that use nearest neighbor approaches that exploit variation among the domain. Stochastic techniques
+may explore the search space using probabilistic and heuristic information.
