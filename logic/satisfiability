@@ -42,3 +42,5 @@ class SAT(object):
         """
         Convert a literal to a string.
         """ 
+        if literal & 1: # literal has the value of 1 boolean
+             s = "~" # negate
