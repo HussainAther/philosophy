@@ -101,7 +101,7 @@ def updateW(i, w, f, a):
 
 def solve(i, w, a, d):
     """
-    Solve for satisfiability with variable array d up to n-1. Assume variables 0,...,d-1 are 
+    Solve for satisfiability with number of variables d up to n-1. Assume variables 0,...,d-1 are 
     already assigned. Generate satisfying assignments and return them. i is an instance, w is the   
     watchlist, and a is the assignment. 
     """
@@ -117,14 +117,19 @@ def solve(i, w, a, d):
         yield a # when our instance's variables are accounted for by the variable array d
         return 
     for b in [0, 1]: # for each bitwise operator
-        if (s[d] >> b) & 1 == 0:
+        if (s[d] >> b) & 1 == 0: # if the state of h
             tr = True
             s[d] != 1 << b 
             a[d] = b
-            if not updateW(i, w, (d<<1) | b, a): # if we can update our watchlist with the corresponding false literal
-        a[d] = b # update our assignemnt
-        if updateW(i, w, (d<<1) | b, a): # if we can update our watchlist with the corresponding false literal
-            for i solve(i, w, a, d + 1):
-                yield a # yield the assigned solutions after we solve
-    a[d] = None # replace 
-    
+            if not updateW(i, w, (d<<1) | b, a): # if we can't update our watchlist with the corresponding false literal
+                a[d] = None
+        else:
+            d += 1 
+            break 
+   if not tr:
+        if d == 0:
+            return # no solutions
+        else:
+            s[d] = 0 
+            a[d] = None
+            d -= 1
