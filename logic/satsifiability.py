@@ -6,6 +6,10 @@ class SAT(object):
     """
     Basic and somewhat efficient way of solving satisfiability using Python. 
     """
+    def __init__(self):
+        self.variables = []
+        self.var_table = [] # table of variables
+        self.clauses = []
     def addclause(self, line):
         """
 
@@ -18,3 +22,6 @@ class SAT(object):
                 self.var_table[a] = len(self.variables)
                 self.variables.append(a)
             enc = self.var_table[a] << 1 | n # bitwise shift to create enc encoded literal
+            clause.append(enc)
+       self.clauses.append(tuple(set(clause)))
+
