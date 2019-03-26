@@ -71,4 +71,8 @@ def watchlist(i):
     """
     For an instance i, set up a watchlist. This lets each clause watch one of its literals so that all
     watched literals are either not yet assigned or they have been assigned true.
-    """ 
+    """
+    w = [deque() for _ in range(2 * len(i.variables))] # w is our watchlist 
+    for c in i.clauses:
+         w[c[0]].append(c) # keep track of which literal the clause is watching
+    return w
