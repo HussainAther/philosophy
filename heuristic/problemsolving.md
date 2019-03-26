@@ -56,4 +56,8 @@ We can optimize functions globally or locally. Global seeks optimal structures o
 problem domain scope while local focuses on optimal structures within constrained regions of the decisino variable
 search space (such as a single peak or valley within a defined area). Drawing from evolutionary computation, swarm intelligence,
 and similar sub-fields of computational intelligence, we may also optimize routines and methods using parallelization
-that can exploit similarities between parallel hardware to optimize communication to computation ratios (known as granularity). 
+that can exploit similarities between parallel hardware to optimize communication to computation ratios (known as granularity).
+
+We may also use cooperative search of multiple models working together to solve a difficult optimization problem or a hybrid
+search which optimizes by focusing on multiple and likely different approaches sequentially or in parallel. Functional decomposition
+uses (1) multiple objectives, (2) multiple constraints, and (3) partitions of the decision variable search space. 
