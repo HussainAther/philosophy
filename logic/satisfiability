@@ -44,3 +44,6 @@ class SAT(object):
         """ 
         if literal & 1: # literal has the value of 1 boolean
              s = "~" # negate
+        else:
+             s = ""
+        return s + self.variables[literal >> 1] # convert literal to a bitwise operator 1 and add to our string s
