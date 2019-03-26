@@ -11,7 +11,7 @@ class SAT(object):
         self.var_table = [] # table of variables
         self.clauses = []
 
-    def addclause(self, line):
+    def addClause(self, line):
         """
         Add a clause to our list of clauses for each literal in the line of the file.
         """
@@ -25,4 +25,12 @@ class SAT(object):
             enc = self.var_table[a] << 1 | n # bitwise shift to create enc encoded literal
             clause.append(enc)
        self.clauses.append(tuple(set(clause)))
-
+    
+    @classmethod
+    def file(cls, file):
+        i = cls() # instance of first argument to class method file
+        for line in file: # for each line in the file
+            line = line.strip() # remove unnecessary trailing charactres 
+            if len(line) > 0 and not line.startswith("#"):
+                i.addClause(line)
+        return i 
