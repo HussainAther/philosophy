@@ -60,4 +60,18 @@ that can exploit similarities between parallel hardware to optimize communicatio
 
 We may also use cooperative search of multiple models working together to solve a difficult optimization problem or a hybrid
 search which optimizes by focusing on multiple and likely different approaches sequentially or in parallel. Functional decomposition
-uses (1) multiple objectives, (2) multiple constraints, and (3) partitions of the decision variable search space. 
+uses (1) multiple objectives, (2) multiple constraints, and (3) partitions of the decision variable search space. Optimization varies
+with temporal and spatial distribution of information and computation variability. We can exploit clusters of heterogeneous
+workstations to complete large-scale distributed tasks such as optimization.
+
+Meta-optimization seesk to approach the next level by iterativelly generating inductive models (multiple restart optimization) and
+optimizing parameters of a process to generate an inductive model of an optimization problem. Optimizing a search process could
+include self-adaptation of mutation parameters (setp sizes) in teh evolutionary strategies and evolutionary programming approaches.
+
+## Function approximation
+
+With function approximation problems, we can use vector quantization to approximate a target function using a set of 
+exemplar (prototype or codebook) vectors. They should represent a discrete subset of the problem using the features
+of interest naturally represented in the prolbem space. This method uses a non-parametric model of a target function
+using symbolic representation in the domain (such as tree-based approaches). A k-Nearest-Neighbor method can be a non-parametric
+method for this. We may also paralellize instance-based methods with discrete, independent nature of which they're used. 
