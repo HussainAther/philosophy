@@ -105,6 +105,13 @@ def solve(i, w, a, d):
     already assigned. Generate satisfying assignments and return them. i is an instance, w is the   
     watchlist, and a is the assignment. 
     """
+    n = len(i.variables)
+    s = [0] * n # state
+    while True: # iterate until we find all solutions
+        if d == n:
+            yield a 
+            d -= 1
+            continue 
     if d == len(i.variables):
         yield a # when our instance's variables are accounted for by the variable array d
         return 
