@@ -1,3 +1,5 @@
+from collections import deque
+
 """
 Check for satisfiability.
 
