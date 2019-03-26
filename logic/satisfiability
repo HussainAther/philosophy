@@ -76,3 +76,10 @@ def watchlist(i):
     for c in i.clauses:
          w[c[0]].append(c) # keep track of which literal the clause is watching
     return w
+
+def updateW(i, w, f, a, v):
+    """
+    Update the watchlist w after literal f was just assigned False by making any clause
+    watching f something else. Return False if it's impossible (a clause contradicted the
+    current assignment).
+    """
