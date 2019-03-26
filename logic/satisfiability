@@ -38,18 +38,24 @@ class SAT(object):
                 i.addClause(line)
         return i
 
-    def litToString(self, literal):
+    def litToString(self, l):
         """
-        Convert a literal to a string.
+        Convert a literal l to a string.
         """ 
-        if literal & 1: # literal has the value of 1 boolean
+        if l & 1: # literal has the value of 1 boolean
              s = "~" # negate
         else:
              s = ""
-        return s + self.variables[literal >> 1] # convert literal to a bitwise operator 1 and add to our string s
+        return s + self.variables[l >> 1] # convert literal to a bitwise operator 1 and add to our string s
     
-    def cToString(self, clause):
+    def cToString(self, c):
         """
-        Convert clause to string
+        Convert clause c to string
         """
-        return "".join(self.litToString(i) for i in clause)
+        return "".join(self.litToString(i) for i in c)
+    
+    def aToSTring(self, a, brief=False, s=""):
+        """
+        Convert an assignment a to a string. Can use in brief form or with starting string s.
+        """ 
+        lit = [] # list of literals
