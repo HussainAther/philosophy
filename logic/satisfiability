@@ -47,3 +47,9 @@ class SAT(object):
         else:
              s = ""
         return s + self.variables[literal >> 1] # convert literal to a bitwise operator 1 and add to our string s
+    
+    def cToString(self, clause):
+        """
+        Convert clause to string
+        """
+        return "".join(self.litToString(i) for i in clause)
