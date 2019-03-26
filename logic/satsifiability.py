@@ -10,9 +10,10 @@ class SAT(object):
         self.variables = []
         self.var_table = [] # table of variables
         self.clauses = []
+
     def addclause(self, line):
         """
-
+        Add a clause to our list of clauses for each literal in the line of the file.
         """
         clause = []
         for i in line.split(): # for each literal in the line
