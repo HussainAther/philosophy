@@ -59,3 +59,10 @@ class SAT(object):
         Convert an assignment a to a string. Can use in brief form or with starting string s.
         """ 
         lit = [] # list of literals
+        for i, j in ((i,j) for i, j in zip(a, self.variables) if j.startswith(s): # for the variable values of our starting with string s
+            if i == 0 and not brief:
+                lit.append("~" + j)
+            elif i:
+                lit.append(j)
+        return " ".join(lit)
+        
