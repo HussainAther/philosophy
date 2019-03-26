@@ -44,3 +44,16 @@ to strongest (e..g, need all of the problem-specific information available). The
 uses combinatorial optimization that can vary from exploiting only permutations of cities to stronger methods
 that use nearest neighbor approaches that exploit variation among the domain. Stochastic techniques
 may explore the search space using probabilistic and heuristic information.
+
+We may either start with the strongest technique available and apply it until we weaken our techniques for 
+what we're looking for or start weak and increasingly strengthen our methods.
+
+## Domain-specific strategies
+
+### Function Optimization
+
+We can optimize functions globally or locally. Global seeks optimal structures or approximations over the entire
+problem domain scope while local focuses on optimal structures within constrained regions of the decisino variable
+search space (such as a single peak or valley within a defined area). Drawing from evolutionary computation, swarm intelligence,
+and similar sub-fields of computational intelligence, we may also optimize routines and methods using parallelization
+that can exploit similarities between parallel hardware to optimize communication to computation ratios (known as granularity). 
