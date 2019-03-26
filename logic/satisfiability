@@ -81,5 +81,17 @@ def updateW(i, w, f, a, v):
     """
     Update the watchlist w after literal f was just assigned False by making any clause
     watching f something else. Return False if it's impossible (a clause contradicted the
-    current assignment).
+    current assignment). i is our instance, w is the watchlist, f is the "flase_literal",
+    a is the assignment, and v means verbose.
     """
+    while w[f]:
+        c = w[f][0] # get the clause c
+        fa = False # found alternative
+        for al in c: # for each alternative in clause
+            b = al >> 1 # bitwise operator
+            c = alternative & 1 # if alternative is True
+            if a[b] is None or a[b] == a ^ 1: # if there is no assignment in bitwise form
+                fa = True # we have found an alternative
+                del w[f][0] # delete the false literal
+                break
+   
