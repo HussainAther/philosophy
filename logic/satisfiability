@@ -1,5 +1,10 @@
 """
 Check for satisfiability.
+
+
+We define SAT class and the following function solve as a method of determining if there is an interpretation that
+satisfies a given Boolean formula. If the variables of a given Boolean formula can be consistently replaced by the 
+values True or False in such a way that the formula evluates to True, then is is satisfiable.
 """
 
 class SAT(object):
@@ -133,3 +138,7 @@ def solve(i, w, a, d):
             s[d] = 0 
             a[d] = None
             d -= 1
+
+"""
+Often difficult problems can be reduced to SAT.
+"""
