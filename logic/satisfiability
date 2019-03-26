@@ -28,9 +28,17 @@ class SAT(object):
     
     @classmethod
     def file(cls, file):
+        """
+        Open the file and add our clauses from each line one by one.
+        """
         i = cls() # instance of first argument to class method file
         for line in file: # for each line in the file
             line = line.strip() # remove unnecessary trailing charactres 
             if len(line) > 0 and not line.startswith("#"):
                 i.addClause(line)
-        return i 
+        return i
+
+    def litToString(self, literal):
+        """
+        Convert a literal to a string.
+        """ 
