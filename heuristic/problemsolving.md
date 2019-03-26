@@ -28,3 +28,10 @@ controlled procedures with predictable emergent behaviors) or problem perspectiv
 a specific case to the general problem case with a functional or logical decomposition
 into its constituent parts). Generalization adn functional decomposition are important. Simplification
 and modularity can let us reduce the cost and complexicty of finding solutions.
+
+### Feature Overlap
+
+Overlap of features between combinations of systems and problems can be categorized into
+system overlap (suitability of one system to another, or comparability), problem overlap (suitability of 
+one problem to another, or transferability), and system-problem overlap (suitability of a system on
+a given problem, or applicability).
