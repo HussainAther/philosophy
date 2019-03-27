@@ -10,6 +10,11 @@ Usage:
 'python symmetry.py inputfile'
 """
 
+def tran(m): # Return the tranpose of some square matrix m
+    tr = [] # tranpose to be returned
+    n = m.shape[0] # get the side length of the matrix m
+    
+
 lengths = [] # length of each line
 matr = [] # matrix of the file's content 
 
