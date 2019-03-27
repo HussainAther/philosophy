@@ -38,3 +38,9 @@ if sys.argv[1] == "1":
 elif sys.arv[2] == "2":
     s = open(sys.argv[1]).read().split() # split the input data into some split data s
     matr = np.array(s, dtype=np.uint8)
+
+diff = 0
+for i in list(set(matr) - set(tr(matr))):
+     diff += 1
+     print("Difference detected: % " % i)
+print("Number of differences: % " % diff)
