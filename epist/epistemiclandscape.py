@@ -16,7 +16,13 @@ into population biology that we can represent fitness values of genotypes in ter
 an abstract landscape in which a particular genotypes corresponds to a point in a highly
 multidimensional landscape. The fitness value of the genotype is its height and nearby
 points are accessible via mutation.
+
+Weisberg and Muldoon began with a 101 x 101 landscape with two peaks.
 """
 
+l = np.zeros((101, 101)) # lattice used in the landscape
 
-
+"""
+We define epistemic success as the time required to visit the two peaks, and epistemic
+progress as the percent of the significant reginos explored after a given time.
+"""
