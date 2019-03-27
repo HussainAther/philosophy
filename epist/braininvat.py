@@ -30,4 +30,4 @@ def knowP(P):
     of reasoning was the premise for the movie "The Matrix." 
     """
     if P in knowledge: # if we know P. Here we're using Python's 
-         return 
+         return("I don't know that I'm not a brain in a vat.") 
