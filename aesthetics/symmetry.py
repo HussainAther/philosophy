@@ -7,7 +7,11 @@ mathematics and science.
 
 Usage:
 
-'python symmetry.py inputfile'
+'python symmetry.py i m'
+
+in which i is the input file and m is the method (1 or 2).
+Method 1 is for reading in an input file line by line and 2
+is for some data separated by some delimiter (such as a tab or comma). 
 """
 
 def tran(m): # Return the tranpose of some square matrix m
@@ -31,4 +35,4 @@ matr = np.array(matr)
 
 # Method 2: convert some data set into a 2D array
 s = open(sys.argv[1]).read().split() # split the input data into some split data s
-a = np.array(s, dtype=np.uint8)
+matr = np.array(s, dtype=np.uint8)
