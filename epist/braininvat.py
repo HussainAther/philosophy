@@ -11,7 +11,7 @@ def simplenotbiv():
     on whether we have hands.
     """
     if "biv" not in knowledge: # If I don't know I'm not a biv
-        return("I don't know that I have hands.")
+        print("I don't know that I have hands.")
      
 
 """
@@ -30,4 +30,6 @@ def knowP(P):
     of reasoning was the premise for the movie "The Matrix." 
     """
     if P in knowledge: # if we know P. Here we're using Python's 
-         return("I don't know that I'm not a brain in a vat.") 
+         print("I know I'm not a brain in a vat.")
+    print("I don't know that P.")
+    print("I don't know that I'm not a brain in a vat.")
