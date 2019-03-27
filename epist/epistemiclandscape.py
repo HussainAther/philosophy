@@ -33,3 +33,8 @@ l = np.zeros((101, 101)) # lattice used in the landscape
 We define epistemic success as the time required to visit the two peaks, and epistemic
 progress as the percent of the significant reginos explored after a given time.
 """
+
+def genFitnessParams():
+    """
+    Generate fitness parameters for each patch.
+    """
