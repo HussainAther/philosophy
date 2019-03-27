@@ -1,3 +1,5 @@
+import numpy as np
+
 """
 In researching how scientists form conclusions and how fast various groups
 of researchers can discover significan results, philosophers Weisberg and Muldoon
@@ -9,3 +11,6 @@ are doing, (2) scientists follow methods of research their predecessors used, an
 scientists take into account results of others such that, if a method has already been
 explored, they adopt a different one.
 """
+
+
+
