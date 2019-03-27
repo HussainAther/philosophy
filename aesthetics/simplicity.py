@@ -16,4 +16,5 @@ def simplicity(f):
     simplicity (on the assumption it can be computed using object-oriented 
     programming to begin with). It's not to be taken seriously.
     """
-    return sig = signature(f)
+    return signature(f)
+
