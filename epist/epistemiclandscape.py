@@ -39,4 +39,9 @@ def genFitnessParams(N=101):
     Generate fitness parameters for each patch. 
     """
     np.random.seed(1234)
-     
+   
+
+"""
+Envisioning science as a landscape, we can imagine different forms of cognitive labor
+using marginal contribution/reward (MCR) models.
+""" 
