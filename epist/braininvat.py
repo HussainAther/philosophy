@@ -13,10 +13,13 @@ def simplenotbiv():
 
 
 """
-Pretty simple, but doesn't tell us much. 
+Pretty simple, but doesn't tell us much. Let's form a skeptical argument
+about how strong the biv scenario is on our access to knowledge. 
 """
 
-def knowP():
+knowledge = ["P"] # what we know
+
+def knowP(P):
     """
     Skeptical argument for some belief or claim p on the external world. 
     If you can't be sure that you are not a brain in a vat,
@@ -25,4 +28,5 @@ def knowP():
     Descartes outlined this method of reasoning, and this line
     of reasoning was the premise for the movie "The Matrix." 
     """
-    if 
+    if P i knowledge: # if we know P. Here we're using Python's 
+          
