@@ -15,5 +15,7 @@ matr = [] # matrix of the file's content
 
 with open(sys.argv[1]) as file: # open up some file the user inputs
     for line in file:
-        lengths.append(len(line))
-        matr[
+        lengths.append(len(line)) # append the length of each line
+        matr.append(line.split()) # append each line in split form to our matrix
+
+matr = np.array(matr)
