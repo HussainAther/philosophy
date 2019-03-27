@@ -44,4 +44,14 @@ def genFitnessParams(N=101):
 """
 Envisioning science as a landscape, we can imagine different forms of cognitive labor
 using marginal contribution/reward (MCR) models.
+
+We can mathematically represent epistemic landscape using agent-based models of individual
+scientists or research groups.
 """ 
+
+def HE():
+    """
+    Hill climbing with experimentation. Scientist agents following this rule (known as "controls")
+    only keep track of the significance of their current location and the significance of their 
+    previous location on the epistemic landscape.
+    """
