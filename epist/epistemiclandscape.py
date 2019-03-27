@@ -49,9 +49,20 @@ We can mathematically represent epistemic landscape using agent-based models of 
 scientists or research groups.
 """ 
 
-def HE():
+def HE(x):
     """
-    Hill climbing with experimentation. Scientist agents following this rule (known as "controls")
+    For some scientist x, Hill climbing with experimentation. Scientist agents following this rule (known as "controls")
     only keep track of the significance of their current location and the significance of their 
     previous location on the epistemic landscape.
     """
+    next = x.pos + (1,1)  # next is move forward one patch
+    if s[next] > s[x.pos]: # is the significance of the new patch greater than that of the previous one?
+        x.prev = x.pos
+        x.pos = next # move forward one patch
+    elif s[next] >= s[x.pos]: # is it equally as significant?   
+        if np.random.random() <= .02:
+            x.prev = x.pos 
+            x.pos = next
+    else:
+        x.pos = x.prev   
+             
