@@ -34,7 +34,9 @@ We define epistemic success as the time required to visit the two peaks, and epi
 progress as the percent of the significant reginos explored after a given time.
 """
 
-def genFitnessParams():
+def genFitnessParams(N=101):
     """
-    Generate fitness parameters for each patch.
+    Generate fitness parameters for each patch. 
     """
+    np.random.seed(1234)
+     
