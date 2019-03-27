@@ -17,6 +17,13 @@ an abstract landscape in which a particular genotypes corresponds to a point in 
 multidimensional landscape. The fitness value of the genotype is its height and nearby
 points are accessible via mutation.
 
+We use a variation of the NK model, a mathematical model used as a "tunably rugged"
+fitness landscape. This "tunable ruggedness" means the overall size of the landscape
+and the number of its local hills and valley can be adjusted via changes to the parameters
+N and K. The NK model defines a combinatorial phase space with every string (from an alphabet)
+of length N such that each string has a scalar value (fitness). The contribution from each
+locus in general depends on its state and the state of K other loci.
+
 Weisberg and Muldoon began with a 101 x 101 landscape with two peaks.
 """
 
