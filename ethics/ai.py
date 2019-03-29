@@ -10,3 +10,9 @@ according to the performance measure U of the agent function f that operates on 
 
 f_opt = max V(f, E, U)
 """
+
+def fopt(V, E, U):
+    """
+    Maximize our function fopt by maximizing expected utility in the corresponding environment.
+    """
+    return max(V(f0, E, U))
