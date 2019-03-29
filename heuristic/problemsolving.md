@@ -67,7 +67,7 @@ workstations to complete large-scale distributed tasks such as optimization.
 
 Meta-optimization seesk to approach the next level by iterativelly generating inductive models (multiple restart optimization) and
 optimizing parameters of a process to generate an inductive model of an optimization problem. Optimizing a search process could
-include self-adaptation of mutation parameters (setp sizes) in teh evolutionary strategies and evolutionary programming approaches.
+include self-adaptation of mutation parameters (setp sizes) in the evolutionary strategies and evolutionary programming approaches.
 
 ## Function approximation
 
