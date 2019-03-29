@@ -48,7 +48,6 @@ Education:
 + Terry Eagleton “The Slow Death of the University”
 + Pablo Freire “Pedagogy of the Oppressed”
 + Abraham Flexner “Flexner Report” (for Medical education)
-+ Allan Bloom “Closing of the American Mind: How Higher Education Has Failed Democracy and Impoverished the Souls of Today's Students“
 + Arthur W. Foshay “The Curriculum Matrix: Transcendence and Mathematics”
 + William Deresiewicz “Excellent Sheep”
 + Jackson Lears “Liberal Arts vs. Neoliberalism”
