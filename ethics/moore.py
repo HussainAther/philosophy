@@ -5,3 +5,9 @@ into it), explicit (can weigh inputs in a given ethical framework to
 choose an action), or full agency (can make ethical judgments and 
 defend its reasoning).
 """
+
+def implicit():
+    """
+    An ethical agent that acts with implicit ethical constraints.
+    """
+    return True 
