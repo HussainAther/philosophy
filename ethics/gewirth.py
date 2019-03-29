@@ -20,7 +20,9 @@ class PPA():
         self.purpose = purpose
 
     def pgc():
+       	"""
+   	For some PPA we outline its irght to freedom and well-being.
     	"""
-   	 For some PPA we outline its irght to freedom and well-being.
-    	"""
-      
+        P1 = True # P1 is "I act voluntarily on purpose."
+        if P1:
+            P1a = True # "I am a PPA." 
