@@ -20,3 +20,9 @@ def explicit(f):
     for i in f:
         x = not x 
     return x
+  
+def fullagency(x):
+    """
+    I have no idea how to show an example of full agency in Python.
+    """
+    return True
