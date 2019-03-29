@@ -12,15 +12,15 @@ class PPA():
     For a PPA (ppa) we define features as it relates to rights and freedom.
     """
     def __init__(self, name, context, purpose):
+        """
+        Initialize with an arbitrarily chosen name of an individual, context, and purpose.
+        """
         self.name = name
         self.context = context
         self.purpose = purpose
 
-def pgc():
-    """
-    For some PPA we outline its irght to freedom and well-being.
-    """
-    c = np.random.random() # arbitrarily chosen context
-    i = np.random.random() # arbitrarily chosen individual
-    e = np.random.random() # arbitrarily chosen purpose
+    def pgc():
+    	"""
+   	 For some PPA we outline its irght to freedom and well-being.
+    	"""
       
