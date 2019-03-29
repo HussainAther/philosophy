@@ -11,4 +11,9 @@ def arrayorder(a, method=oop):
         oop = Add one point for each array element that shouldn't be at the index. 
         boolean = If the array is sorted, return True. Otherwise return False.
     """
-    
+    if method == boolean:
+        prev = a[0]
+        for i in a:
+            if i < prev:
+                 return False
+        return True
