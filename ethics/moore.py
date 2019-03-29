@@ -11,3 +11,12 @@ def implicit():
     An ethical agent that acts with implicit ethical constraints.
     """
     return True 
+
+def explicit(f):
+    """
+    For a list of inputs f, choose an action.    
+    """
+    x = True
+    for i in f:
+        x = not x 
+    return x
