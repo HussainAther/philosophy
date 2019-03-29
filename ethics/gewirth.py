@@ -11,7 +11,10 @@ class PPA():
     """
     For a PPA (ppa) we define features as it relates to rights and freedom.
     """
-    def __init__:
+    def __init__(self, name, context, purpose):
+        self.name = name
+        self.context = context
+        self.purpose = purpose
 
 def pgc():
     """
