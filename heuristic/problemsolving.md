@@ -16,7 +16,7 @@ optimization algorithms perform equally well) can tell us generally that there a
 of a given strategy with respect to its feature overlap with the attributes of a given problem
 domain. We can describe the appropriateness (can the approach address the problem), feasability
 (availability of resoucres and related efficiency concerns), and flexibility (addressing unexpected
-or unintended effects). We can address issues of suitability using (1) the systemic elicitatino of 
+or unintended effects). We can address issues of suitability using (1) the systemic elicitation of 
 system and problem features and (2) consideration of overlap of problem-problem, algorithm-algorithm,
 and problem-algorithm overlap of features sets.
 
