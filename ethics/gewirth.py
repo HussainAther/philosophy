@@ -9,5 +9,7 @@ For prospective purposive agents (PPA) we can derive claims.
 
 def pgc():
     """
+    For some PPA we outline its irght to freedom and well-being.
     """
-    c = np.random.random() 
+    c = np.random.random() # arbitrarily chosen context
+    i = np.random.random() # arbitrarily chosen individual 
