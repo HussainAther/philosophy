@@ -2,7 +2,7 @@ import numpy as np
 
 """
 In researching how scientists form conclusions and how fast various groups
-of researchers can discover significan results, philosophers Weisberg and Muldoon
+of researchers can discover significant results, philosophers Weisberg and Muldoon
 created 3D "epistemic landscapes" in which the x and y axes of a graph represent
 research programs with the vertical z axis the scientific importance of the results
 attainable by the research program. They created algorithms for three processes:
