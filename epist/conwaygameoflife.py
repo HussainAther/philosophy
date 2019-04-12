@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use("TkAgg")
 import scipy.ndimage	
 import numpy as np
 import matplotlib.pyplot as plt
@@ -15,13 +17,13 @@ a = np.random.random_integers(0, 1, (n, n))
 
 # we use convolution (from digital image processing) to
 # compute functions based on an image's pixels
-neighbors = scipy.ndimage.filters.convolve(array, kernel)
+neighbors = scipy.ndimage.filters.convolve(a, w, mode=m)
 
 def step(a, w, m):
     """
     Step forward in time for some array a with weights w and mode m.
     """
-    con = scipy.ndimage.filters.convolve(a, w, m)
+    con = scipy.ndimage.filters.convolve(a, w, mode=m)
 
 def update(a, cmap):
     """
@@ -45,8 +47,9 @@ plt.xticks([])
 plt.yticks([])
 pcolor = None
 
-steps = 10 
+steps = 10
 fig.canvas.manager.window.after(1000, animate_callback)
+plt.show()
 
 """
 As Conway's GoL runs, patterns (Methuselahs) emerge. From most initial conditions,
