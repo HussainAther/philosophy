@@ -2,7 +2,7 @@ import sys
 import os
 
 """
-How python is your code? 
+How pythonic is your code? 
 
 Compute a Python score based on how close code is to the principles
 given by the Zen of Python.
