@@ -14,6 +14,6 @@ def realism(t, a):
     """
     For an array of true values t and an approximate of some sort a, return how realist they are.
     This is an incredibly crude method of computing realism (if that were even possible) that
-    shouldn't be used in any serious philosophical analysis.
+    shouldn't be used in any serious philosophical or scientific analysis.
     """
     return (set(t) * set(a))
