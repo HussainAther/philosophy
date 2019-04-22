@@ -39,18 +39,6 @@ Nature – http://www.nature.com/
 
 Science – http://www.sciencemag.org/
 
-The Scientist – http://www.thescientist.comNature – http://www.nature.com/
-
-Science – http://www.sciencemag.org/
-
-The Scientist – http://www.thescientist.comNature – http://www.nature.com/
-
-Science – http://www.sciencemag.org/
-
-The Scientist – http://www.thescientist.comNature – http://www.nature.com/
-
-Science – http://www.sciencemag.org/
-
 The Scientist – http://www.thescientist.com
 
 ## Ethical theory
