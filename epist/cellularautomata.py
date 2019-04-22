@@ -74,7 +74,6 @@ Every reasonable model of computation is Turing complete. This lead to the Churc
 Thesis which (in rough, informal language) defined what it meant to be computable.
 """
 
-
 """
 Conway's Game of Life is an example of 2-D CA 
 
