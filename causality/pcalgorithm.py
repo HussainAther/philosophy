@@ -16,6 +16,8 @@ after its authors, Peter and Clark) to construct the graph:
 
 def pcalg(g, n):
     """
-    For some undirected graph g on V with number of neighbors n.
+    For some undirected graph g on V with number of neighbors n, we use the PC algorithm
+    to induce a partially directed causal graph from independence constraints embodied
+    in a database of past case data.
     """
      
