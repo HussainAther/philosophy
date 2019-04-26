@@ -25,14 +25,21 @@ def depend(a, b, x):
 
 def pcalg(g, n):
     """
-    For some undirected graph g (dictionary with keys as nodes and values as edges 
-    the nodes connect to) on V with number of neighbors n, we use the PC algorithm 
+    For some undirected graph g (dictionary with keys as nodes and values as a list of the nodes 
+    which the nodes connect to) on V with number of neighbors n, we use the PC algorithm 
     to induce a partially directed causal graph from independence constraints embodied
     in a database of past case data.
     """
+    # step 2. remove edges without the conditional dependence
     for i in range(n+1): # as described by step 2 above.
         for j in g: # for each key (node) in the dictionary g
             for k in g[j]: # for each value (connecting edge to the node) in the key j
                 if depend(j, k, i):
                     g[j].remove(k)           
-     
+    for i in g: # for each key (node) in the dictionary g
+        for j in g[i]: # for each connecting node
+            if g[j]:
+                for k in g[j]:
+                    if k not in g[i]: # if k is not adjacent to i
+                        g[k].append(j) 
+ 
