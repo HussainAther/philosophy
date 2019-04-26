@@ -33,5 +33,6 @@ def pcalg(g, n):
     for i in range(n+1): # as described by step 2 above.
         for j in g: # for each key (node) in the dictionary g
             for k in g[j]: # for each value (connecting edge to the node) in the key j
-                
+                if depend(j, k, i):
+                    g[j].remove(k)           
       
