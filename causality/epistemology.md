@@ -21,3 +21,10 @@ universal laws, and are to be discovered via Popper's general scheme for scienti
 (ii) deduce their consequences, rejecting the laws and returning to step (i) if these consequences are falsified 
 by evidence. Popper thus combines what is known as the covering-law account of causal explanation with a hypothetico
 -deductive account of learning causal relationships.
+
+## Inductive learning
+
+Francis Bacon developed a rather different account of scientific learning. First one makes a large amount of careful 
+observations of the phenomenon to be explained, by performing experiments if need be. One compiles a table of positive 
+instances (cases in which the phenomenon occurs), a table of negative instances (cases in which the phenomenon does not 
+occur), and a table of partial instances (cases in which the phenomenon occurs to a certain degree).
