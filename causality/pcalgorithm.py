@@ -19,6 +19,9 @@ def depend(a, b, x):
     For some edge a - b, if there is a conditional dependence on x, return True.
     Otherwise return False.
     """
+    if x in list(a, b):
+        return True
+    return False  
 
 def pcalg(g, n):
     """
