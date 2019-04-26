@@ -28,3 +28,10 @@ Francis Bacon developed a rather different account of scientific learning. First
 observations of the phenomenon to be explained, by performing experiments if need be. One compiles a table of positive 
 instances (cases in which the phenomenon occurs), a table of negative instances (cases in which the phenomenon does not 
 occur), and a table of partial instances (cases in which the phenomenon occurs to a certain degree).
+
+The mainstream of inductivist artificial intelligence (AI) approaches have the following feature in common. In order 
+that causal relationships can be gleaned from statistical rela- tionships, the approaches assume the Causal Markov 
+Condition holds of physical causality and physical probability.205 Of course a causal net contains the Causal Markov 
+Condition as an inbuilt assumption. In the case of structural equation models the Causal Markov Condition is a 
+consequence of the representation of each variable as a function just of its direct causes and an error variable, 
+given the further assumption that all error variables are probabilistically independent.
