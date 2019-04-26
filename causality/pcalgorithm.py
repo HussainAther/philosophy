@@ -14,6 +14,12 @@ Peter and Clark) to construct the graph:
     (ii) A -> B for A - B if there is a chain of arrows from A to B.
 """
 
+def depend(a, b, x):
+    """
+    For some edge a - b, if there is a conditional dependence on x, return True.
+    Otherwise return False.
+    """
+
 def pcalg(g, n):
     """
     For some undirected graph g (dictionary with keys as nodes and values as edges 
@@ -21,6 +27,8 @@ def pcalg(g, n):
     to induce a partially directed causal graph from independence constraints embodied
     in a database of past case data.
     """
-    for i in range(n+1):
-        for k in g:
-         
+    for i in range(n+1): # as described by step 2 above.
+        for j in g: # for each key (node) in the dictionary g
+            for k in g[j]: # for each value (connecting edge to the node) in the key j
+                
+      
