@@ -25,6 +25,25 @@ epistemic state and physical if a feature of the world external to an agent. An 
 is subjective if two agents with the same background knowledge can disagree as to causal 
 relationships yet both be correct, and objective if causal relationships are not a matter of arbitrary choice. 
 
-The mechanistic account of causality aims to understand the physical processes that link cause and effect, interpreting causal statements as saying something about such processes. Wesley Salmon and Phil Dowe are two influential proponents of this type of position. They argue that a causal process is one that transmits or possesses a conserved physical quantity, such as energy-mass, linear momentum or charge, from start (cause) to finish (effect).
-The mechanistic account is clearly a physical interpretation of causality, since it identifies causal relationships with physical processes. Such a notion of cause relates single cases, since only they are linked by physical processes, although causal regularities or laws may be induced from single-case causal connections. Causal mechanisms are understood objectively: if two agents disagree as to causal connections then at least one is wrong.
-The main limitation of this approach is its rather narrow applicability: most of our causal assertions are apparently unrelated to the physics of conserved quantities. While it may be possible that physical processes such as those along which quantities are conserved could suggest causal links to physicists, such pro- cesses are altogether too low-level to suggest causal relationships in economics, for instance. One could maintain that the economists’ concept of causality is the same as that of physics and is reducible to physical processes but one would be forced to accept that the epistemology of such a concept is totally unrelated to its metaphysics. This is undesirable: if the grounds for knowledge of a causal connection have little to do with the nature of the causal connection as it is analysed then one can argue that it cannot be the causal connection that we have knowledge of, but something else.
+The mechanistic account of causality aims to understand the physical processes that link 
+cause and effect, interpreting causal statements as saying something about such processes. 
+Wesley Salmon and Phil Dowe are two influential proponents of this type of position. 
+They argue that a causal process is one that transmits or possesses a conserved physical quantity, 
+such as energy-mass, linear momentum or charge, from start (cause) to finish (effect).
+
+The mechanistic account is clearly a physical interpretation of causality, since it 
+identifies causal relationships with physical processes. Such a notion of cause relates 
+single cases, since only they are linked by physical processes, although causal regularities 
+or laws may be induced from single-case causal connections. Causal mechanisms are understood 
+objectively: if two agents disagree as to causal connections then at least one is wrong.
+
+The main limitation of this approach is its rather narrow applicability: most of our causal 
+assertions are apparently unrelated to the physics of conserved quantities. While it may be 
+possible that physical processes such as those along which quantities are conserved could 
+suggest causal links to physicists, such pro- cesses are altogether too low-level to suggest 
+causal relationships in economics, for instance. One could maintain that the economists' 
+concept of causality is the same as that of physics and is reducible to physical processes 
+but one would be forced to accept that the epistemology of such a concept is totally 
+unrelated to its metaphysics. This is undesirable: if the grounds for knowledge of a 
+causal connection have little to do with the nature of the causal connection as it is analyzed 
+then one can argue that it cannot be the causal connection that we have knowledge of, but something else.
