@@ -37,16 +37,17 @@ def pcalg(g, n):
                 if depend(j, k, i):
                     g[j].remove(k) 
     gn = {} # new graph gn with directed edges          
-    for i in g: # for each key (node) in the dictionary g
-        for j in g[i]: # for each connecting node
-            if g[j]: 
-                for k in g[j]:
-                    if k not in g[i]: # if k is not adjacent to i
-                        if not gn[i]: 
-  		            gn[i] = [j]
+    for A in g: # for each key (node) in the dictionary g
+        for B in g[A]: # for each connecting node
+            if g[B]: 
+                for C in g[B]:
+                    if k not in g[A]: # if C is not adjacent to A
+                        if not gn[A]: # add A -> B to our new dictionary gn
+  		            gn[A] = [B]
  		        else:
-                            gn[i].append(j)
-                        if not gn[k]:
-                            gn[k] = [j]
+                            gn[A].append(B)
+                        if not gn[C]: # add C -> B
+                            gn[C] = [B]
                         else:
-                            gn[k].append(j)
+                            gn[C].append(B)
+    return gn
