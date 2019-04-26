@@ -35,4 +35,4 @@ def pcalg(g, n):
             for k in g[j]: # for each value (connecting edge to the node) in the key j
                 if depend(j, k, i):
                     g[j].remove(k)           
-      
+     
