@@ -1,3 +1,9 @@
+import pystan
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+import numpy as np
+
 """
 We can use a Bayesian approach to induce causal relationship. We look for a causal
 graph that maximizes the posterior probability
@@ -10,3 +16,4 @@ p(D|C) = integral of p(D|C,S_C)p(S_C)dS_C
 
 with probability specifications S_C that accompany C in a Bayesian net.	
 """
+
