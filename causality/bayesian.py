@@ -17,3 +17,22 @@ p(D|C) = integral of p(D|C,S_C)p(S_C)dS_C
 with probability specifications S_C that accompany C in a Bayesian net.	
 """
 
+sns.set() # aesthetic
+np.random.seed(101)
+
+ # Define the model using a string
+model = """
+data {
+    int<lower=0> N;
+    vector[N] x;
+    vector[N] y;
+}
+parameters {
+    real alpha;
+    real beta;
+    real<lower=0> sigma;
+}
+model {
+    y ~ normal(alpha + beta * x, sigma);
+}
+"""
