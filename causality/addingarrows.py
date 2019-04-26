@@ -15,3 +15,8 @@ algorithm:
    We stop when no more arrows can be added and output the resulting Bayesian
    nets. 
 """
+
+def aaa(g):
+    """
+    Adding-arrows algorithm on graph g (dictionary of nodes connected to edges).
+    """
