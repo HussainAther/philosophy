@@ -126,3 +126,4 @@ S_C (parameters) create a Bayesian net from which we can calculate p(D|C, S_C).
 We assume the probability specifiers themselves are probabilistically independent 
 and that their prior distribution takes the form of a Dirichlet distribution. 
 """
+
