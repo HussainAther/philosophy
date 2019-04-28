@@ -200,13 +200,12 @@ classes become smaller and smaller. Phenomenal families of mental states emerge.
 
 On a metaphysical level, mental and physical epistemic limits describe the undivided whole as an
 ontic (physical factual existence) dimesnion. They reminesce of philosopher Plato's abstract perfect ideas and
-philosopher Immanuel Kant's things-in-thesmelves (empirically inaccessible in
-principle and specifically mute). The mind-matter problem causes an emergence of mind-matter correlations
-as direct and immediate consequence of the ontic, undivided whole that can't be further divided without
-introducing more distinctions. Many describe determinism as a feature of ontic descriptions of states
-and observables while stochasticity uses epistemic descriptions. Mathematical models of classical
-opint mechanics are most common examples of deterministic descriptions and three properties of them
-are important. (1) The differential dynamics mean the system's evolution obeys a differential equation
+philosopher Immanuel Kant's things-in-thesmelves (empirically inaccessible in principle and specifically mute).
+The mind-matter problem causes an emergence of mind-matter correlations as direct and immediate consequence
+of the ontic, undivided whole that can't be further divided without introducing more distinctions. Many describe
+determinism as a feature of ontic descriptions of states and observables while stochasticity uses epistemic descriptions.
+Mathematical models of classical point mechanics are most common examples of deterministic descriptions and three
+properties of them are important. (1) The differential dynamics mean the system's evolution obeys a differential equation
 in a space of ontic states. (2) The unique evolution of the system means initial and boundary conditions
 give a unique trajectory. (3) The value determinateness assumes that any state can be described with arbitrarily small error.
 These three features define a hierarchy ofr the contextual emergence of determinstic descriptions assuming
@@ -215,7 +214,7 @@ created by a vector field obeying (1) pass through points whose distance is stab
 for almost every intiial condition as a necessary condition of determinism that defines a phase flow with weak
 causality. To prove (3), we need strong causality as a sufficient condition. The deterministc dynamics
 of Kolmogorov flow implement microscopic chaos as a stability condition. It's also possible a continuous stochastic
-process that fulfills the Markov criterion can lead to a determnistic "mean-field equation." "
+process that fulfills the Markov criterion can lead to a determnistic "mean-field equation." 
 
 Different descriptive levels can correlate with different degrees of granularity. Lower-level descriptions
 address systems in terms of micro-properties while more global macro-properties account for higher-level descriptions.
