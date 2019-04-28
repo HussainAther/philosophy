@@ -52,4 +52,9 @@ those individual states at Li that fall into the same equivalence class at Ls ar
 for the chosen context. In this sense, the stability condition determining the contextual 
 partition at Ls is also a relevance condition.
 
-
+The interplay of context and stability across levels of description is the core of contextual 
+emergence. Its proper implementation requires an appropriate definition of individual and statistical 
+states at these levels. This means in particular that it would not be possible to construct 
+emergent observables in Hi from Li directly, without the intermediate step to Ls. And it would 
+be equally impossible to construct these emergent observables without the downward confinement 
+arising from higher-level contextual constraints.
