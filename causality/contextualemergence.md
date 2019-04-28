@@ -64,7 +64,7 @@ The first step of the contextual emergence process (Li -> Ls) describes statisti
 states, and the second gives individual thermal states from statistical mechanical states. Other examples may
 include emergence of geometric optics from electrodynamics, electrical engineering features from electrodynamics,
 chirality from quantum mechanics, and diffusion or friction of a quantum particle in a thermal medium. Neuroscientists
-have even found use in contextually emerging cognitive states from nerual correlates.
+have even found use in contextually emerging cognitive states from neural correlates.
 
 ## Hodgkin-Huxley equations
 
