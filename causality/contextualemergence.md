@@ -268,10 +268,10 @@ Philosopher Willard Van Oramn Quine introduced the ontological relatively that, 
 ontology that fulfills a given descriptive theory, there is more than one. Philosopher Hilary Putnam developed
 a related kind of ontological relativity, first called internal realism, and later referred to as pragmatic realism.
 
-We may apply Quine's ideas to concrete scientifci descriptions, their relationships with one another, and their
+We may apply Quine's ideas to concrete scientific descriptions, their relationships with one another, and their
 referents. A descriptive framework can be ontic or epistemic depending on which other framework it relates to.
 An engineer may consider wires of an electrical circuit to be ontic, but a solid-state physicist may consider them epistemic.
-We can use the relevance criteria to distinguish between context-specific decsriptions and avoid pitfalls of reductionism.
+We can use the relevance criteria to distinguish between context-specific descriptions and avoid pitfalls of reductionism.
 We create a subtle and more flexible framework while still restricting ourselves to the premises and limits of the contextually emergent model.
 
 ## Strong and weak emergence
