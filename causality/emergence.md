@@ -123,3 +123,13 @@ in terms of contextual emergence: emergence of geometric optics from electrodyna
 of electrical engineering concepts from electrodynamics, emergence of chirality 
 as a classical observable from quantum mechanics, emergence of diffusion and friction of a 
 quantum particle in a thermal medium, emergence of hydrodynamic properties from many-particle theory. 
+
+If descriptions at L and H are well established, as it is the case in the preceding example, 
+formally precise interlevel relations can be set up fairly straightforwardly. The situation 
+becomes more challenging, though, when no such established descriptions are available, e.g. 
+in cognitive neuroscience or consciousness studies, where relations between neural and mental 
+descriptions are considered. Even there, contextual emergence has been proven viable for the 
+construction of emergent mental states (e.g., the identification of neural correlates of 
+conscious states). That brain activity provides necessary but not sufficient conditions for 
+mental states, which is a key feature of contextual emergence, becomes increasingly clear 
+even among practicing neuroscientists.
