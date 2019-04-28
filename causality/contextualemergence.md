@@ -260,7 +260,7 @@ not levels of nature: It addresses questions of epistemology rather than ontolog
 who advocated that ontology needs to regain more significance in science, it would be desirable to 
 know how ontological considerations might be added to the picture that contextual emergence provides.
 
-Various granularity degrees raises quesitons of descirptions with finer grains as they relate to the fundamental
+Various granularity degrees raises questions of descriptions with finer grains as they relate to the fundamental
 nature of systems when compared to coarser grains. The majority of scientists and philosophers of science answer
 believe this, so there's one fundamental ontolgoy that elementary particle physics result from reducing
 other descriptive levels. This reductive premise produced critical assessments and alternatiev proposals.
