@@ -71,3 +71,16 @@ point mechanics to statistical mechanics, essentially based on the formation of 
 Particular properties of a many-particle system are defined in terms of a statistical ensemble description 
 (e.g., as moments of a many-particle distribution function) which refers to the statistical state of 
 an ensemble (Ls) rather than the individual states of single particles (Li).
+
+An example for an observable associated with the statistical state of a many-particle system is its 
+mean kinetic energy, which can be calculated from the the Maxwell-Boltzmann distribution of the momenta 
+of all N particles. The expectation value of kinetic energy is defined as the limit of its mean value 
+for infinite N.
+
+Step (2) is the step from statistical mechanics to thermodynamics. Concerning observables, this is the 
+step from the expectation value of a momentum distribution of a particle ensemble (Ls) to the temperature 
+of the system as a whole (Hi). In many standard philosophical discussions this step is mischaracterized 
+by the false claim that the thermodynamic temperature of a gas is identical with the mean kinetic energy 
+of the molecules which constitute the gas. A proper discussion of the details was not available for a 
+long time and has been achieved by Haag et al. (1974) and Takesaki (1970) in the framework of quantum 
+field theory.
