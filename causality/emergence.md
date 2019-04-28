@@ -198,24 +198,21 @@ The psychophysical neutral reality is the trivial, completely symmetric partiito
 We can decompose this to give rise to more and more refined partiitons in which symmetries are broke nadn equivalence
 classes become smaller and smaller. Phenomenal families of mental states emerge.
 
-On a metaphysical level,
-
-At the metaphysical level, the mental and the physical remain epistemic, but the undivided whole 
-is added as an ontic dimension. This reminds one of Plato's ideas or Kant's things-in-themselves, 
-which are empirically inaccessible in principle and, in this sense, scientificallly mute. Indeed, 
-an undivided whole cannot be further characterized without introducing distinctions that break up 
-the wholeness. Yet, it provides one asset in the metaphyscis of the mind-matter problem that no 
-other philosophical position provides: the emergence of mind-matter correlations as a direct and 
-immediate consequence.
-
-Determinism is often understood as a feature of ontic descriptions of states and observables 
-whereas stochasticity refers to epistemic descriptions . Mathematical models 
-of classical point mechanics are most common examples of deterministic descriptions, and three 
-properties of these descriptions are particularly important: (1) differential 
-dynamics, (2) unique evolution, and (3) value determinateness. (1) means essentially that the 
-system's evolution obeys a differential equation (or some similar algorithm) in a space of 
-ontic states. (2) says that for given initial and boundary conditions there is a unique 
-trajectory. (3) assumes that any state be described with arbitrarily small (non-zero) error.
+On a metaphysical level, mental and physical epistemic limits describe the undivided whole as an
+ontic (physical factual existence) dimesnion. They reminesce of Plato's ideas and Kant's things-in-thesmelves (empirically inaccessible in
+principle and specifically mute). The mind-matter problem causes an emergence of mind-matter correlations
+as direct and immediate consequence of the ontic, undivided whole that can't be further divided without
+introducing more distinctions. Many describe determinism as a feature of ontic descriptions of states
+and observables while stochasticity uses epistemic descriptions. Mathematical models of classical
+opint mechanics are most common examples of deterministic descriptions and three properties of them
+are important. (1) The differential dynamics mean the system's evolution obeys a differential equation
+in a space of ontic states. (2) The unique evolution of the system means initial and boundary conditions
+give a unique trajectory. (3) The value determinateness assumes that any state can be described with arbitrarily small error.
+These three features define a hierarchy ofr the contextual emergence of determinstic descriptions assuming
+(1) is a necessary condition for determinism, (2) can be proven under sufficient condition that trajectories
+created by a vector field obeying (1) pass through points whose distacne is stable under small pertubrations. We assume (2)
+for almost every intiial condition as a necessary condition of determinism that defines a phase flow with weak
+causality. To prove (3), we need strong causality as a sufficient condition.
 
 These three points are not independent from each other but define a hierarchy for the contextual 
 emergence of deterministic descriptions assuming (1) as a necessary condition for determinism, 
