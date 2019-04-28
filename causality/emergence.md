@@ -52,24 +52,13 @@ we can find mean kinetic energy, Gibbs free energy, entropy, and other statistic
 
 We can observe expectation values of momenta distrubitioins of particle ensembles to calculate temperature
 of the system as a higher-level function (Hi) on the assumption the system is in equilibrium. The zeroth law
-of thermodynamics does not come from statistical mechnics, but from thermodynamics.
-
-The main conceptual point in step (2) is that thermodynamic observables such as temperature presume 
-thermodynamic equilibrium as a crucial assumption serving as a contextual condition. It is formulated 
-in the zeroth law of thermodynamics and not available at the level of statistical mechanics. The very 
-concept of temperature is thus foreign to statistical mechanics and pertains to the level of thermodynamics 
-alone. (Needless to say, there are more thermodynamic observables in addition to temperature. Note that 
-also a feature so fundamental as irreversibility in thermodynamics depends crucially on the context of 
-thermal equilibrium.)
-
-The context of thermal equilibrium (Hi) can be recast in terms of a class of distinguished statistical 
-states (Ls), the so-called Kubo-Martin-Schwinger (KMS) states. These states are defined by the KMS 
-condition which characterizes the (structural) stability of a KMS state against local perturbations. 
-(More precisely, this includes stationarity, ergodicity, and mixing). Hence, the KMS condition 
-implements the zeroth law of thermodynamics as a stability criterion at the level of statistical 
-mechanics. (The second law of thermodynamics expresses this stability in terms of a maximization 
-of entropy for thermal equilibrium states. Equivalently, the free energy of the system is minimal 
-in thermal equilibrium.)
+of thermodynamics does not come from statistical mechnics, but from thermodynamics. Other features such as
+irreversibility and adiabatic nature emerge as well. We can characterize this thermal equilibrium (Hi)
+using Kubo-Martin-Schwinger (KMS) states, defined by the condition that characterizes the structural
+stability of a KMS state against local perturbations or changes. This leads to stationarity, ergodicity,
+and mixing using the zeroth law of thermodynamics to define the system as stable. We can
+also use the second law of thermodynamics to express the stability in maximization of entropy
+for thermal equilibrium states.
 
 Statistical KMS states induce a contextual topology in the state space of statistical mechanics (Ls) 
 which is basically a coarse-grained version of the topology of Li. This means nothing else than a 
