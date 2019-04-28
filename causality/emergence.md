@@ -154,37 +154,21 @@ partition of the unit square. A single point trajectory is not fully interpretab
 We need higher-level macrostates from ensembles of state space points, or probability distributions of points,
 taht evolve under the dynamcis.
 
+Writer Beim Graben showed only uniform probability distributions that have rectangular support exhibit
+a stable dynamics can be interpreted as computation. The huge space of possible probability distributions can be
+contextually resctricted toa subclass of uniform probability distributions to create meaningfully gorunded symbolic
+processes. Symbolic grounding is contextually emergent.
 
-
-Beim Graben and Potthast showed that only uniform probability distributions with rectangular support 
-exhibit a stable dynamics that is interpretable as computation. Thus, the huge space of possible 
-probability distributions must be contextually restricted to the subclass of uniform probability 
-distributions in order to obtain meaningfully grounded symbolic processes. In this sense, symbol 
-grounding is contextually emergent.
-
-It is a long-standing philosophical puzzle how the mind can be causally relevant in a physical world: 
-the problem of mental causation the question of how mental phenomena can be causes is of high significance 
-for an adequate comprehension of scientific disciplines such as psychology and cognitive neuroscience. 
-Moreover, mental causation is crucial for our everyday understanding of what it means to be an agent 
-in a natural and social environment. Without the causal efficacy of mental states the notion of agency 
-would be nonsensical.
-
-One of the reasons why the causal efficacy of the mental has appeared questionable is that a 
-horizontal (intralevel, diachronic) determination of a mental state by prior mental states 
-seems to be inconsistent with a vertical (interlevel, synchronic) determination of that mental 
-state by neural states. In a series of influential papers and books, Kim has presented his much 
-discussed supervenience argument (also known as exclusion argument), which ultimately amounts to 
-the dilemma that mental states either are causally inefficacious or they hold the threat of 
-overdetermining neural states. In other words: either mental events play no horizontally 
-determining causal role at all, or they are causes of the neural bases of their relevant 
-horizontal mental effects. 
-
-The interlevel relation of contextual emergence yields a quite different perspective on mental 
-causation. It dissolves the alleged conflict between horizontal and vertical determination of mental 
-events as ill-conceived. The key point is a construction of properly defined mental states from the 
-dynamics of an underlying neural system. This can be done via statistical neural states based on a 
-proper partition, such that these statistical neural states are coextensive (but not necessarily 
-identical) with individual mental states.
+Describing the mind as causally reelvant in a physical world introduces the problem of mental causation, the quesiton
+of how mental phenomena can be highly signficant in psychology and cognitive neuroscience. It means creating
+a notion of agency that includes the causal efficacy of mental states. This causal efficacy of mental phenomena
+seems inconsistent with vertical (interlevel, synchronic) determination of the mental state by neural correlates.
+Philosophy Jaegwon Kim argued supervenience (also known as exclusion) describes the problem that mental states
+are either causally inefficacious or have the threat of overdetermining neural states. Either mental events play
+nor horizontally determining causal role at all or they're the causes of the neural bases of their relevant horizontal mental
+effects. Contextual emergence through different levels of complexity means the conflict between horizontal
+and vertical determination of mental events isn't an issue. We can define proper mental states from dynamics
+of an underlying neural system through statistical enrual states on propert partitions with individual mental states.
 
 This construction implies that the mental dynamics and the neural dynamics, related to each other 
 by a so-called intertwiner, are topologically equivalent. Given properly defined mental states, the 
