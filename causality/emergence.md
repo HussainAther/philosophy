@@ -3,15 +3,18 @@
 Contextual emergence is a specific kind of relationship between different
 domains of scientific descriptions of particular phenomena. Although these domains 
 are not ordered strictly hierarchically, one often speaks of lower and higher levels 
-of description in which emergence occurs. From the lower levels, more fundamental in a certain
-sense, phenomena emerge in higher levels in more complex phenomena. Strings of DNA in a genome
+of description in which emergence occurs. From the lower levels (L), more fundamental in a certain
+sense, phenomena emerge in higher levels (H) in more complex phenomena. Strings of DNA in a genome
 may correspond to different transcripts on an transcriptome level for an individual. Chaotic conditions
 may emerge from certain differential equations subject to certain constraints. This complexity depends
-on the conditions of the context.
+on the conditions of the context. Hence, contextual emergence.
 
-The basic idea of contextual emergence is to establish a well-defined interlevel relation 
-between a lower level L and a higher level H of a system. This is done by a two-step 
-procedure that leads in a systematic and formal way (1) from an individual description 
+Contextual emergence involves  well-defined relationships between different levels of complexity.
+We can use a two-step procedure to create a systematic, formal way that an individual
+description (Li) creates a statistical description (Ls) among the lower level. This process
+can lead us to decribe individuals at a higher level (Hi).
+
+procedure that leads in a systematic and formal way (1) from an individual description
 Li to a statistical description Ls and (2) from Ls to an individual description Hi. 
 This scheme can in principle be iterated across any connected set of descriptions, so 
 that it is applicable to any case that can be formulated precisely enough to be a 
