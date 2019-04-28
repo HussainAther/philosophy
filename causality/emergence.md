@@ -66,27 +66,18 @@ include emergence of geometric optics from electrodynaimcs, electrical engineeri
 chirality from quantum mechanics, and diffusion or friction of a quantum particle in a thermal medium. Neuroscientists
 have even found use in contextually emerging cognitive states from nerual correlates.
 
+## Hodgkin-Huxley equations
 
-
-A basic element of theoretical and computational neuroscience are the Hodgkin-Huxley equations 
-for the generation and propagation of action potentials. The Hodgkin-Huxley equations form a 
-system of four ordinary nonlinear differential equations: one electric conductance equation 
-for transmembrane currents, and three master equations describing the opening kinetics of 
-sodium and potassium ion channels. At a higher-level description of ion channel functioning, 
-these equations characterize a deterministic dynamical system. However, at a lower-level 
-description, the presence of master equations within the Hodgkin-Huxley system indicates a 
-stochastic approach in terms of transition probabilities of Markov processes.
-
-A closer inspection of the Hodgkin-Huxley equations reveals that the dynamics of neuronal action 
-potentials is actually contextually emergent over (at least) three levels of description. 
-At the first and lowest level, ion channels must be treated as macro-molecular quantum objects 
-that are governed by a many-particle Schrödinger equation. This Schrödinger equation describes 
-a highly entangled state of electrons and atomic nuclei as a whole, which does not allow 
-an interpretation in terms of molecular structures such as an ion channel with a pore that is 
-either closed or open. The molecular structure of an ion channel is contextually emergent 
-through the Born-Oppenheimer approximation separating electronic and nucleonic wave functions. 
-After that separation, the electronic quantum dynamics becomes constrained to a (relatively) 
-rigid nucleonic frame that now possesses a classical spatial structure.
+The Hodgkin-Huxley equations that describe generation and propagation of action potentisl form a system
+fo four ordinary nonlinear differential equations: an electric conductance equation for transmemberane
+currents and three master equations for the opening kinetics of sodium and potassium channels. These
+lower-level stochastic (using Markov processes as transition probabilities) phenomena lead to higher-level
+descriptions of ion channel function to characterize a deterministic dynamic system. We can treat ion channels
+as macro-molecular quantum objects with the Schrödinger equation for many particles. The Schrödinger equation
+describes a highly entangled state of electrons and atomic nuclei as a whole, and, on a moleculr level,
+the structure of a closed or open pore of an ion channel through the Born-Oppenheimer approximation
+separates electronic and nucleonic wave functions. Then, we can use the electronic quantum dynamics
+in a constrainted rigid nucleonic frame that has a classical spatial structure.
 
 At a second level, the fluctuations of the spatial structure of an ion channel must be treated 
 as a stochastic process. Under the respective stability conditions for such processes (stationarity, 
