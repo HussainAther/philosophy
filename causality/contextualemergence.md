@@ -154,7 +154,7 @@ dissipative nonequilibrium system while a nonlinear dissipative nonequiliibrium 
 an intentional system. An intentional system is necessary for being a true believer, according to Dennett.
 Sufficient conditions in the intentional hierarchy implement contextual stability conditions.
 
-The transition from equilibrium thermodynamcis to fluid dynamics represents phenomenal laws of fluid
+The transition from equilibrium thermodynamics to fluid dynamics represents phenomenal laws of fluid
 dynamics (like the Navier-Stokes equation) emerging from statistical mechancis under the assumption of
 local equilibrium. Sufficient boundary conditions give rise to self-organization, such as through "magnetic snakes."
 We give a rationality constraint for optimal dissipation of pumped energy, and true believers emerge contextually
