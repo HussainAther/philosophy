@@ -256,4 +256,24 @@ The deviation of a given contextual segmentation from the optimal segmentation c
 using a utility function whose maximization leads to a contextually emergent brain microstate 
 segmentation of the EEG. Applying this technique to EEG data from anesthetized ferrets and to 
 event-related brain potentials from human language-processing experiments revealed good correlation 
-with mental states. 
+with mental states.
+
+According to Dennett, the intentional stance can be applied to the prediction of any system's 
+behavior that is too complex to be treated as either a physical or a designed system. Intentional 
+systems in this sense are systems whose behavior is predictable upon ascribing beliefs and desires to 
+their internal states. Examples for intentional systems range from thermostats and chess computers 
+over "magnetic snakes" to "true believers", e.g. human beings.
+
+To make meaningful predictions of a system, several necessary and sufficient conditions on the 
+system's dynamics must be fulfilled (beim Graben 2014). First of all, the system's dynamics 
+must be non-trivial, thus excluding most kinds of linear systems with periodic oscillations 
+or damped relaxations. The class of putative intentional systems can be embedded into an 
+"intentional hierarchy" ranging from the general case of nonlinear nonequilibrium dissipative 
+systems to more specific intentional systems and "true believers" as a subclass.
+
+Being a physical system is necessary for being a nonlinear dissipative nonequilibrium system; 
+being a nonlinear dissipative nonequilibrium system is necessary for being an intentional system; 
+and being an intentional system is necessary for being a true believer. Moreover, sufficient 
+conditions within the intentional hierarchy implement contextual stability conditions.
+
+The most general case corresponds to the transition from equilibrium thermodynamics to fluid dynamics: The phenomenal laws of fluid dynamics (the Navier-Stokes equations) emerge from statistical mechanics under the assumption of "local equilibrium". At the next level, several sufficient boundary conditions must be selected to give rise to processes of self-organization, nicely illustrated by means of "magnetic snakes". Then, a rationality constraint is imposed for optimal dissipation of pumped energy (Tschacher and Haken 2007). Finally, "true believers" are contextually emergent as intentional systems that are stable under mutual adoption of the intentional stance. 
