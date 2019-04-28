@@ -211,4 +211,10 @@ For multiple fixed points, their basins of attraction represent proper cells, wh
 need to be coarse-grained by so-called generating partitions. From experimental data, both can be numerically 
 determined by partitions leading to Markov chains. These partitions yield a rigorous theoretical constraint 
 for the proper definition of stable mental states. The formal tools for the mathematical procedure derive 
-from the fields of ergodic theory and symbolic dynamics. 
+from the fields of ergodic theory and symbolic dynamics.
+
+A pertinent example for the application of contextual emergence to experimental data is the relation 
+between mental states and EEG dynamics. In a recent study, Allefeld tested the method using data 
+from the EEG of subjects with sporadic epileptic seizures. This means that the neural level is 
+characterized by brain states recorded via EEG, while the context of normal and epileptic mental 
+states essentially requires a bipartition of that neural state space. 
