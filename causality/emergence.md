@@ -92,25 +92,16 @@ neural subsystems correlated with states of consciousness" in "What is a neural 
 We can look at phenomenal families, sets of mutualyl exclusive phenomenal mental states that jointly
 partition a space of mental states. Creature consciousness can give us refined levels of phenomenal states
 of background consciousness (awake, dreaming, etc.), wake consciosuness (perceptual, cognitive, affective, etc.),
-perceptual consciousness (visual, audotiry, tactile, etc.), and visual consicousness (color, form, location, etc.).
+perceptual consciousness (visual, audotiry, tactile, etc.), and visual consicousness (color, form, location, etc.). With
+one of these contexts, we choose stability criterion at Ls that has complicated neurodynamics to find robust, proper
+ statistical states.
+ 
+ We may describe L-dynamics and H-dynamics meshing with one another if coarse graining and time
+ evolution commute with one another. We create meshes, parts of space differentiated by complexes of cells
+ between the two levels, that follow from higher-level stability criterion. The coarse graining means fine details
+ of the system can be smoothed over, as entropy of the system increases, such that we can make predictions
+ about the system as a whole.
 
-With one of these contexts, we choose stability criterion at Ls that has complicated neurodynamics to find
-robust, proper statistical states.
-
-Selecting one of these levels provides a context which can then be implemented as a stability criterion 
-at Ls. In cases like the neural system, where complicated dynamics far from thermal equilibrium are 
-involved, a powerful method to do so uses the neurodynamics itself to find proper statistical states. 
-The essential point is to identify a partition of the neural state space whose cells are robust under 
-the dynamics. This guarantees that individual mental states Hi, defined on the basis of statistical 
-neural states Ls, remain well-defined as the system develops in time. The reason is that differences 
-between individual neural states Li belonging to the same statistical state Ls remain irrelevant as the 
-system develops in time.
-
-The construction of statistical neural states is strikingly analogous to what leads Butterfield to the 
-notion of meshing dynamics. In his terminology, L-dynamics and H-dynamics mesh if coarse graining and 
-time evolution commute. From the perspective of contextual emergence, meshing is guaranteed by the 
-stability criterion induced by the higher-level context. In this picture, meshing translates into 
-the topological equivalence of the two dynamics.
 
 For multiple fixed points, their basins of attraction represent proper cells, while chaotic attractors 
 need to be coarse-grained by so-called generating partitions. From experimental data, both can be numerically 
