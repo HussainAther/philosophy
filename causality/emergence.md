@@ -1,5 +1,7 @@
 # Contextual emergence
 
+## What is contextual emergence?
+
 Contextual emergence is a specific kind of relationship between different
 domains of scientific descriptions of particular phenomena. Although these domains 
 are not ordered strictly hierarchically, one often speaks of lower and higher levels 
@@ -25,20 +27,11 @@ Then, we can assign individual states at the higher level H to coextensional sta
 We use a top-down constraint. This needs information about the higher description to choose a
 context setting the framework for the set of observable properties at level H created from L.
 We can implement stability criteria at level L such that the appropriate context emerges at level H.
-We may choose to confine ourselves to certain electrochemical properties that emerge from
-membrane dynamics in synaptic networks.
-
-The chosen context provides conditions that can be implemented as stability criteria at
-level L. It is crucial that such stability conditions cannot be specified without knowledge 
-about the context at level H. In this sense the context yields a top-down constraint, or 
-downward confinement (sometimes misleadingly called downward causation).
-
-The notion of stability induced by context is of paramount significance for contextual emergence. 
-Roughly speaking, stability refers to the fact that some system is robust under (small) 
-perturbations - for instance, if (small) perturbations of a homeostatic or equilibrium 
-state are damped out by the dynamics, so that the initial state is (asymptotically) retained. 
-The more complicated notion of a stable partition of a state space is based on the idea of 
-coarse-grained states, i.e. cells of a partition whose boundaries are (approximately) maintained under the dynamics.
+The stability refers to the ability for the features of the system to remain valid even under
+small changes. This includes equilibrium states of gas systems and homeostatic relationships
+between units of biological mechanisms such as glycolysis. We may also define stability as systems
+that have boundaries maintained under the dynamics specified for it We may choose to confine ourselves
+to certain electrochemical properties that emerge from membrane dynamics in synaptic networks.
 
 Stability criteria guarantee that the statistical states of Ls are based on a robust partition 
 so that the emergent observables in Hi are well-defined. (For instance, if a partition is not 
