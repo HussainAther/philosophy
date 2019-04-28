@@ -132,7 +132,7 @@ that we reduce to a lower number through principal component restrictions. We fi
 of cells to set up a Markov transition matrix that reflects the EEG dynamics using fine-grained auxiliary
 partition. Then, this matrix gives eigenvalues that characterize time scales for which the dynamics can
 be ordered by size. The eigenvectors span an eigenvector space such that the measure principal component
-states form a simplex. The three leading eigenvalue give a neural state repesentation that has a 2-simplex
+states form a simplex. The three leading eigenvalue give a neural state representation that has a 2-simplex
 with three vertices, or a triangle. We can further classify neural states by distance frmo the vertices
 of the simplex to clusters of neural data. In the principal component state space, the clsuters appear
 as non-intersecting convex sets between mental states. We may alos use recurrence
