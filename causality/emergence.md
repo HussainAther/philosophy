@@ -276,4 +276,33 @@ being a nonlinear dissipative nonequilibrium system is necessary for being an in
 and being an intentional system is necessary for being a true believer. Moreover, sufficient 
 conditions within the intentional hierarchy implement contextual stability conditions.
 
-The most general case corresponds to the transition from equilibrium thermodynamics to fluid dynamics: The phenomenal laws of fluid dynamics (the Navier-Stokes equations) emerge from statistical mechanics under the assumption of "local equilibrium". At the next level, several sufficient boundary conditions must be selected to give rise to processes of self-organization, nicely illustrated by means of "magnetic snakes". Then, a rationality constraint is imposed for optimal dissipation of pumped energy (Tschacher and Haken 2007). Finally, "true believers" are contextually emergent as intentional systems that are stable under mutual adoption of the intentional stance. 
+The most general case corresponds to the transition from equilibrium thermodynamics to fluid dynamics: 
+The phenomenal laws of fluid dynamics (the Navier-Stokes equations) emerge from statistical mechanics 
+under the assumption of "local equilibrium". At the next level, several sufficient boundary conditions 
+must be selected to give rise to processes of self-organization, nicely illustrated by means of "magnetic 
+snakes". Then, a rationality constraint is imposed for optimal dissipation of pumped energy. 
+Finally, "true believers" are contextually emergent as intentional systems that are stable under 
+mutual adoption of the intentional stance. 
+
+Another application of contextual emergence refers to the symbol grounding problem posed by Harnad. The 
+key issue of symbol grounding is the problem of assigning meaning to symbols on purely syntactic grounds, 
+as proposed by cognitivists such as Fodor and Pylyshin (1988). This entails the question of how conscious 
+mental states can be characterized by their neural correlates, see Atmanspacher and beim Graben. Viewed 
+from a more general perspective, symbol grounding has to do with the relation between analog and digital 
+systems, the way in which syntactic digital symbols are related to the analog behavior of a system they 
+describe symbolically.
+
+An instructive example for this distinction is given by dynamical automata. These are piecewise linear 
+(globally nonlinear) time-discrete maps over a two-dimensional state space which assume their interpretation 
+as symbolic computers through a rectangular partition of the unit square. Interestingly, a single point 
+trajectory, i.e. the evolution of microstates (at a lower level description) is not fully interpretable as 
+symbolic computation. Therefore, one has to consider (higher-level) macrostates, based on ensembles of 
+state space points (or probability distributions of points) that evolve under the dynamics.
+
+Beim Graben and Potthast showed that only uniform probability distributions with rectangular support 
+exhibit a stable dynamics that is interpretable as computation. Thus, the huge space of possible 
+probability distributions must be contextually restricted to the subclass of uniform probability 
+distributions in order to obtain meaningfully grounded symbolic processes. In this sense, symbol 
+grounding is contextually emergent.
+
+
