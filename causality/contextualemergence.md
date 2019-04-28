@@ -83,9 +83,9 @@ gives the equations of the Hodgkin-Huxley system as a contextually emergent phen
 ## Mental states emerging from neuroscience
 
 To realize mental states from neural states, we specify the L level as neuron states of neural assemblies
-in the brain with respect ot H, a class of mental states that reflects the situation under study. We may use
+in the brain with respect to H, a class of mental states that reflects the situation under study. We may use
 experimental protocols that include a task for subjects to define mental states while recording brain states.
-We may use individual neuron properties Li to find Ls such taht statisical states have equivalence classes
+We may use individual neuron properties Li to find Ls such that statisical states have equivalence classes
 of those individual states. The differences must be irrelevant with respect to the higher level H. Philosopher
 David Chalmers said a neural correlate of a conscious mental state can be mulltiply realized by "minimally sufficient
 neural subsystems correlated with states of consciousness" in "What is a neural correlate of consciousness?"
