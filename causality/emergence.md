@@ -31,14 +31,10 @@ The stability refers to the ability for the features of the system to remain val
 small changes. This includes equilibrium states of gas systems and homeostatic relationships
 between units of biological mechanisms such as glycolysis. We may also define stability as systems
 that have boundaries maintained under the dynamics specified for it We may choose to confine ourselves
-to certain electrochemical properties that emerge from membrane dynamics in synaptic networks.
+to certain electrochemical properties that emerge from membrane dynamics in synaptic networks. This allows
+the emergent properties to remain well-defined from the contextual topology of L.
 
-Stability criteria guarantee that the statistical states of Ls are based on a robust partition 
-so that the emergent observables in Hi are well-defined. (For instance, if a partition is not 
-stable under the dynamics of the system at Li, the assignment of states in Hi will change over 
-time and, thus, will be ill-defined.) Implementing a contingent context of Hi as a stability 
-criterion in Li yields a proper partitioning for Ls. In this way, the lower-level state 
-space is endowed with a new, contextual topology.
+
 
 From a slightly different perspective, the context selected at level H decides which details 
 in Li are relevant and which are irrelevant for individual states in Hi. Differences among all 
