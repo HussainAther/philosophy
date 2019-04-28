@@ -84,3 +84,13 @@ by the false claim that the thermodynamic temperature of a gas is identical with
 of the molecules which constitute the gas. A proper discussion of the details was not available for a 
 long time and has been achieved by Haag et al. (1974) and Takesaki (1970) in the framework of quantum 
 field theory.
+
+The main conceptual point in step (2) is that thermodynamic observables such as temperature presume 
+thermodynamic equilibrium as a crucial assumption serving as a contextual condition. It is formulated 
+in the zeroth law of thermodynamics and not available at the level of statistical mechanics. The very 
+concept of temperature is thus foreign to statistical mechanics and pertains to the level of thermodynamics 
+alone. (Needless to say, there are more thermodynamic observables in addition to temperature. Note that 
+also a feature so fundamental as irreversibility in thermodynamics depends crucially on the context of 
+thermal equilibrium.)
+
+
