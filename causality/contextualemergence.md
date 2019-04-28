@@ -236,7 +236,7 @@ process that fulfills the Markov criterion can lead to a deterministic "mean-fie
 
 Different descriptive levels can correlate with different degrees of granularity. Lower-level descriptions
 address systems in terms of micro-properties while more global macro-properties account for higher-level descriptions.
-Philosophy Bas van Fraassen noted the explanatory relativity, in which explanations are not only
+Philosopher Bas van Fraassen noted the explanatory relativity, in which explanations are not only
 relationships between theories and factse, but three-place relations between theories, facts, and contexts.
 Contexts determine relevance of explanation backed by relevance critera for reproduciibity in science, especially in interdisciplinary
 fields such as bioinformatics or computational neuroscience. This gives a framework for discussing contextual emergence
