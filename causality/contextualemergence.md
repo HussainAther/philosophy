@@ -253,7 +253,7 @@ procedure to construct level-specific criteria for relevant observables across d
  but we only need to look at any example, such as the emergence of transcriptome interactions from how a genome itself structures itself,
  to realize that these properties come about only at the higher levels, and, therefore, involve phenomena that are not completely reducible to
  mathematics. Biologist Peter Corning argued in "The Re-Emergence of "Emergence": A Venerable Concept in Search of a Theory" that whole systems
- produce unique combined effects that may involve the context between and the interactions with the system and its environment
+ produce unique combined effects that may involve the context between and the interactions with the system and its environment.
 
 Contextual emergence has been originally conceived as a relation between levels of descriptions, 
 not levels of nature: It addresses questions of epistemology rather than ontology. In agreement with Esfeld, 
