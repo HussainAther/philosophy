@@ -131,35 +131,30 @@ ways by ascribing beliefs and desires to their internal states. From thermostats
 we can make predictions of a system with necessary and sufficient coonditions. The system's dynamics have
 to be non-trivial, so this excludes linear systems with periodic oscillations or damped relaxations. We construct
 an intentional hierarchy from general case of nonlinear nonequilibrium dissipative systems
-to more specific intentional systems. 
+to more specific intentional systems. A physical system's physical nature is necessary for being a nonlinear
+dissipative nonequilibrium system while a nonlinear dissipative nonequiliibrium nature is necessary for
+an intentional system. An intentional system is necessary for being a true believer, according to Dennett.
+Sufficient conditions in the intentinoal hierarchy implement contextual stability conditions.
 
-Being a physical system is necessary for being a nonlinear dissipative nonequilibrium system; 
-being a nonlinear dissipative nonequilibrium system is necessary for being an intentional system; 
-and being an intentional system is necessary for being a true believer. Moreover, sufficient 
-conditions within the intentional hierarchy implement contextual stability conditions.
+The transition from equilibrium thermodynamcis to fluid dynamics represents phenomenal laws of fluid
+dynamics (like the Navier-Stokes equation) emerging from statistical mechancis under the assumption of
+local equilibrium. Sufficient boundary conditions give rise to self-organization, such as through "magnetic snakes."
+We give a rationality constraint for optimal dissipation of pumped energy, and true believers emerge contextually
+as intentional systems under mutual adoption of the intentional stance.
 
-The most general case corresponds to the transition from equilibrium thermodynamics to fluid dynamics: 
-The phenomenal laws of fluid dynamics (the Navier-Stokes equations) emerge from statistical mechanics 
-under the assumption of "local equilibrium". At the next level, several sufficient boundary conditions 
-must be selected to give rise to processes of self-organization, nicely illustrated by means of "magnetic 
-snakes". Then, a rationality constraint is imposed for optimal dissipation of pumped energy. 
-Finally, "true believers" are contextually emergent as intentional systems that are stable under 
-mutual adoption of the intentional stance. 
+## Symbolic grounding
 
-Another application of contextual emergence refers to the symbol grounding problem posed by Harnad. The 
-key issue of symbol grounding is the problem of assigning meaning to symbols on purely syntactic grounds, 
-as proposed by cognitivists such as Fodor and Pylyshin (1988). This entails the question of how conscious 
-mental states can be characterized by their neural correlates, see Atmanspacher and beim Graben. Viewed 
-from a more general perspective, symbol grounding has to do with the relation between analog and digital 
-systems, the way in which syntactic digital symbols are related to the analog behavior of a system they 
-describe symbolically.
+The symbolic grounding problem is the problem fo assigning meaning to symbols on purely syntactic grounds.
+Cognitivists such as philosophers Jerry Fodor and Zenon Pylyshyn have described this problem. It can also describe
+how the question of how conscious mental states can be characterized by neural correlates. The relation between analog
+and digital systems such that syntactic digital symbols relate to the analog behavior of a system they descibe
+symbolically needs to be further examined through dnyamical automata. Piecewise linear time-discrete
+maps over a two-dimensional state space assume the interpretation as symbolic computers through a rectangular
+partition of the unit square. A single point trajectory is not fully interpretable as symbolic computation.
+We need higher-level macrostates from ensembles of state space points, or probability distributions of points,
+taht evolve under the dynamcis.
 
-An instructive example for this distinction is given by dynamical automata. These are piecewise linear 
-(globally nonlinear) time-discrete maps over a two-dimensional state space which assume their interpretation 
-as symbolic computers through a rectangular partition of the unit square. Interestingly, a single point 
-trajectory, i.e. the evolution of microstates (at a lower level description) is not fully interpretable as 
-symbolic computation. Therefore, one has to consider (higher-level) macrostates, based on ensembles of 
-state space points (or probability distributions of points) that evolve under the dynamics.
+
 
 Beim Graben and Potthast showed that only uniform probability distributions with rectangular support 
 exhibit a stable dynamics that is interpretable as computation. Thus, the huge space of possible 
