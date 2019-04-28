@@ -35,32 +35,18 @@ to certain electrochemical properties that emerge from membrane dynamics in syna
 the emergent properties to remain well-defined from the contextual topology of L. It also
 tells us which properties of L are relevant to the contextual emergence of H.
 
+This interplay between upward and downard strategies lets the system remain self-consistent.
+moving from a higher context to a lower one requires the stability conditions to lead to lower-level
+partitions of the system while moving to a higher context means the statistics of lower-level states
+extend to higher-level individual states we can observe.
 
-
-The interplay of context and stability across levels of description is the core of contextual 
-emergence. Its proper implementation requires an appropriate definition of individual and statistical 
-states at these levels. This means in particular that it would not be possible to construct 
-emergent observables in Hi from Li directly, without the intermediate step to Ls. And it would 
-be equally impossible to construct these emergent observables without the downward confinement 
-arising from higher-level contextual constraints.
-
-In this spirit, bottom-up and top-down strategies are interlocked with one another in such a way 
-that the construction of contextually emergent observables is self-consistent. Higher-level 
-contexts are required to implement lower-level stability conditions leading to proper lower-level 
-partitions, which in turn are needed to define those lower-level statistical states that are 
-co-extensional (not necessarily identical) with higher-level individual states and their associated observables.
-
-As an example, consider the transition from classical point mechanics over statistical mechanics to 
-thermodynamics. Step (1) in the discussion above is here the step from point mechanics to 
-statistical mechanics, essentially based on the formation of an ensemble distribution. 
-Particular properties of a many-particle system are defined in terms of a statistical ensemble description 
-(e.g., as moments of a many-particle distribution function) which refers to the statistical state of 
-an ensemble (Ls) rather than the individual states of single particles (Li).
-
-An example for an observable associated with the statistical state of a many-particle system is its 
-mean kinetic energy, which can be calculated from the the Maxwell-Boltzmann distribution of the momenta 
-of all N particles. The expectation value of kinetic energy is defined as the limit of its mean value 
-for infinite N.
+We can even demonstrate the relationship between different fields of science through contextual
+emergence. Moving from classical point mechanics, involving forces due to gravitational effects and
+electromagnetism, to statistical mechanics to thermodynamics illustrates this phenomena. From point mechanics
+to statistical mechanics particles or other individual units (Li) form ensemble distributions which can be
+studied using statistics. We can define many-particle systems with statistical ensemble descriptions (Ls)
+like momenta or energy of distributions, such as the Maxwell-Boltzmann distribution for N particles. From there,
+we can find mean kinetic energy, Gibbs free energy, entropy, and other statistical quantities.
 
 Step (2) is the step from statistical mechanics to thermodynamics. Concerning observables, this is the 
 step from the expectation value of a momentum distribution of a particle ensemble (Ls) to the temperature 
