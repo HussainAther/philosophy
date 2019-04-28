@@ -19,14 +19,16 @@ During this method, we identify equivalence classes of individual states that ar
 with respect to a certain property of the entire system. We can realize different statistical
 states in Ls by individual states in Li. Each state has limited knowledge, but, together,
 we can create probability distributions represent the statistical states Ls. This could be how
-spike signals from neural circuits encode for higher-level functions in the brain. Then, we can assign
-individual states at the higher level H to coextensional statistical states at level L.
+spike signals from neural circuits encode for higher-level functions in the brain.
 
-The essential goal of step (2) is the assignment of individual states at level H to coextensional 
-statistical states at level L. This is impossible without additional information about the 
-desired level-H description. In other words, it requires the choice of a context setting the 
-framework for the set of observables (properties) at level H that is to be constructed from 
-level L. The chosen context provides conditions that can be implemented as stability criteria at 
+Then, we can assign individual states at the higher level H to coextensional statistical states at level L.
+We use a top-down constraint. This needs information about the higher description to choose a
+context setting the framework for the set of observable properties at level H created from L.
+We can implement stability criteria at level L such that the appropriate context emerges at level H.
+We may choose to confine ourselves to certain electrochemical properties that emerge from
+membrane dynamics in synaptic networks.
+
+The chosen context provides conditions that can be implemented as stability criteria at
 level L. It is crucial that such stability conditions cannot be specified without knowledge 
 about the context at level H. In this sense the context yields a top-down constraint, or 
 downward confinement (sometimes misleadingly called downward causation).
