@@ -142,3 +142,14 @@ sodium and potassium ion channels. At a higher-level description of ion channel 
 these equations characterize a deterministic dynamical system. However, at a lower-level 
 description, the presence of master equations within the Hodgkin-Huxley system indicates a 
 stochastic approach in terms of transition probabilities of Markov processes.
+
+A closer inspection of the Hodgkin-Huxley equations reveals that the dynamics of neuronal action 
+potentials is actually contextually emergent over (at least) three levels of description. 
+At the first and lowest level, ion channels must be treated as macro-molecular quantum objects 
+that are governed by a many-particle Schrödinger equation. This Schrödinger equation describes 
+a highly entangled state of electrons and atomic nuclei as a whole, which does not allow 
+an interpretation in terms of molecular structures such as an ion channel with a pore that is 
+either closed or open. The molecular structure of an ion channel is contextually emergent 
+through the Born-Oppenheimer approximation separating electronic and nucleonic wave functions. 
+After that separation, the electronic quantum dynamics becomes constrained to a (relatively) 
+rigid nucleonic frame that now possesses a classical spatial structure.
