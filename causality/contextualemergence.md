@@ -146,7 +146,7 @@ the metastable states in the dynamics.
 Philosopher Daniel Dennett describes the intentional stance of the prediction of a system's behavior
 too complex to be treated as either a physical or designed system. Intentional systems behave in predicted
 ways by ascribing beliefs and desires to their internal states. From thermostats to chess computers,
-we can make predictions of a system with necessary and sufficient coonditions. The system's dynamics have
+we can make predictions of a system with necessary and sufficient conditions. The system's dynamics have
 to be non-trivial, so this excludes linear systems with periodic oscillations or damped relaxations. We construct
 an intentional hierarchy from general case of nonlinear nonequilibrium dissipative systems
 to more specific intentional systems. A physical system's physical nature is necessary for being a nonlinear
