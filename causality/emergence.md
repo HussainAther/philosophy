@@ -15,3 +15,10 @@ Li to a statistical description Ls and (2) from Ls to an individual description 
 This scheme can in principle be iterated across any connected set of descriptions, so 
 that it is applicable to any case that can be formulated precisely enough to be a 
 sensible subject of a scientific investigation.
+
+The essential goal of step (1) is the identification of equivalence classes of individual 
+states that are indistinguishable with respect to a particular ensemble property. This step 
+implements the multiple realizability of statistical states in Ls (which will be the basis 
+for individual states in Hi) by individual states in Li . The equivalence classes at L can 
+be regarded as cells of a partition. Each cell is the support of a (probability) distribution 
+representing a statistical state, encoding limited knowledge about individual states.
