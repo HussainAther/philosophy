@@ -174,3 +174,14 @@ to H a class of mental states reflecting the situation under study needs to be d
 theoretical approach, this can be tedious, but in empirical investigations the experimental setup 
 can often be used for this purpose. For instance, experimental protocols include a task for subjects 
 that defines possible mental states, and they include procedures to record brain states.
+
+The first step is to find a proper assignment of Li and Ls at the neural level. A good candidate 
+for Li are the properties of individual neurons. Then the first task is to construct Ls in such 
+a way that statistical states are based on equivalence classes of those individual states whose 
+differences are irrelevant with respect to a given mental state at level H. This reflects that 
+a neural correlate of a conscious mental state can be multiply realized by "minimally sufficient 
+neural subsystems correlated with states of consciousness" from David Chalmers "What is a neural 
+correlate of consciousness?".
+
+
+
