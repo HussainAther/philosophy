@@ -243,4 +243,13 @@ check whether mental states are reliably assigned to the correct episodes in the
 The study by Allefeld shows perfect agreement between the distinction of normal and epileptic 
 states and the bipartition resulting from the spectral analysis of the neural transition matrix.
 
+Another EEG-segmentation algorithm that uses the recurrence structure of multivariate time series 
+has been suggested by beim Graben and Hutt. Their recurrence structure analysis (RSA) partitions 
+the state space into clusters of recurrent, and therefore, overlapping balls obtained from the 
+recurrence plot of the dynamical system. Different choices of the radius r of the balls leads to 
+potentially different segmentations of the time series from the corresponding partitions. An 
+optimal choice of r, however, will ideally reflect the dwell times within metastable states and 
+the transitions between metastable states. This can be described by a Markov chain with one 
+distinguished transient state and other states representing the metastable states in the dynamics.
+
  
