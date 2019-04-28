@@ -74,7 +74,7 @@ currents and three master equations for the opening kinetics of sodium and potas
 lower-level stochastic (using Markov processes as transition probabilities) phenomena lead to higher-level
 descriptions of ion channel function to characterize a deterministic dynamic system. We can treat ion channels
 as macro-molecular quantum objects with the Schrödinger equation for many particles. The Schrödinger equation
-describes a highly entangled state of electrons and atomic nuclei as a whole, and, on a moleculr level,
+describes a highly entangled state of electrons and atomic nuclei as a whole, and, on a molecular level,
 the structure of a closed or open pore of an ion channel through the Born-Oppenheimer approximation
 separates electronic and nucleonic wave functions. Then, we can use the electronic quantum dynamics
 in a constrainted rigid nucleonic frame that has a classical spatial structure. This stoachstic spatial structure
