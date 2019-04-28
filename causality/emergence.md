@@ -101,3 +101,11 @@ implements the zeroth law of thermodynamics as a stability criterion at the leve
 mechanics. (The second law of thermodynamics expresses this stability in terms of a maximization 
 of entropy for thermal equilibrium states. Equivalently, the free energy of the system is minimal 
 in thermal equilibrium.)
+
+Statistical KMS states induce a contextual topology in the state space of statistical mechanics (Ls) 
+which is basically a coarse-grained version of the topology of Li. This means nothing else than a 
+partitioning of the state space into cells, leading to statistical states (Ls) that represent equivalence 
+classes of individual states (Li). They form ensembles of states that are indistinguishable with 
+respect to their mean kinetic energy and can be assigned the same temperature (Hi). Differences 
+between individual states at Li falling into the same equivalence class at Ls are irrelevant with 
+respect to a particular temperature at Hi.
