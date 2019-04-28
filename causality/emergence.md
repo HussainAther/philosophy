@@ -94,6 +94,8 @@ partition a space of mental states. Creature consciousness can give us refined l
 of background consciousness (awake, dreaming, etc.), wake consciosuness (perceptual, cognitive, affective, etc.),
 perceptual consciousness (visual, audotiry, tactile, etc.), and visual consicousness (color, form, location, etc.).
 
+With one of these contexts, we choose stability criterion at Ls that has complicated neurodynamics to find
+robust, proper statistical states.
 
 Selecting one of these levels provides a context which can then be implemented as a stability criterion 
 at Ls. In cases like the neural system, where complicated dynamics far from thermal equilibrium are 
