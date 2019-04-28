@@ -206,3 +206,9 @@ notion of meshing dynamics. In his terminology, L-dynamics and H-dynamics mesh i
 time evolution commute. From the perspective of contextual emergence, meshing is guaranteed by the 
 stability criterion induced by the higher-level context. In this picture, meshing translates into 
 the topological equivalence of the two dynamics.
+
+For multiple fixed points, their basins of attraction represent proper cells, while chaotic attractors 
+need to be coarse-grained by so-called generating partitions. From experimental data, both can be numerically 
+determined by partitions leading to Markov chains. These partitions yield a rigorous theoretical constraint 
+for the proper definition of stable mental states. The formal tools for the mathematical procedure derive 
+from the fields of ergodic theory and symbolic dynamics. 
