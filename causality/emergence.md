@@ -224,3 +224,8 @@ It starts with a (for instance) 20-channel EEG recording, giving rise to a state
 which can be reduced to a lower number by restricting to principal components (PC). On the resulting 
 low-dimensional state space, a homogeneous grid of cells is imposed in order to set up a Markov 
 transition matrix T reflecting the EEG dynamics on a fine-grained auxiliary partition. 
+
+The eigenvalues of T express relaxation time scales for the dynamics which can be ordered by size. 
+Gaps between successive relaxation times indicate groupings referring to mental states defined by 
+partitions of neural states of increasing refinement. The first group is often sufficient for the 
+distinction of "target" mental states.
