@@ -133,7 +133,7 @@ of cells to set up a Markov transition matrix that reflects the EEG dynamics usi
 partition. Then, this matrix gives eigenvalues that characterize time scales for which the dynamics can
 be ordered by size. The eigenvectors span an eigenvector space such that the measure principal component
 states form a simplex. The three leading eigenvalue give a neural state representation that has a 2-simplex
-with three vertices, or a triangle. We can further classify neural states by distance frmo the vertices
+with three vertices, or a triangle. We can further classify neural states by distance from the vertices
 of the simplex to clusters of neural data. In the principal component state space, the clsuters appear
 as non-intersecting convex sets between mental states. We may alos use recurrence
 structure analysis to partition the state space into recurrent clusters such that they overlap from the
