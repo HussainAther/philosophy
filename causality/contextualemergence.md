@@ -14,7 +14,7 @@ on the conditions of the context. Hence, contextual emergence.
 Contextual emergence involves  well-defined relationships between different levels of complexity.
 We can use a two-step procedure to create a systematic, formal way that an individual
 description (Li) creates a statistical description (Ls) among the lower level. This process
-can lead us to decribe individuals at a higher level (Hi). We iterate this process (Li -> Ls -> Hi) through
+can lead us to describe individuals at a higher level (Hi). We iterate this process (Li -> Ls -> Hi) through
 sets of descriptions connected with one another to reveal what emerges at higher levels.
 
 During this method, we identify equivalence classes of individual states that are indistinguishable
