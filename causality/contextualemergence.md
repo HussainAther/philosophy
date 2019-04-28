@@ -198,7 +198,7 @@ to the opposite of generalization. When symmetries between entities restore them
 by the symmetries and generate equivalence classes of increasing size that can describe contextually emergent phenomena.
 Given properly defined mental states, the neural dynamics gives rise to a mental dynamics that is
 independent of those neurodynamical details that are irrelevant for a proper construction of mental states. Mental states
-can be causally and horizontally related to other metnal states, and they neither cause their vertical neural determiners nor
+can be causally and horizontally related to other mental states, and they neither cause their vertical neural determiners nor
 cause the horizontal effects of the neural determiners. This resolve the problem of mental causation in a deflationary manner.
 Vertical and horizontal determination don't compete against one another. They work cooperatively.
 
