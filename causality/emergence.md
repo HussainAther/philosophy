@@ -39,4 +39,9 @@ state are damped out by the dynamics, so that the initial state is (asymptotical
 The more complicated notion of a stable partition of a state space is based on the idea of 
 coarse-grained states, i.e. cells of a partition whose boundaries are (approximately) maintained under the dynamics.
 
-
+Stability criteria guarantee that the statistical states of Ls are based on a robust partition 
+so that the emergent observables in Hi are well-defined. (For instance, if a partition is not 
+stable under the dynamics of the system at Li , the assignment of states in Hi will change over 
+time and, thus, will be ill-defined.) Implementing a contingent context of Hi as a stability 
+criterion in Li yields a proper partitioning for Ls . In this way, the lower-level state 
+space is endowed with a new, contextual topology.
