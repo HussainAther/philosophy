@@ -349,5 +349,28 @@ relation is characterized by an intertwiner, a mathematical mapping, which must 
 from a causal before-after relation. For this reason, the terms downward causation or top-down causation 
 are infelicitous choices for addressing a downward confinement by contextual constraints.
 
+Within the tradition of dual-aspect thinking, one can distinguish two different, in a sense opposing 
+base conceptions. In one of them, psychophysically neutral elementary entities are composed to sets 
+of such entities, and depending on the composition these sets acquire mental or physical properties. 
+The other base conception refers to a psychophysically neutral domain which does not consist of 
+elementary entities waiting to be composed, but is conceived as one overarching whole that is to 
+be decomposed. In contrast to the atomistic picture of compositional dual-aspect monism, the holistic 
+picture of the decompositional variant is strongly reminiscent of the fundamental insight of 
+entanglement in quantum physics.
 
+The contextual emergence of both the mental and the material from a psychophysically neutral 
+whole requires a fresh look at the conceptual framework, both technically and in terms of the 
+underlying metaphysics. At the technical level, we do now refer to the contextual emergence of 
+multiplicity from unity, fine grains from coarse grains, rather than the other way around. The basic 
+idea here is that a "primordial" decomposition of an undivided whole generates (under a particular 
+context) different domains that give rise to differentiations, e.g. the mind-matter distinction.
 
+In the decompositional variety of dual-aspect monism, refinement by symmetry breakdown is conceptually 
+prior to its opposite of generalization, where the restoration of symmetries generates equivalence 
+classes of increasing size. The basic undivided, psychophysically neutral reality is the trivial 
+partition where nothing is distinguished. There is full symmetry and, hence, the corresponding 
+reality is "ineffable", or "discursively inaccessible". Successive decompositions give rise to 
+more and more refined partitions, where symmetries are broken and equivalence classes beome 
+smaller and smaller. Phenomenal families of mental states illustrate this for the mental domain.
+
+At the metaphysical level, the mental and the physical remain epistemic, but the undivided whole is added as an ontic dimension. This reminds one of Plato's ideas or Kant's things-in-themselves, which are empirically inaccessible in principle and, in this sense, scientificallly mute. Indeed, an undivided whole cannot be further characterized without introducing distinctions that break up the wholeness. Yet, it provides one asset in the metaphyscis of the mind-matter problem that no other philosophical position provides: the emergence of mind-matter correlations as a direct and immediate consequence.
