@@ -109,3 +109,9 @@ classes of individual states (Li). They form ensembles of states that are indist
 respect to their mean kinetic energy and can be assigned the same temperature (Hi). Differences 
 between individual states at Li falling into the same equivalence class at Ls are irrelevant with 
 respect to a particular temperature at Hi.
+
+While step (1) formulates statistical states from individual states at the mechanical level of 
+description, step (2) provides individual thermal states from statistical mechanical states. 
+Along with this step goes a definition of new, emergent thermal observables that are coextensive, 
+but not identical with mechanical observables. All this is guided by and impossible without 
+the explicit use of the context of thermal equilibrium.
