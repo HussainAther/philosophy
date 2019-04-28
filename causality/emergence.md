@@ -236,4 +236,11 @@ representation of neural states in a two-dimensional eigenvector space which yie
 with 3 vertices (a triangle). Classifying the measured neural states according to their distance 
 from the vertices of the simplex then leads to three clusters of neural data. They can be coded 
 and identified in the PC-state space, where the clusters appear as non-intersecting convex sets 
-distinguishing one normal state and one seizure state (composed of two substates). 
+distinguishing one normal state and one seizure state (composed of two substates).
+
+Finally, the result of the partitioning can be inspected in the originally recorded time series to 
+check whether mental states are reliably assigned to the correct episodes in the EEG dynamics. 
+The study by Allefeld shows perfect agreement between the distinction of normal and epileptic 
+states and the bipartition resulting from the spectral analysis of the neural transition matrix.
+
+ 
