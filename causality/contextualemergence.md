@@ -206,7 +206,7 @@ Mental causation is a horizontal relation between previous and future mental sta
 given by the vertical relation (the downward relation of neural states from higher-level mental constraints).
 Psychophysical neutral elementary entities are composed to sets of such entities that depend on the composition
 of these sets in a way they acquire mental or physical properties. The psychophysically neutral domain does not
-have elementary entiteis waiting to be composed, but, rather, has one overarching whole to be decomposed into
+have elementary entities waiting to be composed, but, rather, has one overarching whole to be decomposed into
 its parts. The mental and material from a psychophysicall neutral whole causes a contextual emergence
 that requires a new technical explanation and a metaphysical one.
 
