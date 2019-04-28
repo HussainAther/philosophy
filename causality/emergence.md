@@ -133,3 +133,12 @@ construction of emergent mental states (e.g., the identification of neural corre
 conscious states). That brain activity provides necessary but not sufficient conditions for 
 mental states, which is a key feature of contextual emergence, becomes increasingly clear 
 even among practicing neuroscientists.
+
+A basic element of theoretical and computational neuroscience are the Hodgkin-Huxley equations 
+for the generation and propagation of action potentials. The Hodgkin-Huxley equations form a 
+system of four ordinary nonlinear differential equations: one electric conductance equation 
+for transmembrane currents, and three master equations describing the opening kinetics of 
+sodium and potassium ion channels. At a higher-level description of ion channel functioning, 
+these equations characterize a deterministic dynamical system. However, at a lower-level 
+description, the presence of master equations within the Hodgkin-Huxley system indicates a 
+stochastic approach in terms of transition probabilities of Markov processes.
