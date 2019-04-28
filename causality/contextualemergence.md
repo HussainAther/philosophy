@@ -226,7 +226,7 @@ Mathematical models of classical point mechanics are most common examples of det
 properties of them are important. (1) The differential dynamics mean the system's evolution obeys a differential equation
 in a space of ontic states. (2) The unique evolution of the system means initial and boundary conditions
 give a unique trajectory. (3) The value determinateness assumes that any state can be described with arbitrarily small error.
-These three features define a hierarchy ofr the contextual emergence of deterministic descriptions assuming
+These three features define a hierarchy for the contextual emergence of deterministic descriptions assuming
 (1) is a necessary condition for determinism, (2) can be proven under sufficient condition that trajectories
 created by a vector field obeying (1) pass through points whose distance is stable under small pertubrations. We assume (2)
 for almost every intiial condition as a necessary condition of determinism that defines a phase flow with weak
