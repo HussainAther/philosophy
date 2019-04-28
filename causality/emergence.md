@@ -77,28 +77,15 @@ as macro-molecular quantum objects with the Schrödinger equation for many parti
 describes a highly entangled state of electrons and atomic nuclei as a whole, and, on a moleculr level,
 the structure of a closed or open pore of an ion channel through the Born-Oppenheimer approximation
 separates electronic and nucleonic wave functions. Then, we can use the electronic quantum dynamics
-in a constrainted rigid nucleonic frame that has a classical spatial structure.
+in a constrainted rigid nucleonic frame that has a classical spatial structure. This stoachstic spatial structure
+gives the equations of the Hodgkin-Huxley system as a contextually emergent phenomenon.
 
-At a second level, the fluctuations of the spatial structure of an ion channel must be treated 
-as a stochastic process. Under the respective stability conditions for such processes (stationarity, 
-ergodicity, mixing a continuous master equation for the molecular configurations can be derived.  
-Finally, at the third level, a contextual coarse-graining of configuration space into four closed 
-and one open state (here for the potassium channel), yields the master equations of the Hodgkin-Huxley 
-system as a contextually emergent description.
+## Mental states emerging from neuroscience
 
-Contextual emergence addresses both the construction of a partition at a lower-level description and 
-the application of a higher-level context to do this in a way adapted to a specific higher-level 
-description. Two alternative strategies have been proposed to contruct Hi-states ("neural macrostates") 
-from Li-states ("neural microstates") previously: one by Amari and collaborators and another one by 
-Crutchfield and collaborators.
+To realize mental states from neural states, we specify the L level as neuron states of neural assemblies
+in the brain with respect ot H, a class of mental states that reflects the situation under study. We may use
+experimental protocols that include a task for subjects to define mental states while recording brain states.
 
-For the contextual emergence of mental states from neural states, the first desideratum is the 
-specification of proper levels L and H . With respect to L , one needs to specify whether states 
-of neurons, of neural assemblies or of the brain as a whole are to be considered; and with respect 
-to H a class of mental states reflecting the situation under study needs to be defined. In a purely 
-theoretical approach, this can be tedious, but in empirical investigations the experimental setup 
-can often be used for this purpose. For instance, experimental protocols include a task for subjects 
-that defines possible mental states, and they include procedures to record brain states.
 
 The first step is to find a proper assignment of Li and Ls at the neural level. A good candidate 
 for Li are the properties of individual neurons. Then the first task is to construct Ls in such 
