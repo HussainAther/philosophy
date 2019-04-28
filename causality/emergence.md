@@ -199,7 +199,8 @@ We can decompose this to give rise to more and more refined partiitons in which 
 classes become smaller and smaller. Phenomenal families of mental states emerge.
 
 On a metaphysical level, mental and physical epistemic limits describe the undivided whole as an
-ontic (physical factual existence) dimesnion. They reminesce of Plato's ideas and Kant's things-in-thesmelves (empirically inaccessible in
+ontic (physical factual existence) dimesnion. They reminesce of philosopher Plato's abstract perfect ideas and
+philosopher Immanuel Kant's things-in-thesmelves (empirically inaccessible in
 principle and specifically mute). The mind-matter problem causes an emergence of mind-matter correlations
 as direct and immediate consequence of the ontic, undivided whole that can't be further divided without
 introducing more distinctions. Many describe determinism as a feature of ontic descriptions of states
