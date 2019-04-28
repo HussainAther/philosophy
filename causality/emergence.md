@@ -14,7 +14,7 @@ on the conditions of the context. Hence, contextual emergence.
 Contextual emergence involves  well-defined relationships between different levels of complexity.
 We can use a two-step procedure to create a systematic, formal way that an individual
 description (Li) creates a statistical description (Ls) among the lower level. This process
-can lead us to decribe individuals at a higher level (Hi). We iterate this process through
+can lead us to decribe individuals at a higher level (Hi). We iterate this process (Li -> Ls -> Hi) through
 sets of descriptions connected with one another to reveal what emerges at higher levels.
 
 During this method, we identify equivalence classes of individual states that are indistinguishable
@@ -32,15 +32,10 @@ small changes. This includes equilibrium states of gas systems and homeostatic r
 between units of biological mechanisms such as glycolysis. We may also define stability as systems
 that have boundaries maintained under the dynamics specified for it We may choose to confine ourselves
 to certain electrochemical properties that emerge from membrane dynamics in synaptic networks. This allows
-the emergent properties to remain well-defined from the contextual topology of L.
+the emergent properties to remain well-defined from the contextual topology of L. It also
+tells us which properties of L are relevant to the contextual emergence of H.
 
 
-
-From a slightly different perspective, the context selected at level H decides which details 
-in Li are relevant and which are irrelevant for individual states in Hi. Differences among all 
-those individual states at Li that fall into the same equivalence class at Ls are irrelevant 
-for the chosen context. In this sense, the stability condition determining the contextual 
-partition at Ls is also a relevance condition.
 
 The interplay of context and stability across levels of description is the core of contextual 
 emergence. Its proper implementation requires an appropriate definition of individual and statistical 
