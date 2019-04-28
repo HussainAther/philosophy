@@ -229,7 +229,7 @@ give a unique trajectory. (3) The value determinateness assumes that any state c
 These three features define a hierarchy for the contextual emergence of deterministic descriptions assuming
 (1) is a necessary condition for determinism, (2) can be proven under sufficient condition that trajectories
 created by a vector field obeying (1) pass through points whose distance is stable under small perturbations. We assume (2)
-for almost every intiial condition as a necessary condition of determinism that defines a phase flow with weak
+for almost every initial condition as a necessary condition of determinism that defines a phase flow with weak
 causality. To prove (3), we need strong causality as a sufficient condition. The deterministc dynamics
 of Kolmogorov flow implement microscopic chaos as a stability condition. It's also possible a continuous stochastic
 process that fulfills the Markov criterion can lead to a determnistic "mean-field equation."
