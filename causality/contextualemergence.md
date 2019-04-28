@@ -129,7 +129,7 @@ The emergence of mental states from electroencephalogram (EEG) dynamics shows
 that data from subjects with EEG data from sporadic epileptic seizures can correlate with mental states
 of the seizures themselves. Using a 20-channel EEG recording, we get a 20-dimension state space
 that we reduce to a lower number through principal component restrictions. We find a homogeneous grid
-of cells to set up a Markov transition matrix that reflects the EEG dynamics using fine-graned auxilary
+of cells to set up a Markov transition matrix that reflects the EEG dynamics using fine-grained auxiliary
 partition. Then, this matrix gives eigenvalues that characterize time scales for which the dynamics can
 be ordered by size. The eigenvectors span an eigenvector space such that the measure principal component
 states form a simplex. The three leading eigenvalue give a neural state repesentation that has a 2-simplex
