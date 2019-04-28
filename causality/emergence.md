@@ -226,7 +226,7 @@ that we observe when descriptive levels transform between one another and their 
 by the interlevel relation of contextual emergence. This gives a formally sound and empirically applicable
 procedure to construct level-specific criteria for relevant observables across disciplines.
 
-## Contextual emergence
+## Reductionism and ontology
 
 Contextual emergence has been originally conceived as a relation between levels of descriptions, 
 not levels of nature: It addresses questions of epistemology rather than ontology. In agreement with Esfeld, 
@@ -237,21 +237,12 @@ Various granularity degrees raises quesitons of descirptions with finer grains a
 nature of systems when compared to coarser grains. The majority of scientists and philosophers of science answer
 believe this, so there's one fundamental ontolgoy that elementary particle physics result from reducing
 other descriptive levels. This reductive premise produced critical assessments and alternatiev proposals.
-Philosopher Willard Van Oramn Quine introduced the ontoological relatively that, if there is one
+Philosopher Willard Van Oramn Quine introduced the ontological relatively that, if there is one
 ontology that fulfills a given descripive theory, there is more than one. Philosopher Hilary Putnam devloped
-a related kind of ontological relativity, first called internal realism, and later refferd to as pragmatic realism. 
+a related kind of ontological relativity, first called internal realism, and later refferd to as pragmatic realism.
 
-
-
-On the basis of these philosophical approaches, Atmanspacher and Kronz suggested how to apply Quine's 
-ideas to concrete scientific descriptions, their relationships with one another, and with their referents. 
-One and the same descriptive framework can be construed as either ontic or epistemic, depending on 
-which other framework it is related to: bricks and tables will be regarded as ontic by an architect, 
-but they will be considered highly epistemic from the perspective of a solid-state physicist.
-
-Coupled with the implementation of relevance criteria due to contextual emergence, the relativity of 
-ontology must not be confused with dropping ontology altogether. The "tyranny of relativism" (as 
-some have called it) can be avoided by identifying relevance criteria to distinguish proper 
-context-specific descriptions from less proper ones. The resulting picture is more subtle and 
-more flexible than an overly bold reductive fundamentalism, and yet it is more restrictive and 
-specific than a patchwork of arbitrarily connected model fragments.
+We may apply Quine's ideas to concrete scientifci descriptions, their relationships with one another, and their
+referents. A descriptive framework can be ontic or epistemic depending on which other framework it relates to.
+An engineer may consider wires of an electrical circuit to be ontic, but a solid-state physicist may consider them epistemic.
+We can use the relevance criteria to distinguish between context-specific decsriptions and avoid pitfalls of reductionism.
+We create a subtle and more flexible framework while still restricting ourselves to the premises and limits of the contextually emergent model.
