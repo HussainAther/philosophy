@@ -214,7 +214,7 @@ created by a vector field obeying (1) pass through points whose distance is stab
 for almost every intiial condition as a necessary condition of determinism that defines a phase flow with weak
 causality. To prove (3), we need strong causality as a sufficient condition. The deterministc dynamics
 of Kolmogorov flow implement microscopic chaos as a stability condition. It's also possible a continuous stochastic
-process that fulfills the Markov criterion can lead to a determnistic "mean-field equation." 
+process that fulfills the Markov criterion can lead to a determnistic "mean-field equation."
 
 Different descriptive levels can correlate with different degrees of granularity. Lower-level descriptions
 address systems in terms of micro-properties while more global macro-properties account for higher-level descriptions.
@@ -246,3 +246,10 @@ referents. A descriptive framework can be ontic or epistemic depending on which 
 An engineer may consider wires of an electrical circuit to be ontic, but a solid-state physicist may consider them epistemic.
 We can use the relevance criteria to distinguish between context-specific decsriptions and avoid pitfalls of reductionism.
 We create a subtle and more flexible framework while still restricting ourselves to the premises and limits of the contextually emergent model.
+
+## Strong and weak emergence
+
+Weak emergence involves emergent properties that computer simulations can control such that the interacting cells
+of the system retain their indepedence. Other emergent properties, irreducible to the system's constituent parts, are strong.
+Both are supervenient and involve novel properties as the system grows, but the distinction introduces a scale-dependency to
+observable phenomena. 
