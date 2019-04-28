@@ -152,7 +152,7 @@ an intentional hierarchy from general case of nonlinear nonequilibrium dissipati
 to more specific intentional systems. A physical system's physical nature is necessary for being a nonlinear
 dissipative nonequilibrium system while a nonlinear dissipative nonequiliibrium nature is necessary for
 an intentional system. An intentional system is necessary for being a true believer, according to Dennett.
-Sufficient conditions in the intentinoal hierarchy implement contextual stability conditions.
+Sufficient conditions in the intentional hierarchy implement contextual stability conditions.
 
 The transition from equilibrium thermodynamcis to fluid dynamics represents phenomenal laws of fluid
 dynamics (like the Navier-Stokes equation) emerging from statistical mechancis under the assumption of
