@@ -153,3 +153,12 @@ either closed or open. The molecular structure of an ion channel is contextually
 through the Born-Oppenheimer approximation separating electronic and nucleonic wave functions. 
 After that separation, the electronic quantum dynamics becomes constrained to a (relatively) 
 rigid nucleonic frame that now possesses a classical spatial structure.
+
+At a second level, the fluctuations of the spatial structure of an ion channel must be treated 
+as a stochastic process. Under the respective stability conditions for such processes (stationarity, 
+ergodicity, mixing a continuous master equation for the molecular configurations can be derived.  
+Finally, at the third level, a contextual coarse-graining of configuration space into four closed 
+and one open state (here for the potassium channel), yields the master equations of the Hodgkin-Huxley 
+system as a contextually emergent description.
+
+
