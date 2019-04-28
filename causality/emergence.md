@@ -229,3 +229,11 @@ The eigenvalues of T express relaxation time scales for the dynamics which can b
 Gaps between successive relaxation times indicate groupings referring to mental states defined by 
 partitions of neural states of increasing refinement. The first group is often sufficient for the 
 distinction of "target" mental states.
+
+The eigenvectors corresponding to the eigenvalues of T span an eigenvector space, in which the 
+measured PC-compactified states form a simplex. For instance, three leading eigenvalues allow a 
+representation of neural states in a two-dimensional eigenvector space which yields a 2-simpex 
+with 3 vertices (a triangle). Classifying the measured neural states according to their distance 
+from the vertices of the simplex then leads to three clusters of neural data. They can be coded 
+and identified in the PC-state space, where the clusters appear as non-intersecting convex sets 
+distinguishing one normal state and one seizure state (composed of two substates). 
