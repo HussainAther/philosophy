@@ -115,3 +115,11 @@ description, step (2) provides individual thermal states from statistical mechan
 Along with this step goes a definition of new, emergent thermal observables that are coextensive, 
 but not identical with mechanical observables. All this is guided by and impossible without 
 the explicit use of the context of thermal equilibrium.
+
+The example of the relation between mechanics and thermodynamics is particularly valuable for 
+the discussion of contextual emergence because it illustrates the two essential construction 
+steps in great detail. There are other examples in physics and chemistry which can be discussed 
+in terms of contextual emergence: emergence of geometric optics from electrodynamics, emergence 
+of electrical engineering concepts from electrodynamics, emergence of chirality 
+as a classical observable from quantum mechanics, emergence of diffusion and friction of a 
+quantum particle in a thermal medium, emergence of hydrodynamic properties from many-particle theory. 
