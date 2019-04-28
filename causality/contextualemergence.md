@@ -122,7 +122,7 @@ lines of a piece of artwork, through the emergent properties of a drawing of a l
 
 We can represent proper cells with basins of attraction and chaotic attractors with coarse-grained generating
 partitions. These partitions of the system lead to Markov chains with a rigorous theoretical constraint
-for the propert definition of stable mental states. The mathematical techniques come from ergodic theory and
+for the proper definition of stable mental states. The mathematical techniques come from ergodic theory and
 symbolic dynamics.
 
 The emergence of metnal states from electroencephalogram (EEG) dynamics shows
