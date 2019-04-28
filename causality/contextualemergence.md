@@ -232,7 +232,7 @@ created by a vector field obeying (1) pass through points whose distance is stab
 for almost every initial condition as a necessary condition of determinism that defines a phase flow with weak
 causality. To prove (3), we need strong causality as a sufficient condition. The deterministic dynamics
 of Kolmogorov flow implement microscopic chaos as a stability condition. It's also possible a continuous stochastic
-process that fulfills the Markov criterion can lead to a determnistic "mean-field equation."
+process that fulfills the Markov criterion can lead to a deterministic "mean-field equation."
 
 Different descriptive levels can correlate with different degrees of granularity. Lower-level descriptions
 address systems in terms of micro-properties while more global macro-properties account for higher-level descriptions.
