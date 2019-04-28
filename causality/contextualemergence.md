@@ -89,7 +89,7 @@ We may use individual neuron properties Li to find Ls such that statistical stat
 of those individual states. The differences must be irrelevant with respect to the higher level H. Philosopher
 David Chalmers said a neural correlate of a conscious mental state can be multiply realized by "minimally sufficient
 neural subsystems correlated with states of consciousness" in "What is a neural correlate of consciousness?"
-We can look at phenomenal families, sets of mutualyl exclusive phenomenal mental states that jointly
+We can look at phenomenal families, sets of mutually exclusive phenomenal mental states that jointly
 partition a space of mental states. Creature consciousness can give us refined levels of phenomenal states
 of background consciousness (awake, dreaming, etc.), wake consciosuness (perceptual, cognitive, affective, etc.),
 perceptual consciousness (visual, audotiry, tactile, etc.), and visual consicousness (color, form, location, etc.). With
