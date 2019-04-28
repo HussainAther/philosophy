@@ -125,7 +125,7 @@ partitions. These partitions of the system lead to Markov chains with a rigorous
 for the proper definition of stable mental states. The mathematical techniques come from ergodic theory and
 symbolic dynamics.
 
-The emergence of metnal states from electroencephalogram (EEG) dynamics shows
+The emergence of mental states from electroencephalogram (EEG) dynamics shows
 that data from subjects with EEG data from sporadic epileptic seizures can correlate with mental states
 of the seizures themselves. Using a 20-channel EEG recording, we get a 20-dimension state space
 that we reduce to a lower number through principal component restrictions. We find a homogeneous grid
