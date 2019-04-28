@@ -110,7 +110,7 @@ one of these contexts, we choose stability criterion at Ls that has complicated 
  Backpropagation of neural networks lets us optimize the gap between reality and models they represent using
  feedback loops with optimal weights of individual neurons when optimized for emergent details. The same way
  a human can differentiate between a drawing of an lion and a photograph of a lion itself using the emergent phenomena of
- visual images that appear together to create a lion, intelligent machines can embrance contextual emergence to
+ visual images that appear together to create a lion, intelligent machines can embrace contextual emergence to
  view the work with inquisitive wonder and curiosity to learn. Instead of having to show a computer hundreds of
  thousands of images of a lion to teach them how to identify a lion, they can realize a lion in another context, such as
 lines of a piece of artwork, through the emergent properties of a drawing of a lion itself.
