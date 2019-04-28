@@ -104,7 +104,7 @@ one of these contexts, we choose stability criterion at Ls that has complicated 
  
  Contextual emergence could help artificial intelligence approach its potential while accounting for the inherent,
  intrinsic differences between science and philosophy. We may model the mind as a contextual emergent phenomena of the
- neurophysiology of the brain. As we learn about the owrld, we can account for emergent phenomena when addressing
+ neurophysiology of the brain. As we learn about the world, we can account for emergent phenomena when addressing
  issues in science and philosophy, and AI would benefit from these methods of understanding. AI could avoid the
  issues of reductionism using higher-level emergetn bheavior resulting from neural networks in the human brain.
  Backpropogation of neural networks lets us optimize the gap between reality and models they represnt using
