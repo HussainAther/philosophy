@@ -238,7 +238,7 @@ Different descriptive levels can correlate with different degrees of granularity
 address systems in terms of micro-properties while more global macro-properties account for higher-level descriptions.
 Philosopher Bas van Fraassen noted the explanatory relativity, in which explanations are not only
 relationships between theories and facts, but three-place relations between theories, facts, and contexts.
-Contexts determine relevance of explanation backed by relevance critera for reproduciibity in science, especially in interdisciplinary
+Contexts determine relevance of explanation backed by relevance criteria for reproducibility in science, especially in interdisciplinary
 fields such as bioinformatics or computational neuroscience. This gives a framework for discussing contextual emergence
 alongside theories and facts as they relate to explanations. We consider the granularity of descriptions
 that we observe when descriptive levels transform between one another and their associated granularities
