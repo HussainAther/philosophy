@@ -183,5 +183,11 @@ a neural correlate of a conscious mental state can be multiply realized by "mini
 neural subsystems correlated with states of consciousness" from David Chalmers "What is a neural 
 correlate of consciousness?".
 
-
-
+In order to identify such a subsystem, we need to select a context at the level of mental states. 
+As one among many possibilities, one may use the concept of "phenomenal families" for this purpose. 
+A phenomenal family is a set of mutually exclusive phenomenal (mental) states that jointly partition 
+the space of mental states. Starting with something like creature consciousness, that is being conscious 
+versus being not conscious, one can define increasingly refined levels of phenomenal states of background 
+consciousness (awake, dreaming, sleep, anesthesia, ...), wake consciousness (perceptual, cognitive, 
+affective, ...), perceptual consciousness (visual, auditory, tactile, ...), visual consciousness 
+(color, form, location, ...), and so on.
