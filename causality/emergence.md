@@ -40,6 +40,8 @@ moving from a higher context to a lower one requires the stability conditions to
 partitions of the system while moving to a higher context means the statistics of lower-level states
 extend to higher-level individual states we can observe.
 
+## Point mechanics to statistical mechanics to thermodynamics
+
 We can even demonstrate the relationship between different fields of science through contextual
 emergence. Moving from classical point mechanics, involving forces due to gravitational effects and
 electromagnetism, to statistical mechanics to thermodynamics illustrates this phenomena. From point mechanics
@@ -49,15 +51,7 @@ like momenta or energy of distributions, such as the Maxwell-Boltzmann distribut
 we can find mean kinetic energy, Gibbs free energy, entropy, and other statistical quantities.
 
 We can observe expectation values of momenta distrubitioins of particle ensembles to calculate temperature
-of the system as a higher-level function (Hi). )
-
-Step (2) is the step from statistical mechanics to thermodynamics. Concerning observables, this is the 
-step from the expectation value of a momentum distribution of a particle ensemble (Ls) to the temperature 
-of the system as a whole (Hi). In many standard philosophical discussions this step is mischaracterized 
-by the false claim that the thermodynamic temperature of a gas is identical with the mean kinetic energy 
-of the molecules which constitute the gas. A proper discussion of the details was not available for a 
-long time and has been achieved by Haag et al. (1974) and Takesaki (1970) in the framework of quantum 
-field theory.
+of the system as a higher-level function (Hi).
 
 The main conceptual point in step (2) is that thermodynamic observables such as temperature presume 
 thermodynamic equilibrium as a crucial assumption serving as a contextual condition. It is formulated 
@@ -372,7 +366,7 @@ for almost every initial condition as a necessary condition of determinism defin
 with weak causality. In order to prove (3) one needs strong causality as a sufficient condition.
 
 For a weakly causal system violating (3), trajectories may exponentially diverge, as in chaotic systems. 
-In this situation, dilation techniques (e.g., Gustafson 2002) can lead to contextually emergent 
+In this situation, dilation techniques can lead to contextually emergent
 stochasticity in two steps. In the first step, a coarse-graining yields a Markov process. If this 
 process is mixing such that it approaches an equilibrium distribution, the deterministic 
 dynamics is a Kolmogorov-flow, thereby implementing microscopic chaos as a stability condition.
@@ -391,7 +385,7 @@ Usually, different descriptive levels go along with different degrees of granula
 descriptions address systems in terms of micro-properties (position, momentum, etc.), other, more global, 
 macro-properties are more suitably taken into account for higher-level descriptions.
 
-This observation led van Fraassen (1980) to the notion of explanatory relativity, where explanations 
+This observation led van Fraassen to the notion of explanatory relativity, where explanations
 are not only relationships between theories and facts; they are three-place relations between theories, 
 facts, and contexts. The relevance of an explanation is determined by contexts that have to be selected, 
 and are not themselves part of a scientific description.
