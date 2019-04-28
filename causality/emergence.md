@@ -51,7 +51,8 @@ like momenta or energy of distributions, such as the Maxwell-Boltzmann distribut
 we can find mean kinetic energy, Gibbs free energy, entropy, and other statistical quantities.
 
 We can observe expectation values of momenta distrubitioins of particle ensembles to calculate temperature
-of the system as a higher-level function (Hi).
+of the system as a higher-level function (Hi) on the assumption the system is in equilibrium. The zeroth law
+of thermodynamics does not come from statistical mechnics, but from thermodynamics.
 
 The main conceptual point in step (2) is that thermodynamic observables such as temperature presume 
 thermodynamic equilibrium as a crucial assumption serving as a contextual condition. It is formulated 
