@@ -60,27 +60,10 @@ and mixing using the zeroth law of thermodynamics to define the system as stable
 also use the second law of thermodynamics to express the stability in maximization of entropy
 for thermal equilibrium states.
 
-Statistical KMS states induce a contextual topology in the state space of statistical mechanics (Ls) 
-which is basically a coarse-grained version of the topology of Li. This means nothing else than a 
-partitioning of the state space into cells, leading to statistical states (Ls) that represent equivalence 
-classes of individual states (Li). They form ensembles of states that are indistinguishable with 
-respect to their mean kinetic energy and can be assigned the same temperature (Hi). Differences 
-between individual states at Li falling into the same equivalence class at Ls are irrelevant with 
-respect to a particular temperature at Hi.
-
-While step (1) formulates statistical states from individual states at the mechanical level of 
-description, step (2) provides individual thermal states from statistical mechanical states. 
-Along with this step goes a definition of new, emergent thermal observables that are coextensive, 
-but not identical with mechanical observables. All this is guided by and impossible without 
-the explicit use of the context of thermal equilibrium.
-
-The example of the relation between mechanics and thermodynamics is particularly valuable for 
-the discussion of contextual emergence because it illustrates the two essential construction 
-steps in great detail. There are other examples in physics and chemistry which can be discussed 
-in terms of contextual emergence: emergence of geometric optics from electrodynamics, emergence 
-of electrical engineering concepts from electrodynamics, emergence of chirality 
-as a classical observable from quantum mechanics, emergence of diffusion and friction of a 
-quantum particle in a thermal medium, emergence of hydrodynamic properties from many-particle theory. 
+The first step of the contextual emergence process (Li -> Ls) describes statistical states from the individual
+states, and the second gives indiidual thermal states from statistical mechanical states. Other examples may
+include emergence of geometric optics from electrodynaimcs, electrical engineering features from electrodynamics,
+chirality from quantum mechanics, and diffusion or friction of a quantum particle in a thermal medium.
 
 If descriptions at L and H are well established, as it is the case in the preceding example, 
 formally precise interlevel relations can be set up fairly straightforwardly. The situation 
