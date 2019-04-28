@@ -41,7 +41,15 @@ coarse-grained states, i.e. cells of a partition whose boundaries are (approxima
 
 Stability criteria guarantee that the statistical states of Ls are based on a robust partition 
 so that the emergent observables in Hi are well-defined. (For instance, if a partition is not 
-stable under the dynamics of the system at Li , the assignment of states in Hi will change over 
+stable under the dynamics of the system at Li, the assignment of states in Hi will change over 
 time and, thus, will be ill-defined.) Implementing a contingent context of Hi as a stability 
-criterion in Li yields a proper partitioning for Ls . In this way, the lower-level state 
+criterion in Li yields a proper partitioning for Ls. In this way, the lower-level state 
 space is endowed with a new, contextual topology.
+
+From a slightly different perspective, the context selected at level H decides which details 
+in Li are relevant and which are irrelevant for individual states in Hi. Differences among all 
+those individual states at Li that fall into the same equivalence class at Ls are irrelevant 
+for the chosen context. In this sense, the stability condition determining the contextual 
+partition at Ls is also a relevance condition.
+
+
