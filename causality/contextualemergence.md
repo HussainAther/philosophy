@@ -107,7 +107,7 @@ one of these contexts, we choose stability criterion at Ls that has complicated 
  neurophysiology of the brain. As we learn about the world, we can account for emergent phenomena when addressing
  issues in science and philosophy, and AI would benefit from these methods of understanding. AI could avoid the
  issues of reductionism using higher-level emergent behavior resulting from neural networks in the human brain.
- Backpropogation of neural networks lets us optimize the gap between reality and models they represnt using
+ Backpropagation of neural networks lets us optimize the gap between reality and models they represent using
  feedback loops with optimal weights of individual neruons when optimized for emergetn details. The same way
  a human can differentiate between a drawing of an lion and a photograph of a lion itself using the emergent phenomena of
  visual images that appear together to create a lion, intelligent machines can embrance contextual emergence to
