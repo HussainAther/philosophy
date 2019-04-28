@@ -217,4 +217,10 @@ A pertinent example for the application of contextual emergence to experimental 
 between mental states and EEG dynamics. In a recent study, Allefeld tested the method using data 
 from the EEG of subjects with sporadic epileptic seizures. This means that the neural level is 
 characterized by brain states recorded via EEG, while the context of normal and epileptic mental 
-states essentially requires a bipartition of that neural state space. 
+states essentially requires a bipartition of that neural state space.
+
+The data analytic procedure rests on ideas by Gaveau and Schulman, Froyland, and Deuflhard and Weber. 
+It starts with a (for instance) 20-channel EEG recording, giving rise to a state space of dimension 20, 
+which can be reduced to a lower number by restricting to principal components (PC). On the resulting 
+low-dimensional state space, a homogeneous grid of cells is imposed in order to set up a Markov 
+transition matrix T reflecting the EEG dynamics on a fine-grained auxiliary partition. 
