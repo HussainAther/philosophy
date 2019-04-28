@@ -167,3 +167,10 @@ description. Two alternative strategies have been proposed to contruct Hi-states
 from Li-states ("neural microstates") previously: one by Amari and collaborators and another one by 
 Crutchfield and collaborators.
 
+For the contextual emergence of mental states from neural states, the first desideratum is the 
+specification of proper levels L and H . With respect to L , one needs to specify whether states 
+of neurons, of neural assemblies or of the brain as a whole are to be considered; and with respect 
+to H a class of mental states reflecting the situation under study needs to be defined. In a purely 
+theoretical approach, this can be tedious, but in empirical investigations the experimental setup 
+can often be used for this purpose. For instance, experimental protocols include a task for subjects 
+that defines possible mental states, and they include procedures to record brain states.
