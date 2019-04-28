@@ -188,7 +188,7 @@ are either causally inefficacious or have the threat of overdetermining neural s
 nor horizontally determining causal role at all or they're the causes of the neural bases of their relevant horizontal mental
 effects. Contextual emergence through different levels of complexity means the conflict between horizontal
 and vertical determination of mental events isn't an issue. We can define proper mental states from dynamics
-of an underlying neural system through statistical enrual states on proper partitions with individual mental states.
+of an underlying neural system through statistical neural states on proper partitions with individual mental states.
 
 This construction implies that the mental dynamics and the neural dynamics, related to each other 
 by a so-called intertwiner, are topologically equivalent. Instead of some mutually exclusive duality of the mental
