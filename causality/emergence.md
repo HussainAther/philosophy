@@ -200,3 +200,9 @@ the dynamics. This guarantees that individual mental states Hi, defined on the b
 neural states Ls, remain well-defined as the system develops in time. The reason is that differences 
 between individual neural states Li belonging to the same statistical state Ls remain irrelevant as the 
 system develops in time.
+
+The construction of statistical neural states is strikingly analogous to what leads Butterfield to the 
+notion of meshing dynamics. In his terminology, L-dynamics and H-dynamics mesh if coarse graining and 
+time evolution commute. From the perspective of contextual emergence, meshing is guaranteed by the 
+stability criterion induced by the higher-level context. In this picture, meshing translates into 
+the topological equivalence of the two dynamics.
