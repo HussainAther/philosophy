@@ -31,3 +31,12 @@ level L. The chosen context provides conditions that can be implemented as stabi
 level L. It is crucial that such stability conditions cannot be specified without knowledge 
 about the context at level H. In this sense the context yields a top-down constraint, or 
 downward confinement (sometimes misleadingly called downward causation).
+
+The notion of stability induced by context is of paramount significance for contextual emergence. 
+Roughly speaking, stability refers to the fact that some system is robust under (small) 
+perturbations - for instance, if (small) perturbations of a homeostatic or equilibrium 
+state are damped out by the dynamics, so that the initial state is (asymptotically) retained. 
+The more complicated notion of a stable partition of a state space is based on the idea of 
+coarse-grained states, i.e. cells of a partition whose boundaries are (approximately) maintained under the dynamics.
+
+
