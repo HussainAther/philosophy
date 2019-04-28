@@ -92,7 +92,7 @@ neural subsystems correlated with states of consciousness" in "What is a neural 
 We can look at phenomenal families, sets of mutually exclusive phenomenal mental states that jointly
 partition a space of mental states. Creature consciousness can give us refined levels of phenomenal states
 of background consciousness (awake, dreaming, etc.), wake consciousness (perceptual, cognitive, affective, etc.),
-perceptual consciousness (visual, audotiry, tactile, etc.), and visual consciousness (color, form, location, etc.). With
+perceptual consciousness (visual, auditory, tactile, etc.), and visual consciousness (color, form, location, etc.). With
 one of these contexts, we choose stability criterion at Ls that has complicated neurodynamics to find robust, proper
  statistical states.
  
