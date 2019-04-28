@@ -106,7 +106,7 @@ one of these contexts, we choose stability criterion at Ls that has complicated 
  intrinsic differences between science and philosophy. We may model the mind as a contextual emergent phenomena of the
  neurophysiology of the brain. As we learn about the world, we can account for emergent phenomena when addressing
  issues in science and philosophy, and AI would benefit from these methods of understanding. AI could avoid the
- issues of reductionism using higher-level emergetn bheavior resulting from neural networks in the human brain.
+ issues of reductionism using higher-level emergent behavior resulting from neural networks in the human brain.
  Backpropogation of neural networks lets us optimize the gap between reality and models they represnt using
  feedback loops with optimal weights of individual neruons when optimized for emergetn details. The same way
  a human can differentiate between a drawing of an lion and a photograph of a lion itself using the emergent phenomena of
