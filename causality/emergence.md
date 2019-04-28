@@ -85,15 +85,10 @@ gives the equations of the Hodgkin-Huxley system as a contextually emergent phen
 To realize mental states from neural states, we specify the L level as neuron states of neural assemblies
 in the brain with respect ot H, a class of mental states that reflects the situation under study. We may use
 experimental protocols that include a task for subjects to define mental states while recording brain states.
-
-
-The first step is to find a proper assignment of Li and Ls at the neural level. A good candidate 
-for Li are the properties of individual neurons. Then the first task is to construct Ls in such 
-a way that statistical states are based on equivalence classes of those individual states whose 
-differences are irrelevant with respect to a given mental state at level H. This reflects that 
-a neural correlate of a conscious mental state can be multiply realized by "minimally sufficient 
-neural subsystems correlated with states of consciousness" from David Chalmers "What is a neural 
-correlate of consciousness?".
+We may use individual neuron properties Li to find Ls such taht statisical states have equivalence classes
+of those individual states. The differences must be irrelevant with respect to the higher level H. Philosopher
+David Chalmers said a neural correlate of a conscious mental state can be mulltiply realized by "minimally sufficient
+neural subsystems correlated with states of consciousness" in "What is a neural correlate of consciousness?"
 
 In order to identify such a subsystem, we need to select a context at the level of mental states. 
 As one among many possibilities, one may use the concept of "phenomenal families" for this purpose. 
