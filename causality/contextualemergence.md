@@ -179,11 +179,11 @@ processes. Symbolic grounding is contextually emergent.
 
 ## Mental causation
 
-Describing the mind as causally reelvant in a physical world introduces the problem of mental causation, the quesiton
-of how mental phenomena can be highly signficant in psychology and cognitive neuroscience. It means creating
+Describing the mind as causally relevant in a physical world introduces the problem of mental causation, the question
+of how mental phenomena can be highly significant in psychology and cognitive neuroscience. It means creating
 a notion of agency that includes the causal efficacy of mental states. This causal efficacy of mental phenomena
 seems inconsistent with vertical (interlevel, synchronic) determination of the mental state by neural correlates.
-Philosophy Jaegwon Kim argued supervenience (also known as exclusion) describes the problem that mental states
+Philosopher Jaegwon Kim argued supervenience (also known as exclusion) describes the problem that mental states
 are either causally inefficacious or have the threat of overdetermining neural states. Either mental events play
 nor horizontally determining causal role at all or they're the causes of the neural bases of their relevant horizontal mental
 effects. Contextual emergence through different levels of complexity means the conflict between horizontal
