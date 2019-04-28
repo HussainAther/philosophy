@@ -194,7 +194,7 @@ This construction implies that the mental dynamics and the neural dynamics, rela
 by a so-called intertwiner, are topologically equivalent. Instead of some mutually exclusive duality of the mental
 and the neural, we have a monistic idea that they are part of one and the same concept, albeit related to one another
 in a significant way. We can describe it using dual-aspect monism using symmetry breakdown conceptually prior
-to the opposite of generalization. When symmetries between entities restore themselves, we osberve the similarities brought upon
+to the opposite of generalization. When symmetries between entities restore themselves, we observe the similarities brought upon
 by the symmetries and generate equivalence classes of increasing size that can describe contextually emergent phenomena.
 Given properly defined mental states, the neural dynamics gives rise to a mental dynamics that is
 independent of those neurodynamical details that are irrelevant for a proper construction of mental states. Mental states
