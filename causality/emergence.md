@@ -101,6 +101,17 @@ one of these contexts, we choose stability criterion at Ls that has complicated 
  between the two levels, that follow from higher-level stability criterion. The coarse graining means fine details
  of the system can be smoothed over, as entropy of the system increases, such that we can make predictions
  about the system as a whole.
+ 
+ Contextual emergence could help artificial intelligence approach its potential while accounting for the inherent,
+ intrinsic differences between science and philosophy. We may model the mind as a contextual emergent phenomena of the
+ neurophysiology of the brain. As we learn about the owrld, we can account for emergent phenomena when addressing
+ issues in science and philosophy, and AI would benefit from these methods of understanding. AI could avoid the
+ issues of reductionism using higher-level emergetn bheavior resulting from neural networks in the human brain.
+ Bacpropogation of neural networks lets us optimize the gap between reality and models they represnt using
+ feedback loops with optimal weights of individual neruons when optimized for emergetn details. The same way
+ a human can differentiate between a picture of an lion and a lion itself using the emergent phenomena of
+ visual images that appear together to create a lion, intelligent machines can embrance contextual emergence to
+ view the work with inquisitive wonder and curiosity to learn. 
 
 We can represent proper cells with basins of attraction and chaotic attractors with coarse-grained generating
 partitions. These partitions of the system lead to Markov chains with a rigorous theoretical constraint
