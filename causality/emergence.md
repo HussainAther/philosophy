@@ -93,4 +93,11 @@ alone. (Needless to say, there are more thermodynamic observables in addition to
 also a feature so fundamental as irreversibility in thermodynamics depends crucially on the context of 
 thermal equilibrium.)
 
-
+The context of thermal equilibrium (Hi) can be recast in terms of a class of distinguished statistical 
+states (Ls), the so-called Kubo-Martin-Schwinger (KMS) states. These states are defined by the KMS 
+condition which characterizes the (structural) stability of a KMS state against local perturbations. 
+(More precisely, this includes stationarity, ergodicity, and mixing). Hence, the KMS condition 
+implements the zeroth law of thermodynamics as a stability criterion at the level of statistical 
+mechanics. (The second law of thermodynamics expresses this stability in terms of a maximization 
+of entropy for thermal equilibrium states. Equivalently, the free energy of the system is minimal 
+in thermal equilibrium.)
