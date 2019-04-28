@@ -193,7 +193,7 @@ of an underlying neural system through statistical neural states on proper parti
 This construction implies that the mental dynamics and the neural dynamics, related to each other 
 by a so-called intertwiner, are topologically equivalent. Instead of some mutually exclusive duality of the mental
 and the neural, we have a monistic idea that they are part of one and the same concept, albeit related to one another
-in a signficiant way. We can describe it using dual-aspect monism using symmetry breakdown conceptually prior
+in a significant way. We can describe it using dual-aspect monism using symmetry breakdown conceptually prior
 to the opposite of generalization. When symmetries between entities restore themselves, we osberve the similarities brought upon
 by the symmetries and generate equivalence classes of increasing size that can describe contextually emergent phenomena.
 Given properly defined mental states, the neural dynamics gives rise to a mental dynamics that is
