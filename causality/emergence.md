@@ -212,71 +212,36 @@ These three features define a hierarchy ofr the contextual emergence of determin
 (1) is a necessary condition for determinism, (2) can be proven under sufficient condition that trajectories
 created by a vector field obeying (1) pass through points whose distacne is stable under small pertubrations. We assume (2)
 for almost every intiial condition as a necessary condition of determinism that defines a phase flow with weak
-causality. To prove (3), we need strong causality as a sufficient condition.
+causality. To prove (3), we need strong causality as a sufficient condition. The deterministc dynamics
+of Kolmogorov flow implement microscopic chaos as a stability condition. It's also possible a continuous stochastic
+process that fulfills the Markov criterion can lead to a determnistic "mean-field equation." "
 
-These three points are not independent from each other but define a hierarchy for the contextual 
-emergence of deterministic descriptions assuming (1) as a necessary condition for determinism, 
-(2) can be proven under the sufficient condition that the trajectories created by a vector field 
-obeying (1) pass through points whose distance is stable under small perturbations. Assuming (2) 
-for almost every initial condition as a necessary condition of determinism defines a phase flow 
-with weak causality. In order to prove (3) one needs strong causality as a sufficient condition.
+Different descriptive levels can correlate with different degrees of granularity. Lower-level descriptions
+address systems in terms of micro-properties while more global macro-properties account for higher-level descriptions.
+Philosophy Bas van Fraassen noted the explanatory relativity, in which explanations are not only
+relationships between theories and factse, but three-place relations between theories, facts, and contexts.
+Contexts determine relevance of explanation backed by relevance critera for reproduciibity in science, especially in interdisciplinary
+fields such as bioinformatics or computational neuroscience. We consider the granularity of descriptions
+that we observe when descriptive levels transform between one another and their associated granularities
+by the interlevel relation of contextual emergence. This gives a formally sound and empirically applicable
+procedure to construct level-specific criteria for relevant observables across disciplines.
 
-For a weakly causal system violating (3), trajectories may exponentially diverge, as in chaotic systems. 
-In this situation, dilation techniques can lead to contextually emergent
-stochasticity in two steps. In the first step, a coarse-graining yields a Markov process. If this 
-process is mixing such that it approaches an equilibrium distribution, the deterministic 
-dynamics is a Kolmogorov-flow, thereby implementing microscopic chaos as a stability condition.
- 
-Interestingly, the converse is also possible. For a continuous stochastic process which 
-fulfills the Markov criterion, the master equation approach leads to a deterministic "mean-field equation". 
-Bishop and beim Graben showed that this situation is analogous to the paradigmatic example of the 
-contextual emergence of thermal equilibrium states where thermal KMS macrostates are almost pure, and 
-hence almost dispersion-free.
-
-Reproducibility is one of the pillars of scientific methodology, yet it becomes particularly 
-difficult in interdisciplinary research where the results to be reproduced typically refer to 
-more than one single level of description of the system considered. In such cases it is mandatory 
-to distinguish the relevant attributes or observables of the system, depending on its description. 
-Usually, different descriptive levels go along with different degrees of granularity. While lower-level 
-descriptions address systems in terms of micro-properties (position, momentum, etc.), other, more global, 
-macro-properties are more suitably taken into account for higher-level descriptions.
-
-This observation led van Fraassen to the notion of explanatory relativity, where explanations
-are not only relationships between theories and facts; they are three-place relations between theories, 
-facts, and contexts. The relevance of an explanation is determined by contexts that have to be selected, 
-and are not themselves part of a scientific description.
-
-Explanatory relativity backed up by relevance criteria can vitally serve the discussion of reproducibility 
-across scientific disciplines. Features that are relevant for a proper explanation of some 
-observation should have a high potential to be also relevant for the robust reproduction 
-of that observation. But which properties of systems and their descriptions may be promising 
-candidates for the application of such relevance criteria? One option to highlight relevance 
-criteria is to consider the "granularity" (coarseness) of a description, which usually changes across disciplines.
-
-The transformation between descriptive levels and their associated granularities is possible 
-by the interlevel relation of contextual emergence. It yields a formally sound and empirically 
-applicable procedure to construct level-specific criteria for relevant observables across disciplines. 
-Relevance criteria merged with contextual emergence challenge the old idea of one fundamental 
-ontology from which everything else derives. At the same time, the scheme of contextual emergence 
-is specific enough to resist the backlash into a relativist patchwork of unconnected model fragments.
+## Contextual emergence
 
 Contextual emergence has been originally conceived as a relation between levels of descriptions, 
 not levels of nature: It addresses questions of epistemology rather than ontology. In agreement with Esfeld, 
 who advocated that ontology needs to regain more significance in science, it would be desirable to 
 know how ontological considerations might be added to the picture that contextual emergence provides.
 
-A network of descriptive levels of varying degrees of granularity raises the question of whether 
-descriptions with finer grains are more fundamental than those with coarser grains. The 
-majority of scientists and philosophers of science in the past tended to answer this question 
-affirmatively. As a consequence, there would be one fundamental ontology, preferentially that of 
-elementary particle physics, to which the terms at all other descriptive levels can be reduced.
+Various granularity degrees raises quesitons of descirptions with finer grains as they relate to the fundamental
+nature of systems when compared to coarser grains. The majority of scientists and philosophers of science answer
+believe this, so there's one fundamental ontolgoy that elementary particle physics result from reducing
+other descriptive levels. This reductive premise produced critical assessments and alternatiev proposals.
+Philosopher Willard Van Oramn Quine introduced the ontoological relatively that, if there is one
+ontology that fulfills a given descripive theory, there is more than one. Philosopher Hilary Putnam devloped
+a related kind of ontological relativity, first called internal realism, and later refferd to as pragmatic realism. 
 
-But this reductive credo also produced critical assessments and alternative proposals. A philosophical 
-precursor of trends against a fundamental ontology is Quine's ontological relativity. Quine 
-argued that if there is one ontology that fulfills a given descriptive theory, then there is more 
-than one. It makes no sense to say what the objects of a theory are, beyond saying how to interpret or 
-reinterpret that theory in another theory. Putnam later developed a related kind of 
-ontological relativity, first called internal realism, later sometimes modified to pragmatic realism.
+
 
 On the basis of these philosophical approaches, Atmanspacher and Kronz suggested how to apply Quine's 
 ideas to concrete scientific descriptions, their relationships with one another, and with their referents. 
