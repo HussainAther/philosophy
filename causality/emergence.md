@@ -123,25 +123,15 @@ recurrence plot of the dnyamical system. We figure out the metastable states and
 between them using a Markov chain with one distinguished transient state and other states representing
 the metastable states in the dynamics.
 
+## Intentionality
 
-The deviation of a given contextual segmentation from the optimal segmentation can be assessed 
-using a utility function whose maximization leads to a contextually emergent brain microstate 
-segmentation of the EEG. Applying this technique to EEG data from anesthetized ferrets and to 
-event-related brain potentials from human language-processing experiments revealed good correlation 
-with mental states.
-
-According to Dennett, the intentional stance can be applied to the prediction of any system's 
-behavior that is too complex to be treated as either a physical or a designed system. Intentional 
-systems in this sense are systems whose behavior is predictable upon ascribing beliefs and desires to 
-their internal states. Examples for intentional systems range from thermostats and chess computers 
-over "magnetic snakes" to "true believers", e.g. human beings.
-
-To make meaningful predictions of a system, several necessary and sufficient conditions on the 
-system's dynamics must be fulfilled (beim Graben 2014). First of all, the system's dynamics 
-must be non-trivial, thus excluding most kinds of linear systems with periodic oscillations 
-or damped relaxations. The class of putative intentional systems can be embedded into an 
-"intentional hierarchy" ranging from the general case of nonlinear nonequilibrium dissipative 
-systems to more specific intentional systems and "true believers" as a subclass.
+Philosopher Daniel Dennett describes the intentional stance of the prediction of an system's behavior
+too complex to be treated as either a physical or desgined system. Intentional systems behave in predicted
+ways by ascribing beliefs and desires to their internal states. From thermostats to chess computers,
+we can make predictions of a system with necessary and sufficient coonditions. The system's dynamics have
+to be non-trivial, so this excludes linear systems with periodic oscillations or damped relaxations. We construct
+an intentional hierarchy from general case of nonlinear nonequilibrium dissipative systems
+to more specific intentional systems. 
 
 Being a physical system is necessary for being a nonlinear dissipative nonequilibrium system; 
 being a nonlinear dissipative nonequilibrium system is necessary for being an intentional system; 
