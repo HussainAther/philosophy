@@ -35,7 +35,7 @@ to certain electrochemical properties that emerge from membrane dynamics in syna
 the emergent properties to remain well-defined from the contextual topology of L. It also
 tells us which properties of L are relevant to the contextual emergence of H.
 
-This interplay between upward and downard strategies lets the system remain self-consistent.
+This interplay between upward and downward strategies lets the system remain self-consistent.
 moving from a higher context to a lower one requires the stability conditions to lead to lower-level
 partitions of the system while moving to a higher context means the statistics of lower-level states
 extend to higher-level individual states we can observe.
