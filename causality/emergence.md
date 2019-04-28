@@ -65,4 +65,9 @@ contexts are required to implement lower-level stability conditions leading to p
 partitions, which in turn are needed to define those lower-level statistical states that are 
 co-extensional (not necessarily identical) with higher-level individual states and their associated observables.
 
-
+As an example, consider the transition from classical point mechanics over statistical mechanics to 
+thermodynamics (Bishop and Atmanspacher 2006). Step (1) in the discussion above is here the step from 
+point mechanics to statistical mechanics, essentially based on the formation of an ensemble distribution. 
+Particular properties of a many-particle system are defined in terms of a statistical ensemble description 
+(e.g., as moments of a many-particle distribution function) which refers to the statistical state of 
+an ensemble (Ls) rather than the individual states of single particles (Li).
