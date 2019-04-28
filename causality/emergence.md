@@ -89,15 +89,11 @@ We may use individual neuron properties Li to find Ls such taht statisical state
 of those individual states. The differences must be irrelevant with respect to the higher level H. Philosopher
 David Chalmers said a neural correlate of a conscious mental state can be mulltiply realized by "minimally sufficient
 neural subsystems correlated with states of consciousness" in "What is a neural correlate of consciousness?"
+We can look at phenomenal families, sets of mutualyl exclusive phenomenal mental states that jointly
+partition a space of mental states. Creature consciousness can give us refined levels of phenomenal states
+of background consciousness (awake, dreaming, etc.), wake consciosuness (perceptual, cognitive, affective, etc.),
+perceptual consciousness (visual, audotiry, tactile, etc.), and visual consicousness (color, form, location, etc.).
 
-In order to identify such a subsystem, we need to select a context at the level of mental states. 
-As one among many possibilities, one may use the concept of "phenomenal families" for this purpose. 
-A phenomenal family is a set of mutually exclusive phenomenal (mental) states that jointly partition 
-the space of mental states. Starting with something like creature consciousness, that is being conscious 
-versus being not conscious, one can define increasingly refined levels of phenomenal states of background 
-consciousness (awake, dreaming, sleep, anesthesia, ...), wake consciousness (perceptual, cognitive, 
-affective, ...), perceptual consciousness (visual, auditory, tactile, ...), visual consciousness 
-(color, form, location, ...), and so on.
 
 Selecting one of these levels provides a context which can then be implemented as a stability criterion 
 at Ls. In cases like the neural system, where complicated dynamics far from thermal equilibrium are 
