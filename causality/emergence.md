@@ -173,11 +173,15 @@ and vertical determination of mental events isn't an issue. We can define proper
 of an underlying neural system through statistical enrual states on proper partitions with individual mental states.
 
 This construction implies that the mental dynamics and the neural dynamics, related to each other 
-by a so-called intertwiner, are topologically equivalent. Given properly defined mental states, the 
-neural dynamics gives rise to a mental dynamics that is independent of those neurodynamical details 
-that are irrelevant for a proper construction of mental states. Mental states can be causally and horizontally
-related to other metnal states, and they neither cause their vertical neural determiners nor cause the horizontal
-effects of the neural determiners. This resolve the problem of mental causation in a deflationary manner.
+by a so-called intertwiner, are topologically equivalent. Instead of some mutually exclusive duality of the mental
+and the neural, we have a monistic idea that they are part of one and the same concept, albeit related to one another
+in a signficiant way. We can describe it using dual-aspect monism using symmetry breakdown conceptually prior
+to the opposite of generalization. When symmetries between entities restore themselves, we osberve the similarities brought upon
+by the symmetries and generate equivalence classes of increasing size that can describe contextually emergent phenomena.
+Given properly defined mental states, the neural dynamics gives rise to a mental dynamics that is
+independent of those neurodynamical details that are irrelevant for a proper construction of mental states. Mental states
+can be causally and horizontally related to other metnal states, and they neither cause their vertical neural determiners nor
+cause the horizontal effects of the neural determiners. This resolve the problem of mental causation in a deflationary manner.
 Vertical and horizontal determination don't compete against one another. They work cooperatively.
 
 Mental causation is a horizontal relation between previous and future mental states with effectiveness
@@ -186,17 +190,15 @@ Psychophysical neutral elementary entitres are composed to sets of such entities
 of these sets in a way they acquire mental or physical properties. The psychophysically neutral domain does not
 have elementary entiteis waiting to be composed, but, rather, has one overarching whole to be decomposed into
 its parts. The mental and material from a psychophysicall neutral whole causes a contextual emergence
-that requires a new technical explanation and a metaphysical one. The technical framework refers to the contextual
-emergence of multiplicity from unity. The "primordial" decomposition of an undivided whole generates
-different domains that gives rise to differentiations, such as the mind-matter distinction.
+that requires a new technical explanation and a metaphysical one.
 
-In the decompositional variety of dual-aspect monism, refinement by symmetry breakdown is conceptually 
-prior to its opposite of generalization, where the restoration of symmetries generates equivalence 
-classes of increasing size. The basic undivided, psychophysically neutral reality is the trivial 
-partition where nothing is distinguished. There is full symmetry and, hence, the corresponding 
-reality is "ineffable", or "discursively inaccessible". Successive decompositions give rise to 
-more and more refined partitions, where symmetries are broken and equivalence classes beome 
-smaller and smaller. Phenomenal families of mental states illustrate this for the mental domain.
+The technical framework refers to the contextual emergence of multiplicity from unity. The "primordial" decomposition
+of an undivided whole generates different domains that gives rise to differentiations, such as the mind-matter distinction.
+The psychophysical neutral reality is the trivial, completely symmetric partiiton in which nothing is ditinguished from one another.
+We can decompose this to give rise to more and more refined partiitons in which symmetries are broke nadn equivalence
+classes become smaller and smaller. Phenomenal families of mental states emerge.
+
+On a metaphysical level,
 
 At the metaphysical level, the mental and the physical remain epistemic, but the undivided whole 
 is added as an ontic dimension. This reminds one of Plato's ideas or Kant's things-in-themselves, 
