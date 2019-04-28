@@ -277,6 +277,6 @@ We create a subtle and more flexible framework while still restricting ourselves
 ## Strong and weak emergence
 
 Weak emergence involves emergent properties that computer simulations can control such that the interacting cells
-of the system retain their indepedence. Other emergent properties, irreducible to the system's constituent parts, are strong.
+of the system retain their independence. Other emergent properties, irreducible to the system's constituent parts, are strong.
 Both are supervenient and involve novel properties as the system grows, but the distinction introduces a scale-dependency to
 observable phenomena.
