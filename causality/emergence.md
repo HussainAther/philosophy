@@ -252,4 +252,8 @@ optimal choice of r, however, will ideally reflect the dwell times within metast
 the transitions between metastable states. This can be described by a Markov chain with one 
 distinguished transient state and other states representing the metastable states in the dynamics.
 
- 
+The deviation of a given contextual segmentation from the optimal segmentation can be assessed 
+using a utility function whose maximization leads to a contextually emergent brain microstate 
+segmentation of the EEG. Applying this technique to EEG data from anesthetized ferrets and to 
+event-related brain potentials from human language-processing experiments revealed good correlation 
+with mental states. 
