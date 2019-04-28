@@ -105,14 +105,10 @@ one of these contexts, we choose stability criterion at Ls that has complicated 
 We can represent proper cells with basins of attraction and chaotic attractors with coarse-grained generating
 partitions. These partitions of the system lead to Markov chains with a rigorous theoretical constraint
 for the propert definition of stable mental states. The mathematical techniques come from ergodic theory and
-symbolic dynamics.
+symbolic dynamics. The emergence of metnal states from electroencephalogram (EEG) dynamics shows
+that data from subjects with EEG data from sporadic epileptic seizures can correlate with mental states
+of the seizures themselves.
 
-
-A pertinent example for the application of contextual emergence to experimental data is the relation 
-between mental states and EEG dynamics. In a recent study, Allefeld tested the method using data 
-from the EEG of subjects with sporadic epileptic seizures. This means that the neural level is 
-characterized by brain states recorded via EEG, while the context of normal and epileptic mental 
-states essentially requires a bipartition of that neural state space.
 
 The data analytic procedure rests on ideas by Gaveau and Schulman, Froyland, and Deuflhard and Weber. 
 It starts with a (for instance) 20-channel EEG recording, giving rise to a state space of dimension 20, 
