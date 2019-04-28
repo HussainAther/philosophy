@@ -87,7 +87,7 @@ in the brain with respect to H, a class of mental states that reflects the situa
 experimental protocols that include a task for subjects to define mental states while recording brain states.
 We may use individual neuron properties Li to find Ls such that statistical states have equivalence classes
 of those individual states. The differences must be irrelevant with respect to the higher level H. Philosopher
-David Chalmers said a neural correlate of a conscious mental state can be mulltiply realized by "minimally sufficient
+David Chalmers said a neural correlate of a conscious mental state can be multiply realized by "minimally sufficient
 neural subsystems correlated with states of consciousness" in "What is a neural correlate of consciousness?"
 We can look at phenomenal families, sets of mutualyl exclusive phenomenal mental states that jointly
 partition a space of mental states. Creature consciousness can give us refined levels of phenomenal states
