@@ -170,7 +170,7 @@ symbolically needs to be further examined through dynamical automata. Piecewise 
 maps over a two-dimensional state space assume the interpretation as symbolic computers through a rectangular
 partition of the unit square. A single point trajectory is not fully interpretable as symbolic computation.
 We need higher-level macrostates from ensembles of state space points, or probability distributions of points,
-taht evolve under the dynamcis.
+that evolve under the dynamics.
 
 Writer Beim Graben showed only uniform probability distributions that have rectangular support exhibit
 a stable dynamics can be interpreted as computation. The huge space of possible probability distributions can be
