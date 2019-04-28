@@ -102,12 +102,11 @@ one of these contexts, we choose stability criterion at Ls that has complicated 
  of the system can be smoothed over, as entropy of the system increases, such that we can make predictions
  about the system as a whole.
 
+We can represent proper cells with basins of attraction and chaotic attractors with coarse-grained generating
+partitions. These partitions of the system lead to Markov chains with a rigorous theoretical constraint
+for the propert definition of stable mental states. The mathematical techniques come from ergodic theory and
+symbolic dynamics.
 
-For multiple fixed points, their basins of attraction represent proper cells, while chaotic attractors 
-need to be coarse-grained by so-called generating partitions. From experimental data, both can be numerically 
-determined by partitions leading to Markov chains. These partitions yield a rigorous theoretical constraint 
-for the proper definition of stable mental states. The formal tools for the mathematical procedure derive 
-from the fields of ergodic theory and symbolic dynamics.
 
 A pertinent example for the application of contextual emergence to experimental data is the relation 
 between mental states and EEG dynamics. In a recent study, Allefeld tested the method using data 
