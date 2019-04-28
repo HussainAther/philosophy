@@ -105,43 +105,24 @@ one of these contexts, we choose stability criterion at Ls that has complicated 
 We can represent proper cells with basins of attraction and chaotic attractors with coarse-grained generating
 partitions. These partitions of the system lead to Markov chains with a rigorous theoretical constraint
 for the propert definition of stable mental states. The mathematical techniques come from ergodic theory and
-symbolic dynamics. The emergence of metnal states from electroencephalogram (EEG) dynamics shows
+symbolic dynamics.
+
+The emergence of metnal states from electroencephalogram (EEG) dynamics shows
 that data from subjects with EEG data from sporadic epileptic seizures can correlate with mental states
-of the seizures themselves.
+of the seizures themselves. Using a 20-channel EEG recording, we get a 20-dimension state space
+that we reduce to a lower number through principal component restrictions. We find a homogeneous grid
+of cells to set up a Markov transition matrix that reflects the EEG dynamics using fine-graned auxilary
+partition. Then, this matrix gives eigenvalues that characterize time scales for which the dynamics can
+be ordered by size. The eigenvectors span an eigenvector space such that the measure principal component
+states form a simplex. The three leading eigenvalue give a neural state repesentation that has a 2-simplex
+with three vertices, or a triangle. We can further classify neural states by distance frmo the vertices
+of the simplex to clusters of neural data. In the principal component state space, the clsuters appear
+as non-intersecting convex sets between mental states. We may alos use recurrence
+structure analysis to partition the state space into recurrent clusters such that they overlap from the
+recurrence plot of the dnyamical system. We figure out the metastable states and transitions
+between them using a Markov chain with one distinguished transient state and other states representing
+the metastable states in the dynamics.
 
-
-The data analytic procedure rests on ideas by Gaveau and Schulman, Froyland, and Deuflhard and Weber. 
-It starts with a (for instance) 20-channel EEG recording, giving rise to a state space of dimension 20, 
-which can be reduced to a lower number by restricting to principal components (PC). On the resulting 
-low-dimensional state space, a homogeneous grid of cells is imposed in order to set up a Markov 
-transition matrix T reflecting the EEG dynamics on a fine-grained auxiliary partition. 
-
-The eigenvalues of T express relaxation time scales for the dynamics which can be ordered by size. 
-Gaps between successive relaxation times indicate groupings referring to mental states defined by 
-partitions of neural states of increasing refinement. The first group is often sufficient for the 
-distinction of "target" mental states.
-
-The eigenvectors corresponding to the eigenvalues of T span an eigenvector space, in which the 
-measured PC-compactified states form a simplex. For instance, three leading eigenvalues allow a 
-representation of neural states in a two-dimensional eigenvector space which yields a 2-simpex 
-with 3 vertices (a triangle). Classifying the measured neural states according to their distance 
-from the vertices of the simplex then leads to three clusters of neural data. They can be coded 
-and identified in the PC-state space, where the clusters appear as non-intersecting convex sets 
-distinguishing one normal state and one seizure state (composed of two substates).
-
-Finally, the result of the partitioning can be inspected in the originally recorded time series to 
-check whether mental states are reliably assigned to the correct episodes in the EEG dynamics. 
-The study by Allefeld shows perfect agreement between the distinction of normal and epileptic 
-states and the bipartition resulting from the spectral analysis of the neural transition matrix.
-
-Another EEG-segmentation algorithm that uses the recurrence structure of multivariate time series 
-has been suggested by beim Graben and Hutt. Their recurrence structure analysis (RSA) partitions 
-the state space into clusters of recurrent, and therefore, overlapping balls obtained from the 
-recurrence plot of the dynamical system. Different choices of the radius r of the balls leads to 
-potentially different segmentations of the time series from the corresponding partitions. An 
-optimal choice of r, however, will ideally reflect the dwell times within metastable states and 
-the transitions between metastable states. This can be described by a Markov chain with one 
-distinguished transient state and other states representing the metastable states in the dynamics.
 
 The deviation of a given contextual segmentation from the optimal segmentation can be assessed 
 using a utility function whose maximization leads to a contextually emergent brain microstate 
