@@ -174,7 +174,7 @@ that evolve under the dynamics.
 
 Writer Beim Graben showed only uniform probability distributions that have rectangular support exhibit
 a stable dynamics can be interpreted as computation. The huge space of possible probability distributions can be
-contextually resctricted toa subclass of uniform probability distributions to create meaningfully gorunded symbolic
+contextually restricted to a subclass of uniform probability distributions to create meaningfully grounded symbolic
 processes. Symbolic grounding is contextually emergent.
 
 ## Mental causation
