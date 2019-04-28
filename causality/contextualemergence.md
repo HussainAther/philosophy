@@ -212,12 +212,12 @@ that requires a new technical explanation and a metaphysical one.
 
 The technical framework refers to the contextual emergence of multiplicity from unity. The "primordial" decomposition
 of an undivided whole generates different domains that gives rise to differentiations, such as the mind-matter distinction.
-The psychophysical neutral reality is the trivial, completely symmetric partiiton in which nothing is ditinguished from one another.
-We can decompose this to give rise to more and more refined partiitons in which symmetries are broke nadn equivalence
+The psychophysical neutral reality is the trivial, completely symmetric partition in which nothing is distinguished from one another.
+We can decompose this to give rise to more and more refined partitions in which symmetries are broke and equivalence
 classes become smaller and smaller. Phenomenal families of mental states emerge.
 
 On a metaphysical level, mental and physical epistemic limits describe the undivided whole as an
-ontic (physical factual existence) dimesnion. They reminesce of philosopher Plato's abstract perfect ideas and
+ontic (physical factual existence) dimension. They reminisce of philosopher Plato's abstract perfect ideas and
 philosopher Immanuel Kant's things-in-thesmelves (empirically inaccessible in principle and specifically mute).
 The mind-matter problem causes an emergence of mind-matter correlations as direct and immediate consequence
 of the ontic, undivided whole that can't be further divided without introducing more distinctions. Many describe
@@ -226,7 +226,7 @@ Mathematical models of classical point mechanics are most common examples of det
 properties of them are important. (1) The differential dynamics mean the system's evolution obeys a differential equation
 in a space of ontic states. (2) The unique evolution of the system means initial and boundary conditions
 give a unique trajectory. (3) The value determinateness assumes that any state can be described with arbitrarily small error.
-These three features define a hierarchy ofr the contextual emergence of determinstic descriptions assuming
+These three features define a hierarchy ofr the contextual emergence of deterministic descriptions assuming
 (1) is a necessary condition for determinism, (2) can be proven under sufficient condition that trajectories
 created by a vector field obeying (1) pass through points whose distance is stable under small pertubrations. We assume (2)
 for almost every intiial condition as a necessary condition of determinism that defines a phase flow with weak
