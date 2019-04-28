@@ -16,14 +16,11 @@ can lead us to decribe individuals at a higher level (Hi). We iterate this proce
 sets of descriptions connected with one another to reveal what emerges at higher levels.
 
 During this method, we identify equivalence classes of individual states that are indistinguishable
-with respect to a particular ensembly property.
-
-The essential goal of step (1) is the identification of equivalence classes of individual 
-states that are indistinguishable with respect to a particular ensemble property. This step 
-implements the multiple realizability of statistical states in Ls (which will be the basis 
-for individual states in Hi) by individual states in Li. The equivalence classes at L can 
-be regarded as cells of a partition. Each cell is the support of a (probability) distribution 
-representing a statistical state, encoding limited knowledge about individual states
+with respect to a certain property of the entire system. We can realize different statistical
+states in Ls by individual states in Li. Each state has limited knowledge, but, together,
+we can create probability distributions represent the statistical states Ls. This could be how
+spike signals from neural circuits encode for higher-level functions in the brain. Then, we can assign
+individual states at the higher level H to coextensional statistical states at level L.
 
 The essential goal of step (2) is the assignment of individual states at level H to coextensional 
 statistical states at level L. This is impossible without additional information about the 
