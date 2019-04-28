@@ -159,6 +159,8 @@ a stable dynamics can be interpreted as computation. The huge space of possible 
 contextually resctricted toa subclass of uniform probability distributions to create meaningfully gorunded symbolic
 processes. Symbolic grounding is contextually emergent.
 
+## Mental causation
+
 Describing the mind as causally reelvant in a physical world introduces the problem of mental causation, the quesiton
 of how mental phenomena can be highly signficant in psychology and cognitive neuroscience. It means creating
 a notion of agency that includes the causal efficacy of mental states. This causal efficacy of mental phenomena
@@ -168,43 +170,25 @@ are either causally inefficacious or have the threat of overdetermining neural s
 nor horizontally determining causal role at all or they're the causes of the neural bases of their relevant horizontal mental
 effects. Contextual emergence through different levels of complexity means the conflict between horizontal
 and vertical determination of mental events isn't an issue. We can define proper mental states from dynamics
-of an underlying neural system through statistical enrual states on propert partitions with individual mental states.
+of an underlying neural system through statistical enrual states on proper partitions with individual mental states.
 
 This construction implies that the mental dynamics and the neural dynamics, related to each other 
 by a so-called intertwiner, are topologically equivalent. Given properly defined mental states, the 
 neural dynamics gives rise to a mental dynamics that is independent of those neurodynamical details 
-that are irrelevant for a proper construction of mental states.
+that are irrelevant for a proper construction of mental states. Mental states can be causally and horizontally
+related to other metnal states, and they neither cause their vertical neural determiners nor cause the horizontal
+effects of the neural determiners. This resolve the problem of mental causation in a deflationary manner.
+Vertical and horizontal determination don't compete against one another. They work cooperatively.
 
-As a consequence, (i) mental states can indeed be causally and horizontally related to other mental states, 
-and (ii) they are neither causally related to their vertical neural determiners nor to the neural determiners 
-of their horizontal effects. This makes a strong case against a conflict between a horizontal and a vertical 
-determination of mental events and resolves the problem of mental causation in a deflationary manner. 
-Vertical and horizontal determination do not compete, but complement one another in a cooperative fashion. 
-Both together deflate Kim's dilemma and reflate the causal efficacy of mental states. Our conclusions 
-match with and refine the notion of proportionate causation introduced by Yablo.
-
-In this picture, mental causation is a horizontal relation between previous and subsequent mental states, 
-although its efficacy is actually derived from a vertical relation: the downward confinement of 
-(lower-level) neural states originating from (higher-level) mental constraints. This vertical 
-relation is characterized by an intertwiner, a mathematical mapping, which must be distinguished 
-from a causal before-after relation. For this reason, the terms downward causation or top-down causation 
-are infelicitous choices for addressing a downward confinement by contextual constraints.
-
-Within the tradition of dual-aspect thinking, one can distinguish two different, in a sense opposing 
-base conceptions. In one of them, psychophysically neutral elementary entities are composed to sets 
-of such entities, and depending on the composition these sets acquire mental or physical properties. 
-The other base conception refers to a psychophysically neutral domain which does not consist of 
-elementary entities waiting to be composed, but is conceived as one overarching whole that is to 
-be decomposed. In contrast to the atomistic picture of compositional dual-aspect monism, the holistic 
-picture of the decompositional variant is strongly reminiscent of the fundamental insight of 
-entanglement in quantum physics.
-
-The contextual emergence of both the mental and the material from a psychophysically neutral 
-whole requires a fresh look at the conceptual framework, both technically and in terms of the 
-underlying metaphysics. At the technical level, we do now refer to the contextual emergence of 
-multiplicity from unity, fine grains from coarse grains, rather than the other way around. The basic 
-idea here is that a "primordial" decomposition of an undivided whole generates (under a particular 
-context) different domains that give rise to differentiations, e.g. the mind-matter distinction.
+Mental causation is a horizontal relation between previous and future mental states with effectiveness
+given by the vertical relation (the downward relation of neural states from higher-level mental constraints).
+Psychophysical neutral elementary entitres are composed to sets of such entities that depend on the composition
+of these sets in a way they acquire mental or physical properties. The psychophysically neutral domain does not
+have elementary entiteis waiting to be composed, but, rather, has one overarching whole to be decomposed into
+its parts. The mental and material from a psychophysicall neutral whole causes a contextual emergence
+that requires a new technical explanation and a metaphysical one. The technical framework refers to the contextual
+emergence of multiplicity from unity. The "primordial" decomposition of an undivided whole generates
+different domains that gives rise to differentiations, such as the mind-matter distinction.
 
 In the decompositional variety of dual-aspect monism, refinement by symmetry breakdown is conceptually 
 prior to its opposite of generalization, where the restoration of symmetries generates equivalence 
