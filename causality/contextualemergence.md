@@ -263,10 +263,10 @@ know how ontological considerations might be added to the picture that contextua
 Various granularity degrees raises questions of descriptions with finer grains as they relate to the fundamental
 nature of systems when compared to coarser grains. The majority of scientists and philosophers of science answer
 believe this, so there's one fundamental ontolgoy that elementary particle physics result from reducing
-other descriptive levels. This reductive premise produced critical assessments and alternatiev proposals.
+other descriptive levels. This reductive premise produced critical assessments and alternative proposals.
 Philosopher Willard Van Oramn Quine introduced the ontological relatively that, if there is one
-ontology that fulfills a given descripive theory, there is more than one. Philosopher Hilary Putnam devloped
-a related kind of ontological relativity, first called internal realism, and later refferd to as pragmatic realism.
+ontology that fulfills a given descriptive theory, there is more than one. Philosopher Hilary Putnam developed
+a related kind of ontological relativity, first called internal realism, and later referred to as pragmatic realism.
 
 We may apply Quine's ideas to concrete scientifci descriptions, their relationships with one another, and their
 referents. A descriptive framework can be ontic or epistemic depending on which other framework it relates to.
