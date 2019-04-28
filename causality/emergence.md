@@ -161,4 +161,9 @@ Finally, at the third level, a contextual coarse-graining of configuration space
 and one open state (here for the potassium channel), yields the master equations of the Hodgkin-Huxley 
 system as a contextually emergent description.
 
+Contextual emergence addresses both the construction of a partition at a lower-level description and 
+the application of a higher-level context to do this in a way adapted to a specific higher-level 
+description. Two alternative strategies have been proposed to contruct Hi-states ("neural macrostates") 
+from Li-states ("neural microstates") previously: one by Amari and collaborators and another one by 
+Crutchfield and collaborators.
 
