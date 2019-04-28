@@ -77,7 +77,7 @@ as macro-molecular quantum objects with the Schrödinger equation for many parti
 describes a highly entangled state of electrons and atomic nuclei as a whole, and, on a molecular level,
 the structure of a closed or open pore of an ion channel through the Born-Oppenheimer approximation
 separates electronic and nucleonic wave functions. Then, we can use the electronic quantum dynamics
-in a constrained rigid nucleonic frame that has a classical spatial structure. This stoachstic spatial structure
+in a constrained rigid nucleonic frame that has a classical spatial structure. This stochastic spatial structure
 gives the equations of the Hodgkin-Huxley system as a contextually emergent phenomenon.
 
 ## Mental states emerging from neuroscience
