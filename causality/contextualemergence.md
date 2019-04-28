@@ -155,7 +155,7 @@ an intentional system. An intentional system is necessary for being a true belie
 Sufficient conditions in the intentional hierarchy implement contextual stability conditions.
 
 The transition from equilibrium thermodynamics to fluid dynamics represents phenomenal laws of fluid
-dynamics (like the Navier-Stokes equation) emerging from statistical mechancis under the assumption of
+dynamics (like the Navier-Stokes equation) emerging from statistical mechanics under the assumption of
 local equilibrium. Sufficient boundary conditions give rise to self-organization, such as through "magnetic snakes."
 We give a rationality constraint for optimal dissipation of pumped energy, and true believers emerge contextually
 as intentional systems under mutual adoption of the intentional stance.
