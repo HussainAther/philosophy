@@ -48,6 +48,9 @@ studied using statistics. We can define many-particle systems with statistical e
 like momenta or energy of distributions, such as the Maxwell-Boltzmann distribution for N particles. From there,
 we can find mean kinetic energy, Gibbs free energy, entropy, and other statistical quantities.
 
+We can observe expectation values of momenta distrubitioins of particle ensembles to calculate temperature
+of the system as a higher-level function (Hi). )
+
 Step (2) is the step from statistical mechanics to thermodynamics. Concerning observables, this is the 
 step from the expectation value of a momentum distribution of a particle ensemble (Ls) to the temperature 
 of the system as a whole (Hi). In many standard philosophical discussions this step is mischaracterized 
