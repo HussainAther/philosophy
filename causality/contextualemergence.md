@@ -249,10 +249,10 @@ procedure to construct level-specific criteria for relevant observables across d
 
  It may seem appealing to reduce every system down to its fundamental components and conclude that every empirical phenomena
  in science or other disciplines is only applied mathematics. But this misses out on the features of the whole that emerge in the contexts
- of the higher layers which cannot be reduced. Consciousness among neural and metnal correlates of different states provide one example,
+ of the higher layers which cannot be reduced. Consciousness among neural and mental correlates of different states provide one example,
  but we only need to look at any example, such as the emergence of transcriptome interactions from how a genome itself structures itself,
  to realize that these properties come about only at the higher levels, and, therefore, involve phenomena that are not completely reducible to
- mathematics. Biolgist Peter Corning argued in "The Re-Emergence of "Emergence": A Venerable Concept in Search of a Theory" that whole systems
+ mathematics. Biologist Peter Corning argued in "The Re-Emergence of "Emergence": A Venerable Concept in Search of a Theory" that whole systems
  produce unique combined effects that may involve the context between and the interactions with the system and its environment
 
 Contextual emergence has been originally conceived as a relation between levels of descriptions, 
