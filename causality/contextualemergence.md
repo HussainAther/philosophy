@@ -52,7 +52,7 @@ we can find mean kinetic energy, Gibbs free energy, entropy, and other statistic
 
 We can observe expectation values of momenta distrubitions of particle ensembles to calculate temperature
 of the system as a higher-level function (Hi) on the assumption the system is in equilibrium. The zeroth law
-of thermodynamics does not come from statistical mechnics, but from thermodynamics. Other features such as
+of thermodynamics does not come from statistical mechanics, but from thermodynamics. Other features such as
 irreversibility and adiabatic nature emerge as well. We can characterize this thermal equilibrium (Hi)
 using Kubo-Martin-Schwinger (KMS) states, defined by the condition that characterizes the structural
 stability of a KMS state against local perturbations or changes. This leads to stationarity, ergodicity,
