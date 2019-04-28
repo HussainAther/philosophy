@@ -40,6 +40,11 @@ Moving from a higher context to a lower one requires the stability conditions to
 partitions of the system while moving to a higher context means the statistics of lower-level states
 extend to higher-level individual states we can observe.
 
+Philosopher Aristotle argued emergent structures arise when their constituents interact in an 
+interdependent manner, but others may argue that emergence may occur even if the parts act 
+independently of one another or even be autonomous. In either case, to echo the theory of 
+Gestalt, the whole is greater than the sum of its parts.
+
 ## Point mechanics to statistical mechanics to thermodynamics
 
 We can even demonstrate the relationship between different fields of science through contextual
