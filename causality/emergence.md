@@ -107,11 +107,18 @@ one of these contexts, we choose stability criterion at Ls that has complicated 
  neurophysiology of the brain. As we learn about the owrld, we can account for emergent phenomena when addressing
  issues in science and philosophy, and AI would benefit from these methods of understanding. AI could avoid the
  issues of reductionism using higher-level emergetn bheavior resulting from neural networks in the human brain.
- Bacpropogation of neural networks lets us optimize the gap between reality and models they represnt using
+ Backpropogation of neural networks lets us optimize the gap between reality and models they represnt using
  feedback loops with optimal weights of individual neruons when optimized for emergetn details. The same way
- a human can differentiate between a picture of an lion and a lion itself using the emergent phenomena of
+ a human can differentiate between a drawing of an lion and a photograph of a lion itself using the emergent phenomena of
  visual images that appear together to create a lion, intelligent machines can embrance contextual emergence to
- view the work with inquisitive wonder and curiosity to learn. 
+ view the work with inquisitive wonder and curiosity to learn. Instead of having to show a computer hundreds of
+ thousands of images of a lion to teach them how to identify a lion, they can realize a lion in another context, such as
+lines of a piece of artwork, through the emergent properties of a drawing of a lion itself.
+ 
+ Emergence in AI can account for emotional reactions and instincts by evolving using stochastic emergent
+ phenomena the same way human intelligence has evolved. We may address the role emotions and biases
+ play in decision-making and intelligence, as described by psychologists Daniel Kahneman, Amos Tversky, and
+ Gerd Gigerenzer.
 
 We can represent proper cells with basins of attraction and chaotic attractors with coarse-grained generating
 partitions. These partitions of the system lead to Markov chains with a rigorous theoretical constraint
