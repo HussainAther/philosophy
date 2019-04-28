@@ -50,7 +50,7 @@ studied using statistics. We can define many-particle systems with statistical e
 like momenta or energy of distributions, such as the Maxwell-Boltzmann distribution for N particles. From there,
 we can find mean kinetic energy, Gibbs free energy, entropy, and other statistical quantities.
 
-We can observe expectation values of momenta distrubitioins of particle ensembles to calculate temperature
+We can observe expectation values of momenta distrubitions of particle ensembles to calculate temperature
 of the system as a higher-level function (Hi) on the assumption the system is in equilibrium. The zeroth law
 of thermodynamics does not come from statistical mechnics, but from thermodynamics. Other features such as
 irreversibility and adiabatic nature emerge as well. We can characterize this thermal equilibrium (Hi)
