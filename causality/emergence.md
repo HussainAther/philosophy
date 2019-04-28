@@ -191,3 +191,12 @@ versus being not conscious, one can define increasingly refined levels of phenom
 consciousness (awake, dreaming, sleep, anesthesia, ...), wake consciousness (perceptual, cognitive, 
 affective, ...), perceptual consciousness (visual, auditory, tactile, ...), visual consciousness 
 (color, form, location, ...), and so on.
+
+Selecting one of these levels provides a context which can then be implemented as a stability criterion 
+at Ls. In cases like the neural system, where complicated dynamics far from thermal equilibrium are 
+involved, a powerful method to do so uses the neurodynamics itself to find proper statistical states. 
+The essential point is to identify a partition of the neural state space whose cells are robust under 
+the dynamics. This guarantees that individual mental states Hi, defined on the basis of statistical 
+neural states Ls, remain well-defined as the system develops in time. The reason is that differences 
+between individual neural states Li belonging to the same statistical state Ls remain irrelevant as the 
+system develops in time.
