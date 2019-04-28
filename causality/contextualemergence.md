@@ -68,7 +68,7 @@ have even found use in contextually emerging cognitive states from neural correl
 
 ## Hodgkin-Huxley equations
 
-The Hodgkin-Huxley equations that describe generation and propagation of action potentisl form a system
+The Hodgkin-Huxley equations that describe generation and propagation of action potential form a system
 fo four ordinary nonlinear differential equations: an electric conductance equation for transmemberane
 currents and three master equations for the opening kinetics of sodium and potassium channels. These
 lower-level stochastic (using Markov processes as transition probabilities) phenomena lead to higher-level
