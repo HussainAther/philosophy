@@ -165,7 +165,7 @@ as intentional systems under mutual adoption of the intentional stance.
 The symbolic grounding problem is the problem fo assigning meaning to symbols on purely syntactic grounds.
 Cognitivists such as philosophers Jerry Fodor and Zenon Pylyshyn have described this problem. It can also describe
 how the question of how conscious mental states can be characterized by neural correlates. The relation between analog
-and digital systems such that syntactic digital symbols relate to the analog behavior of a system they descibe
+and digital systems such that syntactic digital symbols relate to the analog behavior of a system they describe
 symbolically needs to be further examined through dnyamical automata. Piecewise linear time-discrete
 maps over a two-dimensional state space assume the interpretation as symbolic computers through a rectangular
 partition of the unit square. A single point trajectory is not fully interpretable as symbolic computation.
