@@ -207,7 +207,7 @@ given by the vertical relation (the downward relation of neural states from high
 Psychophysical neutral elementary entities are composed to sets of such entities that depend on the composition
 of these sets in a way they acquire mental or physical properties. The psychophysically neutral domain does not
 have elementary entities waiting to be composed, but, rather, has one overarching whole to be decomposed into
-its parts. The mental and material from a psychophysicall neutral whole causes a contextual emergence
+its parts. The mental and material from a psychophysical neural whole causes a contextual emergence
 that requires a new technical explanation and a metaphysical one.
 
 The technical framework refers to the contextual emergence of multiplicity from unity. The "primordial" decomposition
