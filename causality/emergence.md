@@ -58,3 +58,11 @@ states at these levels. This means in particular that it would not be possible t
 emergent observables in Hi from Li directly, without the intermediate step to Ls. And it would 
 be equally impossible to construct these emergent observables without the downward confinement 
 arising from higher-level contextual constraints.
+
+In this spirit, bottom-up and top-down strategies are interlocked with one another in such a way 
+that the construction of contextually emergent observables is self-consistent. Higher-level 
+contexts are required to implement lower-level stability conditions leading to proper lower-level 
+partitions, which in turn are needed to define those lower-level statistical states that are 
+co-extensional (not necessarily identical) with higher-level individual states and their associated observables.
+
+
