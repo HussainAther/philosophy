@@ -137,7 +137,7 @@ with three vertices, or a triangle. We can further classify neural states by dis
 of the simplex to clusters of neural data. In the principal component state space, the clusters appear
 as non-intersecting convex sets between mental states. We may also use recurrence
 structure analysis to partition the state space into recurrent clusters such that they overlap from the
-recurrence plot of the dnyamical system. We figure out the metastable states and transitions
+recurrence plot of the dynamical system. We figure out the metastable states and transitions
 between them using a Markov chain with one distinguished transient state and other states representing
 the metastable states in the dynamics.
 
