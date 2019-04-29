@@ -12,4 +12,6 @@ property.
 We may consider the network theory of meaning (or holistic theory or conceptual-role theory) such that the meaning
 of an expression plays a role in its internal representatinoal economy. This way it relates to sensory input and
 behavioral output. Meaning is relational as an expression's meaning is a function of its inferential and computational
-role in a person's internal system.
+role in a person's internal system. A robot that behaves like a human is still subject to the quesitno of whether
+those thoughts it generates have the same meaning that represent our own meaning. Assigning meaning to the internal
+states of a robot would be applying a double standard arbitrarily with no useful purpose.  
