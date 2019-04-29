@@ -118,4 +118,9 @@ a computational problem of how to represent a unique color with a triplet of ref
 Sequential models can be powerful, AI researchers have shown their ineffectiveness in simulation of fundamental cognitive processes
 in areas of pattern recognition and knowledge storage and retrieval. The differnces between human brains and computer science phenomena
 only furthers these issues. Humans and computers use very different methods of storing memory as well as methods of connectivity among
-humans neurons against artificial ones.  
+humans neurons against artificial ones. 
+
+The Hinton-Sejnowski visual recognition system uses a network of two sets of binary units: one for detecting input from external stimuli and
+the other for connecting detectors to nondetecting units. These networks determine the truth and validity of hypotheses by gauging
+which units fire and which don't. It performs a cooperative search in which these assemblies vote for various outcomes and the one
+with the most votes wins.  
