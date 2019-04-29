@@ -20,6 +20,11 @@ Mental states are not of the brain, but a different substance. It requires expla
 for the way two different substances may interact and how the nonphysical mind creates
 those mental states. They must also account for free will in a nonphysical mind. Ultimately
 consciousness and qualities of felt experience may be explained with neurobiological terms or 
-the logical-meaningful dimension may have a causal neurobiological explanation.
+the logical-meaningful dimension may have a causal neurobiological explanation. Generally
+the dualist philosophers that attempt to explain the subjective experience may treat it
+as an irreducible property, in what we call property dualism. 
 
- 
+These property dualists argue that, although there are nontrivial differences among
+the hypotheses advanced by assorted property dualists, they maintain that, even if 
+the mind is the brain, subjective experience qualities are emergent with respect to the
+brain and its properties. 
