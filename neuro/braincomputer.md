@@ -156,4 +156,11 @@ than non-representational theories.
 
 We may account for the intentional nature of basic emotions even if they have a physiological component to them, such as changes in facial expression or bodily mechanisms. Weak content cognitivism, the belief taht emotions are or are caused by propositional attitudes, may 
 attack this relationship of emotions to a bodily response, but the relationship of emotions to beliefs doesn't mean all emotions are caused
-by propositional attidues like beliefs.     
+by propositional attidues like beliefs. A computational theory of mind should account for emotoinal effects and similar affects that
+influence perception and judgement. But the changes in emotions don't seem discrete as though there were differences in logical systems
+as we described with the Hinton-Sejnowski theory or with tensor network theory. Emotions form a continous gradient that doesn't seem to
+arise from a sort of combinatorial engine that the computationalist theory would argue. We would need a semantic activation model that adheres to principles of symbolic computational functionalism as well.  
+
+The connectionist model describes effects of some emotions, but doesn't model emotion itself. To allow semantic activation models to use emotions
+in a cognitive position would mean that emotions, in some sense, are the same as similar cognitive categories such as "visual stimuli" or "beliefs." 
+The other features of emotion, though, semantic activation models need to describe implementation-dependent details of the model itself.  
