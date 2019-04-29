@@ -81,4 +81,7 @@ to higher-level descriptions.
 We use a tensor transformer to transform in a way we still need: to transform vectors in sensory space to vectors in motor space. 
 We may deform one phase space to get an object in the other one using represesntations as positions in phase space and computations
 as coordinate transformations between phase spaces. The Pellionisz-Llinás approach uses sensorimotor problems constrained by
-realistic creatures as a method of reducing at bottom the problem of making coordinate transformations between phase spaces.  
+realistic creatures as a method of reducing at bottom the problem of making coordinate transformations between phase spaces. In tensor
+network theory, we look for functional relationships between connected cell assemblies and investigate them for properties relevant
+to phase spaces much the same way a computer or artifically intelligent machine searches for solutions among sentence-related
+criteria. Such AI would require this knowledge to determine what to do. 
