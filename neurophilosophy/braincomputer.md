@@ -30,4 +30,9 @@ specifiying the organizational description. The levels of membrane, cell, synaps
 can be argued as levels, but even within them we have different partitions of the levels of themselves. We can also determine
 levels by the research methods such as how through learning and memory we can take a cellular approach to show 
 modifications in presynaptic neurotransmitter releases in habituation. Which level is functional and which level is structural
-is difficult to determine, too.  
+is difficult to determine, too. 
+
+## Causality
+
+A calculator's representation and rules for manipulating representations can explain its behavior much the same way
+we describe how and why people do what they do.   
