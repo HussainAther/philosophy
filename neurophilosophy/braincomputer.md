@@ -19,4 +19,14 @@ machinery doesn't change that it believes, wants, and understands things. The ro
 on how complex its internal informational network of states it has.
 
 We need altogehter a better theory of representation in organisms much the same way we have theoretical definitions
-and ideas of what molecules, proteins, and neutrons are.  
+and ideas of what molecules, proteins, and neutrons are. 
+
+## Levels of organization
+
+The brain-computer analogy presents a problem of complexity that we know we have in the brain as that relates to
+organization of a computer. The semantic, syntactic, and mechanistic levels introduce issues with the level of the
+algorithm and the structural implementation of those features. Neurobiological theory challenges the way of
+specifiying the organizational description. The levels of membrane, cell, synapse, cell assembly, circuit, and behavior
+can be argued as levels, but even within them we have different partitions of the levels of themselves. We can also determine
+levels by the research methods such as how through learning and memory we can take a cellular approach to show 
+modifications in presynaptic neurotransmitter releases in habituation.   
