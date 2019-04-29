@@ -124,4 +124,12 @@ in neuroscience can tell us a lot of information. But it may be possible we expl
 brain unless the psychological phenomena are indeterministic with respect to the relevant neurophysical level.
 In addition some criteria folk psychology uses in specifying content on features that are irrelevant to the causal role
 of the mental state as it interacts with other mental state. We may cite semantic features such as truth and justification
-as evidence of these interactions. 
+as evidence of these interactions. Antireductionists may argue there are folk psychology categories that we cannot
+reduce representational states to, but these arguments lack the empirical evidence to support them. 
+
+## Information processing
+
+We may describe an information-processing theory as sentiential if the cognitively relevant internal states have content,
+the theoretically relevant relationships between cognitive states are characterized by logic, the state transitions are a 
+function of logical relationships between sentences that identify the states, and we evaluate cognitive virtue as a functino
+of the extent to which it succeeds in doing what the logical theory of state transition says it should do.
