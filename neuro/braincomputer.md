@@ -108,4 +108,7 @@ algorithms.
 
 If we determine how behavior related to cognition and complexity emerge from the basic neurophysiological theories that govern
 sensorimotor control, we can determine the nature and dynamics of cognition. We may construct representations at abstract levels of 
-organization that correspond to cognitive activity as the way sentiential representations act according to logical rules.  
+organization that correspond to cognitive activity as the way sentiential representations act according to logical rules. Phase spaces
+may recognize certain features as humans do, such as eyes of faces or shapes of animals. We may describe phase spaces in such a way
+that they're occupied by these sensory stimuli. Using the cones of photoreceptors' reflectances responsible for color, we can demonstrate
+a computational problem of how to represent a unique color with a triplet of reflectance values.  
