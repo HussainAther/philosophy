@@ -179,7 +179,8 @@ or meaningfulness of representational states. We may create a network theory of 
 of a system. Philosopher Karl Popper argued against reductionism on the grounds there's a world of abstract, nonphysical
 objects we interact with when we reason, discover proofs, speculate consequences, use language, and think about mathematics
 and philosophy. This autonomous reality (known as World 3, with World 1 being physical laws and World 2 as mental events
-and processes) we find dispositions to verbal behavior and wiring in the brain. 
+and processes) we find dispositions to verbal behavior and wiring in the brain. Popper implies it's more understandable how 
+nonphysical states interact with intelligibilia than how neural states might.
 
 ## Symbolic grounding
 
