@@ -1,7 +1,7 @@
-# The brain-computer interface
+# The brain-computer analogy
 
 Brains are only like computers in a specific abstract sense. We can take apart this analogy in the context
-of the brain-computer interface to determine knowledge for philosophy, neuroscience, artificial intelligence,
+of the brain-computer analogy to determine knowledge for philosophy, neuroscience, artificial intelligence,
 and other research areas. It's very harmful in many ways to treat the nervous system as the hardware in such 
 a way that we need to understand the cognitive science as software when we don't understand the limitations 
 of such a metaphor. Any theory of anatomical connection we demonstrate in vertebrate nervous systems may give
@@ -68,4 +68,13 @@ the patterns of neurons arranged in mathematical arrays. Though the model may be
 and epistemic concerns of the phenoemna we attempt to describe, it's a nice heuristic to see something we wouldn't otherwise
 see through single-cell data. We may use concepts from linear algebra and statistics to create output vectors in a coordinate
 system such that the corresponding tensor matrix governs the transformtaion of ensembles from input-output relationships
-by the corresponding reference frame. 
+by the corresponding reference frame. The spiking frequency defines a point on an axis of the coordinate system with the output
+a vector in the space of the output neurons. We may generalize a tensor mathematical to transform vectors into other vectors
+such that we address the basic problem of functionalist sensorimotor control as going from one different coordinate system
+to another. 
+
+When we figure out what the mind-brain does, then how it might implement various functions in a top-down manner among different
+levels of science, the theorizing is highyl constrained, yet very well-informed, by the data of the level at which we implement.
+But, with tensor network theory, we wouldn't label these processes as top-down, but, rather, from lower-level fundamental processes
+to higher-level descriptions.  
+
