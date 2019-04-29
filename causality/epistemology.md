@@ -1,30 +1,30 @@
 # The epistemology of causality
 
-There are two epistemic approaches to causal theory. Under a hypothetico-deductive account, one hypothesizes 
-causal relationships, deduces predictions from the hypothesis, and then tests the hypothesis by seeing how 
-well the predictions accord with what actually happens. Under an inductive account, one makes a large number 
-of observations and induces causal relationships directly from this mass of data.
+There are two epistemic approaches to causal theory. Under a hypothetico-deductive account, we hypothesize
+causal relationships and deduce predictions based on them. We test these hypotheses and predictions by comparing
+empirical phenomena and other knowledge and information on what actually happens to these theories. We may also
+take an inductive approach in which we make a large number of appropriate, justified observations (such as a set of data) 
+from which we can induce causal relationships directly from them.  
 
 ## Hypothetico-Deductive discovery
 
-Under this account, one first hypothesizes causal relationships and then tests this hypothesis by seeing whether 
-predictions drawn from it are borne out. The testing phase may be influenced by views on the nature of causality: 
-a causal hypothesis can be supported or refuted according to whether physical processes are found that underlie 
-the hypothesised causal relationships, whether probabilistic consequences of the hypothesis are verified, and 
-whether experiments show that by manipulating the hypothesised causes one can achieve their effects.
+The testing phase of this account of discovery and causality uses the views on the nature of causality to determine
+whether we support or refute the hypothesis. We search for physical processes underlying the causal relationships
+of the hypothesis. We can use statistics and probability to determine which consequences of hypotheses are verified, 
+like comparing our data to a distribution such as a Gaussian or Dirichlet one. We can further probe these consequences
+on a probabilistic level and show that changing hypothesized causes can predict, determine, or guarantee effects.  
 
-Karl Popper was an exponent of the hypothetico-deductive approach. For Popper a causal explanation of an event 
-consists of natural laws (which are universal statements) together with initial conditions (which are single-
-case statements) from which one can predict by deduction the event to be explained. The initial conditions are 
-called the 'case' of the event to be explained, which is in turn called the effect. Causal laws, then, are just 
-universal laws, and are to be discovered via Popper's general scheme for scientific discovery: (i) hypothesise the laws; 
-(ii) deduce their consequences, rejecting the laws and returning to step (i) if these consequences are falsified 
-by evidence. Popper thus combines what is known as the covering-law account of causal explanation with a hypothetico
--deductive account of learning causal relationships.
+Philosopher Karl Popper advocated this approach for causal explanations of events that consist of natural laws, which
+are universal statements about the world. He designated initial conditions, single-case statements, from which we may
+deduce outcomes and form predictions of various events. These case initial conditions call for effects that we can 
+determine, such as whether a physical system will approach thermodynamic equilibrium or how a population might
+evolve under the influence of predators or external forces. Popper delineated the method of hypothesizing laws,
+deducing their consequences, and rejecting laws that aren't supported as a cyclical process. This is the covering-law
+account of causal explanation.  
 
 ## Inductive learning
 
-Francis Bacon developed a rather different account of scientific learning. First one makes a large amount of careful 
+Philosopher Francis Bacon developed a rather different account of scientific learning. First one makes a large amount of careful 
 observations of the phenomenon to be explained, by performing experiments if need be. One compiles a table of positive 
 instances (cases in which the phenomenon occurs), a table of negative instances (cases in which the phenomenon does not 
 occur), and a table of partial instances (cases in which the phenomenon occurs to a certain degree).
