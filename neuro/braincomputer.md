@@ -152,4 +152,8 @@ The computationalist may respond she doesn't want to make a physiologically accu
 features for any agent. In AI, one might want to solve a problem in computational space that doesn't represent human features. 
 She may also respond that representational theories note when the features of representation, such as the similarity between representations
 and their objects and how accruate they are, in such a way that the representational theory is more effective, valid, and justified
-than non-representational theories.  
+than non-representational theories. 
+
+We may account for the intentional nature of basic emotions even if they have a physiological component to them, such as changes in facial expression or bodily mechanisms. Weak content cognitivism, the belief taht emotions are or are caused by propositional attitudes, may 
+attack this relationship of emotions to a bodily response, but the relationship of emotions to beliefs doesn't mean all emotions are caused
+by propositional attidues like beliefs.     
