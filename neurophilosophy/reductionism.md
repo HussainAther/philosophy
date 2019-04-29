@@ -73,4 +73,9 @@ This line of reasoning runs into issues with the Chinese room argument, as philo
 that one can copy intelligent action without interpretation or understanding through a purely functional system.
 An individual in a room with only Chinese symbols in a box with an English rule book for using the symbols
 in various ways may follow commands to send the symbols in a certain method without understanding the meaning
-of the symbols themselves. 
+of the symbols themselves. Philosopher Patricia Churchland continues to press functinoalism that intertheoretic
+reductions aren't conditional on a one-to-one mapping of higher-level theory to a reduced theory. One may 
+argue against reductionism in this sense that there are fundamental differences between neuronal explanations
+and functional-computational explanations.
+
+  
