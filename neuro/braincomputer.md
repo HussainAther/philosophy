@@ -76,5 +76,8 @@ to another.
 When we figure out what the mind-brain does, then how it might implement various functions in a top-down manner among different
 levels of science, the theorizing is highyl constrained, yet very well-informed, by the data of the level at which we implement.
 But, with tensor network theory, we wouldn't label these processes as top-down, but, rather, from lower-level fundamental processes
-to higher-level descriptions.  
+to higher-level descriptions. 
 
+We use a tensor transformer to transform in a way we still need: to transform vectors in sensory space to vectors in motor space. 
+We may deform one phase space to get an object in the other one using represesntations as positions in phase space and computations
+as coordinate transformations between phase spaces.  
