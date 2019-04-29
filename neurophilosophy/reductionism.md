@@ -36,4 +36,8 @@ aren't actual physical properties of the brain.
 
 Philosopher Frank Jackson used the thought experiment of Mary the neuroscientist to show
 that differences between knowing our states through introspection and knowing through
-nonintrospection give the grounds to reduce psychology to neuroscience.
+nonintrospection give the grounds to reduce psychology to neuroscience. The thought
+experiment supposes Mary is a neuroscientist who has lived her entire live in a room
+with no colors, yet she is still taught everything about how the brain works. Even if 
+she knows everything about the brain, she still doesn't have the experience of seeing
+color. There's something in psychology not captured by neuroscience. 
