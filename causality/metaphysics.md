@@ -44,3 +44,10 @@ causal links to physicists, they aren't relevant in the fields that emerge from 
 chemistry or engineering. This would lead one to believe the epistemology of the causal concepts 
 are irreelvant to their metaphysics. If this were the case, the knowledge of a causal relationship
 would have little to do with the causal connection itself.  
+
+The third subdivision is probabilistic causality in which we treat casual connections with probabilistic
+relationships of variables. We can debate which probabilistic relationships among variables of probabilistic
+causality determine or create causal relationships. One might say the Principle of Common Cause (if two variables
+are probabilistically dependent, then one causes the other or they're effects of common causes that make them
+indepedent from one another). Philosopher Hans Reichenbach applied this to causality to provide a probabilistic
+analysis of time in its single direction.     
