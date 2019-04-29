@@ -126,4 +126,9 @@ which units fire and which don't. It performs a cooperative search in which thes
 with the most votes wins. The relationships between various hypotheses depend upon synaptic weights using probabilitiy functions
 and distributions. They also perform relaxations that cool the system such that it may take different molecular organizations in an annealing process.
 During this process the crystalline structures have a global energy minimum that parallels adding noise to the system.  
-From these fluctuations in noise, the system breaks out of superficial minimima.  
+From these fluctuations in noise, the system breaks out of superficial minimima. The Metropolis-Hastings algorithm lets us 
+gauge locally improbably hypotheses such that they may win over other hypotheses. 
+
+To make the model reflect empirical data in neuroscience, we must show it accounts for processing of various neurobiologiacl pathways.
+Computer vision models need to account for contours of perception as well as emergent phenomena such as recognizing how a property
+of an image emerges from various strucutres working in a dynamic, systemic manner of the visual image itself.  
