@@ -40,4 +40,10 @@ nonintrospection give the grounds to reduce psychology to neuroscience. The thou
 experiment supposes Mary is a neuroscientist who has lived her entire live in a room
 with no colors, yet she is still taught everything about how the brain works. Even if 
 she knows everything about the brain, she still doesn't have the experience of seeing
-color. There's something in psychology not captured by neuroscience. 
+color. There's something in psychology not captured by neuroscience. It's possible these
+two methods of knowing about the world are subject to different learning methods. Others
+may argue that Mary would still be able to identify the color red as it is an empirical
+question.
+
+Dualist theories may include our capacity for introspection just as light still exists
+as a phenomena even if it may be reduced to electromagnetic radiation. 
