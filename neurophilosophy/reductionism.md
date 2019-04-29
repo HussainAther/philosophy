@@ -18,6 +18,8 @@ with functionalist arguments. They reject the dualist position.
 
 Mental states are not of the brain, but a different substance. It requires explanation
 for the way two different substances may interact and how the nonphysical mind creates
-those mental states.
+those mental states. They must also account for free will in a nonphysical mind. Ultimately
+consciousness and qualities of felt experience may be explained with neurobiological terms or 
+the logical-meaningful dimension may have a causal neurobiological explanation.
 
  
