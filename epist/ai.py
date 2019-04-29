@@ -25,7 +25,9 @@ class AI():
         return action 
 
 """
-Its epistemic limits can be explored.
+Its epistemic limits can be explored. This program is deterministic in the sense that 
+its outcomes can be predicted as the same output depending on input when we have 
+knowledge of what the input is and its nature.
 """
 
 
