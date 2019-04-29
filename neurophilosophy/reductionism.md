@@ -78,4 +78,4 @@ reductions aren't conditional on a one-to-one mapping of higher-level theory to 
 argue against reductionism in this sense that there are fundamental differences between neuronal explanations
 and functional-computational explanations.
 
-  
+ 
