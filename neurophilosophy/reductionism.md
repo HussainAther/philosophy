@@ -1,7 +1,8 @@
 # Are mental states reducible to neurobiological states?
 
 Examining arguments of how neuroscience and psychology relate to philosophy by 
-looking at how skeptics and enthusiasts have touched upon the subject.
+looking at how skeptics and enthusiasts have touched upon the subject. We're going
+to take apart how psychology and cognitive sciecne can be reduced to neuroscience.
 
 ## Principled skepticism
 
@@ -106,3 +107,7 @@ Much of what we discuss has an aboutness. When we believe, desire, think, intend
 coherent system such that these things have content and intention as they're about things. If psychological explanations
 of human behavior rely on matching representational states to parts of the human being, we may object to reductionist
 ideas as mental states are identified in terms of logical and semantical relations. 
+
+## Logical relations
+
+ 
