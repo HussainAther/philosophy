@@ -28,4 +28,9 @@ These property dualists argue that, although there are nontrivial differences am
 the hypotheses advanced by assorted property dualists, they maintain that, even if 
 the mind is the brain, subjective experience qualities are emergent with respect to the
 brain and its properties. The commonsense conceptual framework to understand psychological
-properties in a way that doesn't reduce to any future neuroscience. 
+properties in a way that doesn't reduce to any future neuroscience. Within intertheoretic
+reduction, we recognize subjective experiences won't reduce to neuroscience. Property dualists
+don't believe there's a nonphysical substance inherent to experiences. They believe
+subjective experiences are produced by the brain and affect the brain even if they 
+aren't actual physical properties of the brain.
+
