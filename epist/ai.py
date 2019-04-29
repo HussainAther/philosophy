@@ -27,7 +27,8 @@ class AI():
 """
 Its epistemic limits can be explored. This program is deterministic in the sense that 
 its outcomes can be predicted as the same output depending on input when we have 
-knowledge of what the input is and its nature.
+knowledge of what the input is and its nature. However, it's dependence on user input
+to study the user's past moves make it somewhat non-deterministic.  
 """
 
 
