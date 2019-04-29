@@ -63,4 +63,5 @@ and logical relations among perceptions, beliefs, desires, and behavior at the s
 The same way switches in a computer govern the way it functions, a functionalist theory may believe
 that our physical phenomena of what goes on in the brain may govern behavior and actions. 
 
-  
+If mental states and processes are functinoal, we can understand how to solve problems, think,
+reason, and perform similar actions by their functional organization. 
