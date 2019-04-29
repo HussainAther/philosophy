@@ -18,32 +18,29 @@ The third is we can reduce causal relations to other concepts that don't involve
 Many philosophers support this position, and, as such, there are four divisions within this
 position. 
 
-We will suppose here that causality is a relation between variables and that these variables 
-are single-case or repeatable according to the interpretation of causality in question. 
-An interpretation of causality is mental if it views causality as a feature of an agent's 
-epistemic state and physical if a feature of the world external to an agent. An interpretation 
-is subjective if two agents with the same background knowledge can disagree as to causal 
-relationships yet both be correct, and objective if causal relationships are not a matter of arbitrary choice. 
+The first schism we discuss is that causality is a relation between variables that are single-case
+or repeatable according to the interpretation of causality in question. We interpret causality
+as a mental in nature given that causality is a feature of an agent's epistemic state and physical
+if it's a feature of the external world. We interpret it as subjective if two agents with the 
+same relevant knowledge can disagree on a conclusion of the relationships with both positions correct,
+as though they were a matter of arbitrary choice. Otherwise we interpret it as objective. The subjective-objective
+schism raises issues between how different positions would be regarded as correct and what determines
+the subjective element or role subjectivity plays in these two different positions. 
 
-The mechanistic account of causality aims to understand the physical processes that link 
-cause and effect, interpreting causal statements as saying something about such processes. 
-Wesley Salmon and Phil Dowe are two influential proponents of this type of position. 
-They argue that a causal process is one that transmits or possesses a conserved physical quantity, 
-such as energy-mass, linear momentum or charge, from start (cause) to finish (effect).
+The second partition is the mechanistic account of causality - that physical processes link
+cause and effect. We interpret causal statements as giving information about these processes.
+Philosophers Wesley Salmon and Phil Dowe advocate this position as they argue causal processes
+transmit or have a conserved physical quantity to them. We may describe the relation between
+energy and mass (E = mc²) as causal relations from start (cause) to a finish (effect). One may argue
+against this position on the grounds that these relations in science have no specific direction one 
+way or another and are symmetrical and not subject to causality. It does, however, relate single
+cases linked by physical processes even if we can induce causal regularities or laws from these 
+connections in an objective manner. If two people disagree on the causal connections, one or both 
+are wrong. 
 
-The mechanistic account is clearly a physical interpretation of causality, since it 
-identifies causal relationships with physical processes. Such a notion of cause relates 
-single cases, since only they are linked by physical processes, although causal regularities 
-or laws may be induced from single-case causal connections. Causal mechanisms are understood 
-objectively: if two agents disagree as to causal connections then at least one is wrong.
-
-The main limitation of this approach is its rather narrow applicability: most of our causal 
-assertions are apparently unrelated to the physics of conserved quantities. While it may be 
-possible that physical processes such as those along which quantities are conserved could 
-suggest causal links to physicists, such pro- cesses are altogether too low-level to suggest 
-causal relationships in economics, for instance. One could maintain that the economists' 
-concept of causality is the same as that of physics and is reducible to physical processes 
-but one would be forced to accept that the epistemology of such a concept is totally 
-unrelated to its metaphysics. This is undesirable: if the grounds for knowledge of a 
-causal connection have little to do with the nature of the causal connection as it is analyzed 
-then one can argue that it cannot be the causal connection that we have knowledge of, but something else.
+This approach is difficult to apply. The physics of theseq quantities aren't determined
+by the causal relations themselves. The conservation of these physical quantities may suggest
+causal links to physicists, they aren't relevant in the fields that emerge from physics such as
+chemistry or engineering. This would lead one to believe the epistemology of the causal concepts 
+are irreelvant to their metaphysics. If this were the case, the knowledge of a causal relationship
+would have little to do with the causal connection itself.  
