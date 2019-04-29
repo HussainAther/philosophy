@@ -63,5 +63,14 @@ and logical relations among perceptions, beliefs, desires, and behavior at the s
 The same way switches in a computer govern the way it functions, a functionalist theory may believe
 that our physical phenomena of what goes on in the brain may govern behavior and actions. 
 
-If mental states and processes are functinoal, we can understand how to solve problems, think,
-reason, and perform similar actions by their functional organization. 
+One may argue that, if mental states and processes are functional, we can understand how to solve problems, 
+think, reason, and perform similar actions by their functional organization. Neuroscientific methods 
+of reasoning and theory need to focus on functional systems with knowledge of minutiae for 
+other significant areas such as for neuropsychiatric disorders. Cognitive scientists determine
+the functional or cognitive theory of mind while neuroscientists figure out the pyhsical
+devices that instantiate the cognitive "program." Computational psychology is an autonomous science.
+This line of reasoning runs into issues with the Chinese room argument, as philosopher John Searle articulated,
+that one can copy intelligent action without interpretation or understanding through a purely functional system.
+An individual in a room with only Chinese symbols in a box with an English rule book for using the symbols
+in various ways may follow commands to send the symbols in a certain method without understanding the meaning
+of the symbols themselves. 
