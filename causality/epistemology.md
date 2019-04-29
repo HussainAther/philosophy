@@ -28,24 +28,24 @@ Philosopher Francis Bacon promoted the inductive account of scientific learning 
 observations of some phenomenon or event with experimental, empirical evidence where it's appropriate, we can compile
 a table of positive instances (in which a phenomenon occurs), negative instances (it doesn't occur), and prartial instances 
 (it occurs to a certain degree). This gives a multidimensionality to phenomena that characterize causal relationships from
-both *a priori* and *a posterior* perspectives. 
+both *a priori* and *a posterior* perspectives.
 
-The mainstream of inductivist artificial intelligence (AI) approaches have the following feature in common. In order 
-that causal relationships can be gleaned from statistical relationships, the approaches assume the Causal Markov 
-Condition holds of physical causality and physical probability.205 Of course a causal net contains the Causal Markov 
-Condition as an inbuilt assumption. In the case of structural equation models the Causal Markov Condition is a 
-consequence of the representation of each variable as a function just of its direct causes and an error variable, 
-given the further assumption that all error variables are probabilistically independent.
-
-The inductive procedure then consists in finding the class of causal models or under some approaches a single 'best' 
-causal model whose probabilistic independencies implied via the Causal Markov Condition are consistent with independencies 
-inferred from the data. Other assumptions are often also made, such as minimality (no submodel of the causal model also 
-satisfies the Causal Markov Condition), faithfulness (all independencies in the data are implied via the Causal Markov 
-Condition), linearity (all variables are linear functions of their direct causes and uncorrelated error variables), 
-causal sufficiency (all common causes of measured variables are measured), context generality (every individual 
-possesses the causal relations of the population), no side effects (one can intervene to fix the value of a 
-variable without changing the value of any non-effects of the variable), and determinism. However, these extra 
-assumptions are less central than the Causal Markov Condition: approaches differ as to which of these extra 
-assumptions they adopt and the assumptions tend to be used just to facilitate the inductive procedure based on 
-the Causal Markov Condition, either by helping to provide some justification of the inductive procedure or by 
-increasing the purported efficiency or efficacy of algorithms for causal induction.
+Inductivist artificial intelilgence (AI) approaches have in common the feature that causal relationships can be determined
+from statistical relationships. We assume the Causal Markov condition holds of physical causality and physical probability.
+This Causal Markov Condition plays a significant deterministic role in the various features of the model and the events or phenomena
+it predicts. A causal net must have the Causal Markov Condition as an assumption or premise. For structural equation models (SEM), Causal
+Markov Conditions result from representations of each variable as a function of its direct causes and an associated error 
+variable with it. We assume probabilistic independdence of each error variable. We then find the class of causal models or
+a single best causal model with probabilistic independences that are justifeid by the Causal Markov Condition. They should be
+consistent with independences we can infer from the data, and we might also make furhter assumptions about the minimality 
+(no submodel of hte causal model also satsified the Causal Markov Condition), faithfulness (all independences in the data
+are implied via the Causal Markov Condition), linearity (all variables are linear functinos of their direct causes and
+uncorrelated error variables). We may also define causal sufficiency, whether all common causes of measured variables
+are measured, and context generality, every individual or node in the model has causal relations of the population. These
+two features let us describe models and methods of scientific reasoning as causal in nature and, from there, we may apply
+appropriate causal models such as Bayesian, frequentist, or similar methods of prediction. We may even illustrate a causal
+diagram or model elements under various conditions such as those given by independence or constraints on variables. 
+This way, in the intercorrelatedness of the graph or model, we can't change the value of a variable without affecting
+the way it relates to other variables, but there may conditions in which we construct models that have autonomous 
+nodes or variables. The way these features and claims of inductivist AI interact with another is subject to debate by
+the underlying assumptions, justification, and methods of reasoning behind these models.   
