@@ -24,10 +24,11 @@ account of causal explanation.
 
 ## Inductive learning
 
-Philosopher Francis Bacon developed a rather different account of scientific learning. First one makes a large amount of careful 
-observations of the phenomenon to be explained, by performing experiments if need be. One compiles a table of positive 
-instances (cases in which the phenomenon occurs), a table of negative instances (cases in which the phenomenon does not 
-occur), and a table of partial instances (cases in which the phenomenon occurs to a certain degree).
+Philosopher Francis Bacon promoted the inductive account of scientific learning and reasoning. From a very high-number of 
+observations of some phenomenon or event with experimental, empirical evidence where it's appropriate, we can compile
+a table of positive instances (in which a phenomenon occurs), negative instances (it doesn't occur), and prartial instances 
+(it occurs to a certain degree). This gives a multidimensionality to phenomena that characterize causal relationships from
+both *a priori* and *a posterior* perspectives. 
 
 The mainstream of inductivist artificial intelligence (AI) approaches have the following feature in common. In order 
 that causal relationships can be gleaned from statistical relationships, the approaches assume the Causal Markov 
