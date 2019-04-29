@@ -1,4 +1,4 @@
-# The brain-computer analogy
+# The brain-computer analogy and the computational theory of mind
 
 Brains are only like computers in a specific abstract sense. We can take apart this analogy in the context
 of the brain-computer analogy to determine knowledge for philosophy, neuroscience, artificial intelligence,
@@ -133,4 +133,13 @@ To make the model reflect empirical data in neuroscience, we must show it accoun
 Computer vision models need to account for contours of perception as well as emergent phenomena such as recognizing how a property
 of an image emerges from various strucutres working in a dynamic, systemic manner of the visual image itself. Connectionists could
 update their brain-computer models using evolution the same way sensorimotor mechanisms have to suit a simultaneous solution
-in visual recognition. 
+in visual recognition.
+
+## Computational theory of mind
+
+We distinguish between different levels of description of computational proceseses. These levels have certain reducible relationships  
+among them in which we can make varying levels of commitment to the reductionism between them. The theory of symbolic computational
+functionalism of the computational theory of mind (known as computationalism) lets minds manipulate discrete, defined symbols
+to model discrete, defined logical structures and computer languages. A human mind may be a deterministic finite state automata under
+this theory, and the theory is independent of implementation. Even if different beings have different physical structures of themselves,
+they may have similar or the same mental states.    
