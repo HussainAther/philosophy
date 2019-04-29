@@ -155,11 +155,11 @@ recurrence plot of the dynamical system. We figure out the metastable states and
 between them using a Markov chain with one distinguished transient state and other states representing
 the metastable states in the dynamics.
 
-## Intentionality
+## Intentionality and intertheoretic reduction
 
 Philosopher Daniel Dennett describes the intentional stance of the prediction of a system's behavior
-too complex to be treated as either a physical or designed system. Intentional systems behave in predicted
-ways by ascribing beliefs and desires to their internal states. From thermostats to chess computers,
+too complex to be treated as either a physical or designed system. Intentional systems have this "aboutness" 
+and behave in predicted ways by ascribing beliefs and desires to their internal states. From thermostats to chess computers,
 we can make predictions of a system with necessary and sufficient conditions. The system's dynamics have
 to be non-trivial, so this excludes linear systems with periodic oscillations or damped relaxations. We construct
 an intentional hierarchy from general case of nonlinear nonequilibrium dissipative systems
@@ -172,7 +172,14 @@ The transition from equilibrium thermodynamics to fluid dynamics represents phen
 dynamics (like the Navier-Stokes equation) emerging from statistical mechanics under the assumption of
 local equilibrium. Sufficient boundary conditions give rise to self-organization, such as through "magnetic snakes."
 We give a rationality constraint for optimal dissipation of pumped energy, and true believers emerge contextually
-as intentional systems under mutual adoption of the intentional stance.
+as intentional systems under mutual adoption of the intentional stance. 
+
+The representational thought may reference aboutness, and the intentional approach concerns the contentfulness
+or meaningfulness of representational states. We may create a network theory of meaning that emerges from the semantics
+of a system. Philosopher Karl Popper argued against reductinoism on the grounds there's a world of abstract, nonphysicall
+objects we interact with when we reason, discover proofs, speculate consequences, use language, and think about mathematics
+and philosophy. This autonomous reality (known as World 3, with World 1 being physical laws and World 2 as mental events
+and processes) we find dispositions to verbal behavior and wiring in the brain. 
 
 ## Symbolic grounding
 
