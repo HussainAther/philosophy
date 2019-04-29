@@ -95,4 +95,7 @@ Some functionalists believe input-output operations can be realized in no unitar
 or lower levels. We may be inclined to assume the abilities at the cognitive level are precise and
 the method of research influence will be from higher levels ot lower levels. Co-evolution is far from interactive.
 Neuroscience and psychology need one another a sneuroscience needs to knwo what the system does while psychology needs
-to know how those lower-level specifications emerge in input-output theory of functionalism.  
+to know how those lower-level specifications emerge in input-output theory of functionalism. But the co-evolutionary
+development of neuroscience and psychology means reduction is bound to occur at some point or another. The practical difficulties,
+understanding how the mind-brain works, lack of mathematical and computational theory, and the bare fact that it might be true
+that psychology isn't reducible to neuroscience.  
