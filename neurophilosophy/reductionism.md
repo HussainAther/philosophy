@@ -13,3 +13,7 @@ There are also skeptics who argue a principled skepticism of reductionism uses t
 generalizations of neuroscience. Mental states and processes create a domain of study that's autonomous
 with respect to neuroscience with functionalist arguments. They reject the dualist position.
 
+### Substance dualism
+
+Mental states are not of the brain, but a different substance. It requires explanation
+for the way two different substances may interact.   
