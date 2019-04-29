@@ -110,4 +110,11 @@ ideas as mental states are identified in terms of logical and semantical relatio
 
 ## Logical relations
 
- 
+Mental states have causal relations to other states, but mental representations have causal roles in virtue of their
+formal properties, as Fodor argues. There are arguments against reduction that don't depend on giving a nonphysical
+status to representations. Psychological states for which these arguments are built upon are the sentiential attitudes
+(beliefs, desires, etc.). For these sentiential attidues, logic defines the relations between sentences.
+
+## Autonomy 
+
+  
