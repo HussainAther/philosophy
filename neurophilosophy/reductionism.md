@@ -74,7 +74,7 @@ This line of reasoning runs into issues with the Chinese room argument, as philo
 that one can copy intelligent action without interpretation or understanding through a purely functional system.
 An individual in a room with only Chinese symbols in a box with an English rule book for using the symbols
 in various ways may follow commands to send the symbols in a certain method without understanding the meaning
-of the symbols themselves. Philosopher Patricia Churchland continues to press functinoalism that intertheoretic
+of the symbols themselves. Philosopher Patricia Churchland continues to press functionalism that intertheoretic
 reductions aren't conditional on a one-to-one mapping of higher-level theory to a reduced theory. One may 
 argue against reductionism in this sense that there are fundamental differences between neuronal explanations
 and functional-computational explanations.
@@ -117,4 +117,11 @@ status to representations. Psychological states for which these arguments are bu
 
 ## Autonomy 
 
-  
+That the philosophical tradition that espouses a logical-meaningful dimension of mental business isn't naturalist
+may seem to support the idea logical relations between states can't be explained with causal relations
+between neurobiological states. It also may seem this way given there are limitations of neuroscience such that no theory
+in neuroscience can tell us a lot of information. But it may be possible we explain neurobiologically what goes on in the
+brain unless the psychological phenomena are indeterministic with respect to the relevant neurophysical level.
+In addition some criteria folk psychology uses in specifying content on features that are irrelevant to the causal role
+of the mental state as it interacts with other mental state. We may cite semantic features such as truth and justification
+as evidence of these interactions. 
