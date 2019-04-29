@@ -176,7 +176,7 @@ as intentional systems under mutual adoption of the intentional stance.
 
 The representational thought may reference aboutness, and the intentional approach concerns the contentfulness
 or meaningfulness of representational states. We may create a network theory of meaning that emerges from the semantics
-of a system. Philosopher Karl Popper argued against reductinoism on the grounds there's a world of abstract, nonphysicall
+of a system. Philosopher Karl Popper argued against reductionism on the grounds there's a world of abstract, nonphysical
 objects we interact with when we reason, discover proofs, speculate consequences, use language, and think about mathematics
 and philosophy. This autonomous reality (known as World 3, with World 1 being physical laws and World 2 as mental events
 and processes) we find dispositions to verbal behavior and wiring in the brain. 
