@@ -24,7 +24,7 @@ we can create probability distributions represent the statistical states Ls. Thi
 spike signals from neural circuits encode for higher-level functions in the brain.
 
 A property dualist position would also recognize three features of this emergence. 
-The emergent property at the higher level Hi must have real instances, remain co-occurrent wtih some property
+The emergent property at the higher level Hi must have real instances, remain co-occurrent with some property
 or complex feature recognized in the lower level, and this property can't be reduced to any property
 postulated by or definable within the lower level.  
 
