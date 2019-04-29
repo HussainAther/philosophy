@@ -60,6 +60,10 @@ phenomena on a higher level (cognitive science, psychology, etc.) from basic pro
 
 Neuroscientists began the theory began on the cerebellum because it has a limited nubmer of neuron types that are each
 distinct on a physiological level and connected in a specific way that the cerebellar cortex produces the Purkinje cell
-with two different cell systems as input. 
-
- 
+with two different cell systems as input. Using wiring diagrams of cerebellar neurons to describe the connections accept
+input and result output in a parallel manner. We have a trade-off between detail to understand the system with how the array
+itself processes information. Through tensor network theory we attempt to use principles from mathematics, physics, and computer
+science in understanding how these systems may model the nervous system. We can create a schematic neuron to find out more about
+the patterns of neurons arranged in mathematical arrays. Though the model may be limited by the assumptions of casual theory
+and epistemic concerns of the phenoemna we attempt to describe, it's a nice heuristic to see something we wouldn't otherwise
+see through single-cell data. 
