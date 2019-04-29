@@ -94,6 +94,8 @@ to determine how muscles contract so the eyes move in a way to refelect the head
 the system converting a head position vector into a vector that describse muscle positions. The transformation 
 from vestibular to oculomotor, according to the Pellionisz-Llinás hypothesis, takes a premotor vector intoa motor vector. The vestibulur 
 organ, we can show, has a set of positions it prefers that we can call an eigenposition. 
- 
+
+We further describe Churchland's phase-space sandwhich hypothesis that describes spatial organizatino of maps layer so that the corresponding
+neurons may perform any transformation from two dimensions to two dimensions. 
 
 ##  
