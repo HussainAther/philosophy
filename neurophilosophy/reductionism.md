@@ -84,4 +84,15 @@ Cognitive psychology is autonomous with respect to neuroscience in the sense neu
 to the cognitive "program" the mind runs. We may argue this on the grounds that our mental state and processes
 are states and processes of our brains, the nervous system evolved from simpler nervous systems, brains are the 
 classiest information processes available for study, neuroscience research cannot be ignored by cognitive scientists,
-and categories at levels that specify the fundamental kinds may need revision. 
+and categories at levels that specify the fundamental kinds may need revision. This method of reasoning lets us use
+the mathematical development of statistical mechanics to, for example, expand to include temperature, equilibrium, entropy,
+and similar properties as discoveries at both lower and higher levels. We may deduce there are many relationships between
+genes and their functions, instead of a one-to-one mapping mentioned earlier. Similar co-evolution can show that genes
+have input-output functional properties we characterize through functions and laws that combine lower-level and higher-level
+discoveries. 
+
+Some functionalists believe input-output operations can be realized in no unitary mechanisms at intermediate
+or lower levels. We may be inclined to assume the abilities at the cognitive level are precise and
+the method of research influence will be from higher levels ot lower levels. Co-evolution is far from interactive.
+Neuroscience and psychology need one another a sneuroscience needs to knwo what the system does while psychology needs
+to know how those lower-level specifications emerge in input-output theory of functionalism.  
