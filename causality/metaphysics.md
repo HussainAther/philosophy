@@ -1,22 +1,22 @@
 # Metaphysics of causality
 
-While the mathematical theory of probability is well-developed and its axioms and 
-main definitions have remained stable for a number of years, there is no consensus 
-regarding the mathematisation of causality. Neither is there much agreement as to 
-what causality is. We explore some of the array of opinions on the nature of causality.
+We can pose questions about the mathematization of causality even with the research
+and methods that have dominated the work on probability and its consequences. We can
+speculate what causality is and the opinions on the nature of causality as they relate
+to the axioms and definitions that have remained stable in the theories of probability
+and statistics.
 
-There are three varieties of position on causality. One can argue that the concept 
-of causality is of heuristic use only and should be eliminated from scientific discourse: 
-this was the tack pursued by Bertrand Russell, who maintained that science appeals 
-to functional relationships rather than causal laws. Alternatively one can argue 
-that causality is a fundamental feature of the world and should be treated as a scientific 
-primitive—this claim is usually the result of disillusionment with purported philosophical 
-analyses, several of which appeal to the asymmetry of time in order to explain the 
-asymmetry of causation, a strat- egy that is unattractive to those who want to 
-analyze time in terms of causality. Or one can maintain that causal relations can be 
-reduced to other concepts not involving causal notions. This latter position is 
-dominant in the philosophical literature, and there are four main approaches which can 
-be described roughly as follows.
+We can elaborate three types of causality approaches. The first is that causality
+is only a heuristic and has no role in scientific reasoning and discourse, as philosopher
+Bertrand Russel argued. Science depends upon functional relationships, not casual laws. 
+The second position is that causality is a fundamental feature of the world, a universal principle.
+We should, therefore, treat it as a scientific primitive. This position evolved out of 
+conflict with purported philosophical analyses that appealed to asymmetry of time (that it
+moves in one direction) to explain the asymmetry of causation (that they move in one direction 
+and one direction only). This raises concerns of how to interpret time in terms of causality.
+The third is we can reduce causal relations to other concepts that don't involve causal notions.
+Many philosophers support this position, and, as such, there are four divisions within this
+position. 
 
 We will suppose here that causality is a relation between variables and that these variables 
 are single-case or repeatable according to the interpretation of causality in question. 
