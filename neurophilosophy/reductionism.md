@@ -27,4 +27,5 @@ as an irreducible property, in what we call property dualism.
 These property dualists argue that, although there are nontrivial differences among
 the hypotheses advanced by assorted property dualists, they maintain that, even if 
 the mind is the brain, subjective experience qualities are emergent with respect to the
-brain and its properties. 
+brain and its properties. The commonsense conceptual framework to understand psychological
+properties in a way that doesn't reduce to any future neuroscience. 
