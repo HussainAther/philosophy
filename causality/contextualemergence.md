@@ -23,6 +23,11 @@ states in Ls by individual states in Li. Each state has limited knowledge, but, 
 we can create probability distributions represent the statistical states Ls. This could be how
 spike signals from neural circuits encode for higher-level functions in the brain.
 
+A property dualist position would also recognize three features of this emergence. 
+The emergent property at the higher level Hi must have real instances, remain co-occurrent wtih some property
+or complex feature recognized in the lower level, and this property can't be reduced to any property
+postulated by or definable within the lower level.  
+
 Then, we can assign individual states at the higher level H to coextensional statistical states at level L.
 We use a top-down constraint. This needs information about the higher description to choose a
 context setting the framework for the set of observable properties at level H created from L.
