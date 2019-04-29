@@ -111,4 +111,11 @@ sensorimotor control, we can determine the nature and dynamics of cognition. We 
 organization that correspond to cognitive activity as the way sentiential representations act according to logical rules. Phase spaces
 may recognize certain features as humans do, such as eyes of faces or shapes of animals. We may describe phase spaces in such a way
 that they're occupied by these sensory stimuli. Using the cones of photoreceptors' reflectances responsible for color, we can demonstrate
-a computational problem of how to represent a unique color with a triplet of reflectance values.  
+a computational problem of how to represent a unique color with a triplet of reflectance values. 
+
+## Parallel models 
+
+Sequential models can be powerful, AI researchers have shown their ineffectiveness in simulation of fundamental cognitive processes
+in areas of pattern recognition and knowledge storage and retrieval.  
+
+ 
