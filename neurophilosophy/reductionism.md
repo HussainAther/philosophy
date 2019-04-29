@@ -98,4 +98,11 @@ Neuroscience and psychology need one another a sneuroscience needs to knwo what 
 to know how those lower-level specifications emerge in input-output theory of functionalism. But the co-evolutionary
 development of neuroscience and psychology means reduction is bound to occur at some point or another. The practical difficulties,
 understanding how the mind-brain works, lack of mathematical and computational theory, and the bare fact that it might be true
-that psychology isn't reducible to neuroscience.  
+that psychology isn't reducible to neuroscience. 
+
+## Representations
+
+Much of what we discuss has an aboutness. When we believe, desire, think, intend, or anything similar we have a semanitcally
+coherent system such that these things have content and intention as they're about things. If psychological explanations
+of human behavior rely on matching representational states to parts of the human being, we may object to reductionist
+ideas as mental states are identified in terms of logical and semantical relations. 
