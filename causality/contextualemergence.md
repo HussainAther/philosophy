@@ -48,7 +48,11 @@ extend to higher-level individual states we can observe.
 Philosopher Aristotle argued emergent structures arise when their constituents interact in an 
 interdependent manner, but others may argue that emergence may occur even if the parts act 
 independently of one another or even be autonomous. In either case, to echo the theory of 
-Gestalt, the whole is greater than the sum of its parts.
+Gestalt, the whole is greater than the sum of its parts. Our intuition that properties are different
+from one another doesn't tell us whether intertheoretic reduction between the two may identify them.
+Light may be a different property from electromagnetic radiation, but light itself is a form of
+electromagnetic radiation. The same may be applied to properties such as high temperature and 
+high radiation. 
 
 ## Point mechanics to statistical mechanics to thermodynamics
 
@@ -104,31 +108,31 @@ partition a space of mental states. Creature consciousness can give us refined l
 of background consciousness (awake, dreaming, etc.), wake consciousness (perceptual, cognitive, affective, etc.),
 perceptual consciousness (visual, auditory, tactile, etc.), and visual consciousness (color, form, location, etc.). With
 one of these contexts, we choose stability criterion at Ls that has complicated neurodynamics to find robust, proper
- statistical states.
- 
- We may describe L-dynamics and H-dynamics meshing with one another if coarse graining and time
- evolution commute with one another. We create meshes, parts of space differentiated by complexes of cells
- between the two levels, that follow from higher-level stability criterion. The coarse graining means fine details
- of the system can be smoothed over, as entropy of the system increases, such that we can make predictions
- about the system as a whole.
- 
- Contextual emergence could help artificial intelligence approach its potential while accounting for the inherent,
- intrinsic differences between science and philosophy. We may model the mind as a contextual emergent phenomena of the
- neurophysiology of the brain. As we learn about the world, we can account for emergent phenomena when addressing
- issues in science and philosophy, and AI would benefit from these methods of understanding. AI could avoid the
- issues of reductionism using higher-level emergent behavior resulting from neural networks in the human brain.
- Backpropagation of neural networks lets us optimize the gap between reality and models they represent using
- feedback loops with optimal weights of individual neurons when optimized for emergent details. The same way
- a human can differentiate between a drawing of an lion and a photograph of a lion itself using the emergent phenomena of
- visual images that appear together to create a lion, intelligent machines can embrace contextual emergence to
- view the work with inquisitive wonder and curiosity to learn. Instead of having to show a computer hundreds of
- thousands of images of a lion to teach them how to identify a lion, they can realize a lion in another context, such as
-lines of a piece of artwork, through the emergent properties of a drawing of a lion itself.
- 
- Emergence in AI can account for emotional reactions and instincts by evolving using stochastic emergent
- phenomena the same way human intelligence has evolved. We may address the role emotions and biases
- play in decision-making and intelligence, as described by psychologists Daniel Kahneman, Amos Tversky, and
- Gerd Gigerenzer.
+statistical states.
+
+We may describe L-dynamics and H-dynamics meshing with one another if coarse graining and time
+evolution commute with one another. We create meshes, parts of space differentiated by complexes of cells
+between the two levels, that follow from higher-level stability criterion. The coarse graining means fine details
+of the system can be smoothed over, as entropy of the system increases, such that we can make predictions
+about the system as a whole.
+
+Contextual emergence could help artificial intelligence approach its potential while accounting for the inherent,
+intrinsic differences between science and philosophy. We may model the mind as a contextual emergent phenomena of the
+neurophysiology of the brain. As we learn about the world, we can account for emergent phenomena when addressing
+issues in science and philosophy, and AI would benefit from these methods of understanding. AI could avoid the
+issues of reductionism using higher-level emergent behavior resulting from neural networks in the human brain.
+Backpropagation of neural networks lets us optimize the gap between reality and models they represent using
+feedback loops with optimal weights of individual neurons when optimized for emergent details. The same way
+a human can differentiate between a drawing of an lion and a photograph of a lion itself using the emergent phenomena of
+visual images that appear together to create a lion, intelligent machines can embrace contextual emergence to
+view the work with inquisitive wonder and curiosity to learn. Instead of having to show a computer hundreds of
+thousands of images of a lion to teach them how to identify a lion, they can realize a lion in another context, such as
+ines of a piece of artwork, through the emergent properties of a drawing of a lion itself.
+
+Emergence in AI can account for emotional reactions and instincts by evolving using stochastic emergent
+phenomena the same way human intelligence has evolved. We may address the role emotions and biases
+play in decision-making and intelligence, as described by psychologists Daniel Kahneman, Amos Tversky, and
+Gerd Gigerenzer.
 
 We can represent proper cells with basins of attraction and chaotic attractors with coarse-grained generating
 partitions. These partitions of the system lead to Markov chains with a rigorous theoretical constraint
@@ -257,13 +261,13 @@ procedure to construct level-specific criteria for relevant observables across d
 
 ## Reductionism and ontology
 
- It may seem appealing to reduce every system down to its fundamental components and conclude that every empirical phenomena
- in science or other disciplines is only applied mathematics. But this misses out on the features of the whole that emerge in the contexts
- of the higher layers which cannot be reduced. Consciousness among neural and mental correlates of different states provide one example,
- but we only need to look at any example, such as the emergence of transcriptome interactions from how a genome itself structures itself,
- to realize that these properties come about only at the higher levels, and, therefore, involve phenomena that are not completely reducible to
- mathematics. Biologist Peter Corning argued in "The Re-Emergence of "Emergence": A Venerable Concept in Search of a Theory" that whole systems
- produce unique combined effects that may involve the context between and the interactions with the system and its environment.
+It may seem appealing to reduce every system down to its fundamental components and conclude that every empirical phenomena
+in science or other disciplines is only applied mathematics. But this misses out on the features of the whole that emerge in the contexts
+of the higher layers which cannot be reduced. Consciousness among neural and mental correlates of different states provide one example,
+but we only need to look at any example, such as the emergence of transcriptome interactions from how a genome itself structures itself,
+to realize that these properties come about only at the higher levels, and, therefore, involve phenomena that are not completely reducible to
+mathematics. Biologist Peter Corning argued in "The Re-Emergence of "Emergence": A Venerable Concept in Search of a Theory" that whole systems
+produce unique combined effects that may involve the context between and the interactions with the system and its environment.
 
 Contextual emergence has been originally conceived as a relation between levels of descriptions, 
 not levels of nature: It addresses questions of epistemology rather than ontology. In agreement with Esfeld, 
