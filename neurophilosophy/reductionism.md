@@ -78,4 +78,10 @@ reductions aren't conditional on a one-to-one mapping of higher-level theory to 
 argue against reductionism in this sense that there are fundamental differences between neuronal explanations
 and functional-computational explanations.
 
- 
+## Co-evolutionary research ideology
+
+Cognitive psychology is autonomous with respect to neuroscience in the sense neurobiological data are irrelevant
+to the cognitive "program" the mind runs. We may argue this on the grounds that our mental state and processes
+are states and processes of our brains, the nervous system evolved from simpler nervous systems, brains are the 
+classiest information processes available for study, neuroscience research cannot be ignored by cognitive scientists,
+and categories at levels that specify the fundamental kinds may need revision. 
