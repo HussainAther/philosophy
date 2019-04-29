@@ -135,7 +135,7 @@ of an image emerges from various strucutres working in a dynamic, systemic manne
 update their brain-computer models using evolution the same way sensorimotor mechanisms have to suit a simultaneous solution
 in visual recognition.
 
-## Computational theory of mind
+## A computational theory of mind
 
 We distinguish between different levels of description of computational proceseses. These levels have certain reducible relationships  
 among them in which we can make varying levels of commitment to the reductionism between them. The theory of symbolic computational
@@ -146,4 +146,10 @@ they may have similar or the same mental states. Philosopher Patricia Churchland
 that the implementation is important, especially as lower theroetical levels (such as neuroscientific phenomena) are significant
 to higher ones. Opponents may aslo argue that the representations of computationalism don't tell us anything more than
 the non-representational descriptions do. Using representation may just amount to an unnecessary model or analogy that only steers us
-away from the precise, defined meaning of the world.  
+away from the precise, defined meaning of the world. 
+
+The computationalist may respond she doesn't want to make a physiologically accurate human mind model, but wants to find intelligent
+features for any agent. In AI, one might want to solve a problem in computational space that doesn't represent human features. 
+She may also respond that representational theories note when the features of representation, such as the similarity between representations
+and their objects and how accruate they are, in such a way that the representational theory is more effective, valid, and justified
+than non-representational theories.  
