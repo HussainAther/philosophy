@@ -124,4 +124,6 @@ The Hinton-Sejnowski visual recognition system uses a network of two sets of bin
 the other for connecting detectors to nondetecting units. These networks determine the truth and validity of hypotheses by gauging
 which units fire and which don't. It performs a cooperative search in which these assemblies vote for various outcomes and the one
 with the most votes wins. The relationships between various hypotheses depend upon synaptic weights using probabilitiy functions
-and distributions.  
+and distributions. They also perform relaxations that cool the system such that it may take different molecular organizations in an annealing process.
+During this process the crystalline structures have a global energy minimum that parallels adding noise to the system.  
+From these fluctuations in noise, the system breaks out of superficial minimima.  
