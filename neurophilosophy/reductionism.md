@@ -46,4 +46,11 @@ may argue that Mary would still be able to identify the color red as it is an em
 question.
 
 Dualist theories may include our capacity for introspection just as light still exists
-as a phenomena even if it may be reduced to electromagnetic radiation. 
+as a phenomena even if it may be reduced to electromagnetic radiation. A reductionist
+may also believe an evolved psychology can reduce to an evolved neuroscience.
+
+## Functionalism
+
+Acknowledging there are categories of folk pyschology that are incorrect for categorizing
+mental states, these categories delimit intentional states and logical processes, and they
+don't reduce to categoies ar the neurobiological level of description.
