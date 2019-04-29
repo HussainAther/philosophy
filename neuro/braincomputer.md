@@ -52,10 +52,14 @@ map onto an indefinite mix of neurobiological categories.
 
 ## Connectionism (Parallel distributed processing)
 
-As Paul Churchland has argued, we may use connectionism or parallel distributed processing (PDP) in figuring out the computational
+As philosopher Paul Churchland has argued, we may use connectionism or parallel distributed processing (PDP) in figuring out the computational
 operatinos in nervous systems in such a way we may use computer models of parallel distributed systems to generate the appropriate
 phenomena on a higher level (cognitive science, psychology, etc.) from basic processes (neuroscience, physics, etc.).
 
-## Tensor networks
+### Tensor network theory
+
+Neuroscientists began the theory began on the cerebellum because it has a limited nubmer of neuron types that are each
+distinct on a physiological level and connected in a specific way that the cerebellar cortex produces the Purkinje cell
+with two different cell systems as input. 
 
  
