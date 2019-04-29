@@ -107,4 +107,5 @@ algorithms.
 ## Mental states
 
 If we determine how behavior related to cognition and complexity emerge from the basic neurophysiological theories that govern
-sensorimotor control, we can determine the nature and dynamics of cognition.
+sensorimotor control, we can determine the nature and dynamics of cognition. We may construct representations at abstract levels of 
+organization that correspond to cognitive activity as the way sentiential representations act according to logical rules.  
