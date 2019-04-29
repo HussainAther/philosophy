@@ -123,4 +123,5 @@ humans neurons against artificial ones.
 The Hinton-Sejnowski visual recognition system uses a network of two sets of binary units: one for detecting input from external stimuli and
 the other for connecting detectors to nondetecting units. These networks determine the truth and validity of hypotheses by gauging
 which units fire and which don't. It performs a cooperative search in which these assemblies vote for various outcomes and the one
-with the most votes wins.  
+with the most votes wins. The relationships between various hypotheses depend upon synaptic weights using probabilitiy functions
+and distributions.  
