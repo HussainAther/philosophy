@@ -66,4 +66,6 @@ itself processes information. Through tensor network theory we attempt to use pr
 science in understanding how these systems may model the nervous system. We can create a schematic neuron to find out more about
 the patterns of neurons arranged in mathematical arrays. Though the model may be limited by the assumptions of casual theory
 and epistemic concerns of the phenoemna we attempt to describe, it's a nice heuristic to see something we wouldn't otherwise
-see through single-cell data. 
+see through single-cell data. We may use concepts from linear algebra and statistics to create output vectors in a coordinate
+system such that the corresponding tensor matrix governs the transformtaion of ensembles from input-output relationships
+by the corresponding reference frame. 
