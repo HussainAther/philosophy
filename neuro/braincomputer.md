@@ -116,6 +116,6 @@ a computational problem of how to represent a unique color with a triplet of ref
 ## Parallel models 
 
 Sequential models can be powerful, AI researchers have shown their ineffectiveness in simulation of fundamental cognitive processes
-in areas of pattern recognition and knowledge storage and retrieval.  
-
- 
+in areas of pattern recognition and knowledge storage and retrieval. The differnces between human brains and computer science phenomena
+only furthers these issues. Humans and computers use very different methods of storing memory as well as methods of connectivity among
+humans neurons against artificial ones.  
