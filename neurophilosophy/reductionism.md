@@ -131,5 +131,7 @@ reduce representational states to, but these arguments lack the empirical eviden
 
 We may describe an information-processing theory as sentiential if the cognitively relevant internal states have content,
 the theoretically relevant relationships between cognitive states are characterized by logic, the state transitions are a 
-function of logical relationships between sentences that identify the states, and we evaluate cognitive virtue as a functino
-of the extent to which it succeeds in doing what the logical theory of state transition says it should do.
+function of logical relationships between sentences that identify the states, and we evaluate cognitive virtue as a function
+of the extent to which it succeeds in doing what the logical theory of state transition says it should do. We may also define 
+cognitive processes as sentence-processing processes. Such an information-processing system should also have methods of determining
+which knowledge is relevant to its purpose. Such an artificial intelligence being would also have to do this.  
