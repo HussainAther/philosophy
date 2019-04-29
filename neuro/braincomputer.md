@@ -50,4 +50,12 @@ categories of neurophysiology theory that would make neurophysiological generali
 that are only describably at the level at which representations are referred to. The psychological maps only would 
 map onto an indefinite mix of neurobiological categories.
 
+## Connectionism (Parallel distributed processing)
+
+As Paul Churchland has argued, we may use connectionism or parallel distributed processing (PDP) in figuring out the computational
+operatinos in nervous systems in such a way we may use computer models of parallel distributed systems to generate the appropriate
+phenomena on a higher level (cognitive science, psychology, etc.) from basic processes (neuroscience, physics, etc.).
+
+## Tensor networks
+
  
