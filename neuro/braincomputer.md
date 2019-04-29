@@ -88,5 +88,12 @@ criteria. Such AI would require this knowledge to determine what to do.
 
 Tensor network theory still needs to unify results across the disciplines of cogntive science, psychology, and neuroscience in such
 a way that we can construct a universalized, common set of rules with coherent explanations that we can experimentally test and verify.
+Attempts to describe the vestibulu-ocular reflex, the method of determining movement from visual image stimuli, using semicircular canals
+of the vestibular system, we furhter imagine each eyeball detecting the images and communicating to those receptors. This system needs
+to determine how muscles contract so the eyes move in a way to refelect the head movements. The corresponding tensor approach would imagine
+the system converting a head position vector into a vector that describse muscle positions. The transformation 
+from vestibular to oculomotor, according to the Pellionisz-Llinás hypothesis, takes a premotor vector intoa motor vector. The vestibulur 
+organ, we can show, has a set of positions it prefers that we can call an eigenposition. 
+ 
 
 ##  
