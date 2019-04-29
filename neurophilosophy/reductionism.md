@@ -11,4 +11,5 @@ harbors a separate mental substance as the nonphysical mind or the soul (substan
 whether its limited to nonphysical properties of the physical brain (property dualism). 
 There are also skeptics who argue a principled skepticism of reductionism uses the hypothesis that generalizations of psychology emerge with respect to the 
 generalizations of neuroscience. Mental states and processes create a domain of study that's autonomous
-with respect to neuroscience. They reject dualism.
+with respect to neuroscience with functionalist arguments. They reject the dualist position.
+
