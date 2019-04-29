@@ -34,3 +34,6 @@ don't believe there's a nonphysical substance inherent to experiences. They beli
 subjective experiences are produced by the brain and affect the brain even if they 
 aren't actual physical properties of the brain.
 
+Philosopher Frank Jackson used the thought experiment of Mary the neuroscientist to show
+that differences between knowing our states through introspection and knowing through
+nonintrospection give the grounds to reduce psychology to neuroscience.
