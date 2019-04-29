@@ -163,4 +163,10 @@ arise from a sort of combinatorial engine that the computationalist theory would
 
 The connectionist model describes effects of some emotions, but doesn't model emotion itself. To allow semantic activation models to use emotions
 in a cognitive position would mean that emotions, in some sense, are the same as similar cognitive categories such as "visual stimuli" or "beliefs." 
-The other features of emotion, though, semantic activation models need to describe implementation-dependent details of the model itself.  
+The other features of emotion, though, semantic activation models need to describe implementation-dependent details of the model itself. 
+
+The computationalist position also has issues with how to model affects, such as those of basic emotions, independently of cognition yet still
+play a role in rational human behavior. The computationalist may be inclined to treat emotions as external or even unnecessary to their models.
+Computationalists also can't account for the effects of basic emotions on perception and categorization using their current models.
+These emotions themselves may be more fundamental to those perceptions and categories that we form, given their unique nature on intellectual
+perception.  
