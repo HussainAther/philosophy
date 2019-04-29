@@ -16,4 +16,5 @@ with respect to neuroscience with functionalist arguments. They reject the duali
 ### Substance dualism
 
 Mental states are not of the brain, but a different substance. It requires explanation
-for the way two different substances may interact.   
+for the way two different substances may interact and how the nonphysical mind creates
+those mental states. 
