@@ -56,4 +56,11 @@ mental states, these categories delimit intentional states and logical processes
 don't reduce to categoies ar the neurobiological level of description. In this context, we 
 introduce functionalism as the thesis that mental states are defined in terms of their abstract
 causal roles in the wider information-processing system. We characterize mental states
-as they relate to causal relations of environmental stimuli. 
+as they relate to causal relations of environmental stimuli. Happiness is about the behavior 
+associated with being happy and the way it relates to neurobioloigcal phenomnea that govern it.
+Mental states and processes are functional in a usually physicalist manner. We can describe causal
+and logical relations among perceptions, beliefs, desires, and behavior at the structural level.
+The same way switches in a computer govern the way it functions, a functionalist theory may believe
+that our physical phenomena of what goes on in the brain may govern behavior and actions. 
+
+  
