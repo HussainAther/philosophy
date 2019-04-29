@@ -1,5 +1,14 @@
 # The brain-computer interface
 
+Brains are only like computers in a specific abstract sense. We can take apart this analogy in the context
+of the brain-computer interface to determine knowledge for philosophy, neuroscience, artificial intelligence,
+and other research areas. It's very harmful in many ways to treat the nervous system as the hardware in such 
+a way that we need to understand the cognitive science as software when we don't understand the limitations 
+of such a metaphor. Any theory of anatomical connection we demonstrate in vertebrate nervous systems may give
+us a basic description of what happens at each stage, but don't tell us how a given input relates to a certain
+output. Instead, they obfuscate the description of the brain by using unneccessary comparisons to explain
+phenomena that are better off explained by describing the phenomena directly and precisely.
+
 An output of a computer depends on its program, input, and functional stages that lead to the output.
 
 ## Intentionality 
@@ -39,4 +48,6 @@ we describe how and why people do what they do. Philosopher Zenon Pylyshyn said 
 something with certain interpretations of the symbols in a domain. Psychologcial theory would cross-classify
 categories of neurophysiology theory that would make neurophysiological generalizations miss important relations
 that are only describably at the level at which representations are referred to. The psychological maps only would 
-map onto an indefinite jumble of neurobiological categories. 
+map onto an indefinite mix of neurobiological categories.
+
+ 
