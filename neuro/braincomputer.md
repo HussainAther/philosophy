@@ -84,4 +84,9 @@ as coordinate transformations between phase spaces. The Pellionisz-Llinás appro
 realistic creatures as a method of reducing at bottom the problem of making coordinate transformations between phase spaces. In tensor
 network theory, we look for functional relationships between connected cell assemblies and investigate them for properties relevant
 to phase spaces much the same way a computer or artifically intelligent machine searches for solutions among sentence-related
-criteria. Such AI would require this knowledge to determine what to do. 
+criteria. Such AI would require this knowledge to determine what to do.
+
+Tensor network theory still needs to unify results across the disciplines of cogntive science, psychology, and neuroscience in such
+a way that we can construct a universalized, common set of rules with coherent explanations that we can experimentally test and verify.
+
+##  
