@@ -29,4 +29,5 @@ algorithm and the structural implementation of those features. Neurobiological t
 specifiying the organizational description. The levels of membrane, cell, synapse, cell assembly, circuit, and behavior
 can be argued as levels, but even within them we have different partitions of the levels of themselves. We can also determine
 levels by the research methods such as how through learning and memory we can take a cellular approach to show 
-modifications in presynaptic neurotransmitter releases in habituation.   
+modifications in presynaptic neurotransmitter releases in habituation. Which level is functional and which level is structural
+is difficult to determine, too.  
