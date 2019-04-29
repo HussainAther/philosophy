@@ -80,4 +80,5 @@ to higher-level descriptions.
 
 We use a tensor transformer to transform in a way we still need: to transform vectors in sensory space to vectors in motor space. 
 We may deform one phase space to get an object in the other one using represesntations as positions in phase space and computations
-as coordinate transformations between phase spaces.  
+as coordinate transformations between phase spaces. The Pellionisz-Llinás approach uses sensorimotor problems constrained by
+realistic creatures as a method of reducing at bottom the problem of making coordinate transformations between phase spaces.  
