@@ -95,11 +95,16 @@ the system converting a head position vector into a vector that describse muscle
 from vestibular to oculomotor, according to the Pellionisz-Llinás hypothesis, takes a premotor vector intoa motor vector. The vestibulur 
 organ, we can show, has a set of positions it prefers that we can call an eigenposition. 
 
-We further describe Churchland's phase-space sandwhich hypothesis that describes spatial organizatino of maps layer so that the corresponding
+We further pose Churchland's phase-space sandwhich hypothesis that describes spatial organizatino of maps layer so that the corresponding
 neurons may perform any transformation from two dimensions to two dimensions. The maps representing phase spaces aren't literally stacked upon one another. 
 They may remain spatially distant from each other. With the topology of the cortical area, we still have to answer whether tensor network
 theory can account for neuroplasticity. Covariant proprioception vectors can give feedback about motor performance which can further
 provide information of trasnformations of the cerebellar matrix. The matrix would then turn into a state such that its eigenvectors
-are identical so that they are the "correct" coordinate transformation.   
+are identical so that they are the "correct" coordinate transformation. Climbing fibers of the cerebellum may provide a pathway
+for reverbative feedback that modifies transformational properties of the cerebellar network. This is found in AI that use relaxation
+algorithms.  
 
-##  
+## Mental states
+
+If we determine how behavior related to cognition and complexity emerge from the basic neurophysiological theories that govern
+sensorimotor control, we can determine the nature and dynamics of cognition.
