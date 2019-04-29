@@ -18,7 +18,7 @@ states of a robot would be applying a double standard arbitrarily with no useful
 machinery doesn't change that it believes, wants, and understands things. The robot's intentional states depend
 on how complex its internal informational network of states it has.
 
-We need altogehter a better theory of representation in organisms much the same way we have theoretical definitions
+We need altogether a better theory of representation in organisms much the same way we have theoretical definitions
 and ideas of what molecules, proteins, and neutrons are. 
 
 ## Levels of organization
@@ -35,4 +35,8 @@ is difficult to determine, too.
 ## Causality
 
 A calculator's representation and rules for manipulating representations can explain its behavior much the same way
-we describe how and why people do what they do.   
+we describe how and why people do what they do. Philosopher Zenon Pylyshyn said we explain why a machine does
+something with certain interpretations of the symbols in a domain. Psychologcial theory would cross-classify
+categories of neurophysiology theory that would make neurophysiological generalizations miss important relations
+that are only describably at the level at which representations are referred to. The psychological maps only would 
+map onto an indefinite jumble of neurobiological categories. 
