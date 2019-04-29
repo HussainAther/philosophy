@@ -13,6 +13,7 @@ f_opt = max V(f, E, U)
 
 def fopt(V, E, U):
     """
-    Maximize our function fopt by maximizing expected utility in the corresponding environment.
+    Maximize our function fopt by maximizing expected utility V in the corresponding environment E
+    with some performance measure U.
     """
     return max(V(f0, E, U))
