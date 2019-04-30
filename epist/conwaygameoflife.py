@@ -56,13 +56,13 @@ As Conway's GoL runs, patterns (Methuselahs) emerge. From most initial condition
 GoL reaches a stable state. 
 
 Conway's conjecture concerns whether the initial patterns stabilize. 
-According to Stephen Wolfram's Principle of Computational Equivalence (as outlined in cellularautomata.py),
-GoL should be (and is) Class 4 and Turing Complete. 
+According to Stephen Wolfram's Principle of Computational Equivalence 
+(as outlined in cellularautomata.py), GoL should be (and is) Class 4 and 
+Turing Complete. 
 
 We can observe the instrumentalism of theories through Conway's GoL.
 In rough, informal lanugage, theories are instruments that we use for 
 our purposes; a theory is useful, or not, to the degree that it is fit
 for its purpose. One might argue entities in GoL aren't real. They are,
 however, useful in thinking about other things in biology and mathematics.
-
 """
