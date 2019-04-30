@@ -24,7 +24,7 @@ account of causal explanation.
 
 ## Inductive learning
 
-Philosopher Francis Bacon promoted the inductive account of scientific learning and reasoning. From a very high-number of 
+Philosopher Francis Bacon promoted the inductive account of scientific learning and reasoning. From a very high number of 
 observations of some phenomenon or event with experimental, empirical evidence where it's appropriate, we can compile
 a table of positive instances (in which a phenomenon occurs), negative instances (it doesn't occur), and prartial instances 
 (it occurs to a certain degree). This gives a multidimensionality to phenomena that characterize causal relationships from
