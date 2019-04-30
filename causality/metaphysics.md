@@ -38,32 +38,32 @@ cases linked by physical processes even if we can induce causal regularities or 
 connections in an objective manner. If two people disagree on the causal connections, one or both 
 are wrong. 
 
-This approach is difficult to apply. The physics of theseq quantities aren't determined
+This approach is difficult to apply. The physics of these quantities aren't determined
 by the causal relations themselves. The conservation of these physical quantities may suggest
 causal links to physicists, they aren't relevant in the fields that emerge from physics such as
 chemistry or engineering. This would lead one to believe the epistemology of the causal concepts 
-are irreelvant to their metaphysics. If this were the case, the knowledge of a causal relationship
+are irrelevant to their metaphysics. If this were the case, the knowledge of a causal relationship
 would have little to do with the causal connection itself.  
 
 The third subdivision is probabilistic causality in which we treat casual connections with probabilistic
 relationships of variables. We can debate which probabilistic relationships among variables of probabilistic
 causality determine or create causal relationships. One might say the Principle of Common Cause (if two variables
 are probabilistically dependent, then one causes the other or they're effects of common causes that make them
-indepedent from one another). Philosopher Hans Reichenbach applied this to causality to provide a probabilistic
+independent from one another). Philosopher Hans Reichenbach applied this to causality to provide a probabilistic
 analysis of time in its single direction. More recent philosophers use the Causal Markov Condition as a necessary
 condition for causality with other less central conditions. We normally apply probabilistic causality
 to repeatable variables such that probability handles them, but critics may argue the Principle of the Common
-Cause and the Causal Markov Conditions have counterexamples hsowing they don't hold in under all conditions.
+Cause and the Causal Markov Conditions have counterexamples showing they don't hold in under all conditions.
 
 Finally, the fourth subclass is the counterfactual account, as advocated by philosopher David Lewis. In this way, we reduce
 causal relations to subjunctive conditions such that an effect depends causally on a cause if and only iff (1) if
 the cause were to occur, then the effect would occur (or its chance to occur would raise significantly) and (2) if
-the cause didn't occur then the effcet wouldn't occur. The transitive closure of the Causal Depedendence (that a cause
+the cause didn't occur then the effect wouldn't occur. The transitive closure of the Causal Depedendence (that a cause
 will either increase the probability of a direct effect or, if it's a preventative, make the effect less likely, as long
 as the effect's other direct causes are held fixed) holds. The causal relationships are what goes on in possible
 worlds that are similar to our own. Lewis introduced counterfactual theory to account fo the causal relationships between
 single-case events and causal relationships that are mind-independent and objective. We may still press this account
 by arguing that we have no physical contact with these possible worlds or that there isn't an objective way to determine
-which wordls are closest to our own or which worlds we should follow and analyze in determining causality. The counterfactualist
+which worlds are closest to our own or which worlds we should follow and analyze in determining causality. The counterfactualist
 may respond that the worlds we choose are the ones in which the cause-and-effect relationship occur as closer to our own world
 and, from there, determine which appropriate world is closest to our own.       
