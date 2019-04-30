@@ -54,7 +54,7 @@ may also believe an evolved psychology can reduce to an evolved neuroscience.
 
 Acknowledging there are categories of folk psychology that are incorrect for categorizing
 mental states, these categories delimit intentional states and logical processes, and they
-don't reduce to categoies ar the neurobiological level of description. In this context, we 
+don't reduce to categories ar the neurobiological level of description. In this context, we 
 introduce functionalism as the thesis that mental states are defined in terms of their abstract
 causal roles in the wider information-processing system. We characterize mental states
 as they relate to causal relations of environmental stimuli. Happiness is about the behavior 
