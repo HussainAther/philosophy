@@ -137,8 +137,8 @@ in visual recognition.
 
 ## A computational theory of mind
 
-We distinguish between different levels of description of computational proceseses. These levels have certain reducible relationships  
-among them in which we can make varying levels of commitment to the reductionism between them. The theory of symbolic computational
+We distinguish between different levels of description of computational proceseses. These levels have certain reducible 
+relationships among them in which we can make varying levels of commitment to the reductionism between them. The theory of symbolic computational
 functionalism of the computational theory of mind (known as computationalism) lets minds manipulate discrete, defined symbols
 to model discrete, defined logical structures and computer languages. A human mind may be a deterministic finite state automata under
 this theory, and the theory is independent of implementation. Even if different beings have different physical structures of themselves,
