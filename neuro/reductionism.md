@@ -9,7 +9,7 @@ to take apart how psychology and cognitive science can be reduced to neuroscienc
 These skeptics may argue there is a distinctive mental dimension that is not reducible
 to anything physical. Among them are those that argue this mental dimension actually
 harbors a separate mental substance as the nonphysical mind or the soul (substance dualism) or 
-whether its limited to nonphysical properties of the physical brain (property dualism). 
+whether it's limited to nonphysical properties of the physical brain (property dualism). 
 There are also skeptics who argue a principled skepticism of reductionism uses the hypothesis that 
 generalizations of psychology emerge with respect to the generalizations of neuroscience. 
 Mental states and processes create a domain of study that's autonomous with respect to neuroscience 
@@ -52,7 +52,7 @@ may also believe an evolved psychology can reduce to an evolved neuroscience.
 
 ## Functionalism
 
-Acknowledging there are categories of folk pyschology that are incorrect for categorizing
+Acknowledging there are categories of folk psychology that are incorrect for categorizing
 mental states, these categories delimit intentional states and logical processes, and they
 don't reduce to categoies ar the neurobiological level of description. In this context, we 
 introduce functionalism as the thesis that mental states are defined in terms of their abstract
