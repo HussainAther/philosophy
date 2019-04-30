@@ -27,11 +27,12 @@ def aaa(g):
     Adding-arrows algorithm on graph g (dictionary of nodes connected to edges)
     that is a discrete net (having no arrows).
     """
-    result = {}
-    prev = g[0] # Set the previous path 
-    prevweight = 0
-    for i in g:
-        if g[i] - prev > prevweight: 
-            result[prev] = g[i]  
-        prev = g[i]
+    result = {} # Dictionary of paths connected by arrows 
+    for i in g: # for some node i, we check its connection with each other node j 
+        maxweight = 0 # Set the maximum weight for this node i 
+        for j in g: # Compare each node i with some other node j
+            if i != j: # Exclude any paths of a node leading directly to itself 
+                if g[i] - g[j] > maxweight: # If we can find a weight greater than the maximum weight 
+                    result[prev] = g[i] # Update in our result dictionary
+                    maxweight = g[i] - g[j] 
    return result  
