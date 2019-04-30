@@ -35,11 +35,11 @@ from statistical relationships. We assume the Causal Markov condition holds of p
 This Causal Markov Condition plays a significant deterministic role in the various features of the model and the events or phenomena
 it predicts. A causal net must have the Causal Markov Condition as an assumption or premise. For structural equation models (SEM), Causal
 Markov Conditions result from representations of each variable as a function of its direct causes and an associated error 
-variable with it. We assume probabilistic independdence of each error variable. We then find the class of causal models or
-a single best causal model with probabilistic independences that are justifeid by the Causal Markov Condition. They should be
-consistent with independences we can infer from the data, and we might also make furhter assumptions about the minimality 
-(no submodel of hte causal model also satsified the Causal Markov Condition), faithfulness (all independences in the data
-are implied via the Causal Markov Condition), linearity (all variables are linear functinos of their direct causes and
+variable with it. We assume probabilistic independence of each error variable. We then find the class of causal models or
+a single best causal model with probabilistic independences that are justified by the Causal Markov Condition. They should be
+consistent with independences we can infer from the data, and we might also make further assumptions about the minimality 
+(no submodel of the causal model also satisfied the Causal Markov Condition), faithfulness (all independences in the data
+are implied via the Causal Markov Condition), linearity (all variables are linear functions of their direct causes and
 uncorrelated error variables). We may also define causal sufficiency, whether all common causes of measured variables
 are measured, and context generality, every individual or node in the model has causal relations of the population. These
 two features let us describe models and methods of scientific reasoning as causal in nature and, from there, we may apply
