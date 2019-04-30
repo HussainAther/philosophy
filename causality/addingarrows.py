@@ -13,8 +13,7 @@ If more than one maximum weight arrow exists, we can spawn several new
    constantly prune the nets under consideration by eliminating those
    which no longer have maximum total weight.
 
-We stop when no more arrows can be added and output the resulting Bayesian
-   nets. 
+We stop when no more arrows can be added and output the resulting Bayesian nets. 
 """
 
 def weight(paths):
@@ -25,6 +24,14 @@ def weight(paths):
 
 def aaa(g):
     """
-    Adding-arrows algorithm on graph g (dictionary of nodes connected to edges).
+    Adding-arrows algorithm on graph g (dictionary of nodes connected to edges)
+    that is a discrete net (having no arrows).
     """
-     
+    result = {}
+    prev = g[0] # Set the previous path 
+    prevweight = 0
+    for i in g:
+        if g[i] - prev > prevweight: 
+            result[prev] = g[i]  
+        prev = g[i]
+   return result  
