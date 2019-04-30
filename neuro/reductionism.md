@@ -68,7 +68,7 @@ One may argue that, if mental states and processes are functional, we can unders
 think, reason, and perform similar actions by their functional organization. Neuroscientific methods 
 of reasoning and theory need to focus on functional systems with knowledge of minutiae for 
 other significant areas such as for neuropsychiatric disorders. Cognitive scientists determine
-the functional or cognitive theory of mind while neuroscientists figure out the pyhsical
+the functional or cognitive theory of mind while neuroscientists figure out the physical
 devices that instantiate the cognitive "program." Computational psychology is an autonomous science.
 This line of reasoning runs into issues with the Chinese room argument, as philosopher John Searle articulated,
 that one can copy intelligent action without interpretation or understanding through a purely functional system.
