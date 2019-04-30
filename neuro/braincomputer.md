@@ -1,4 +1,5 @@
-# The brain-computer analogy and the computational theory of mind
+# The brain-computer analogy 
+# and the computational theory of mind
 
 Brains are only like computers in a specific abstract sense. We can take apart this analogy in the context
 of the brain-computer analogy to determine knowledge for philosophy, neuroscience, artificial intelligence,
