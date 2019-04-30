@@ -2,7 +2,7 @@
 
 Examining arguments of how neuroscience and psychology relate to philosophy by 
 looking at how skeptics and enthusiasts have touched upon the subject. We're going
-to take apart how psychology and cognitive sciecne can be reduced to neuroscience.
+to take apart how psychology and cognitive science can be reduced to neuroscience.
 
 ## Principled skepticism
 
