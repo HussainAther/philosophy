@@ -26,7 +26,7 @@ account of causal explanation.
 
 Philosopher Francis Bacon promoted the inductive account of scientific learning and reasoning. From a very high number of 
 observations of some phenomenon or event with experimental, empirical evidence where it's appropriate, we can compile
-a table of positive instances (in which a phenomenon occurs), negative instances (it doesn't occur), and prartial instances 
+a table of positive instances (in which a phenomenon occurs), negative instances (it doesn't occur), and partial instances 
 (it occurs to a certain degree). This gives a multidimensionality to phenomena that characterize causal relationships from
 both *a priori* and *a posterior* perspectives.
 
