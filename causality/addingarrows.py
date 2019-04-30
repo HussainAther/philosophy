@@ -1,4 +1,6 @@
 """
+The Adding-Arrows Algorithm (adding Adding arrows Arrows algorithm)
+
 There are many ways to find a net within an approximation subspace with
 maximum or close to maximum weight. The simplest is a greedy adding-arrows
 algorithm:
