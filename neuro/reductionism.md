@@ -103,7 +103,7 @@ that psychology isn't reducible to neuroscience.
 
 ## Representations
 
-Much of what we discuss has an aboutness. When we believe, desire, think, intend, or anything similar we have a semanitcally
+Much of what we discuss has an aboutness. When we believe, desire, think, intend, or anything similar we have a semantically
 coherent system such that these things have content and intention as they're about things. If psychological explanations
 of human behavior rely on matching representational states to parts of the human being, we may object to reductionist
 ideas as mental states are identified in terms of logical and semantical relations. 
