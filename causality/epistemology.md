@@ -30,7 +30,7 @@ a table of positive instances (in which a phenomenon occurs), negative instances
 (it occurs to a certain degree). This gives a multidimensionality to phenomena that characterize causal relationships from
 both *a priori* and *a posterior* perspectives.
 
-Inductivist artificial intelilgence (AI) approaches have in common the feature that causal relationships can be determined
+Inductivist artificial intelligence (AI) approaches have in common the feature that causal relationships can be determined
 from statistical relationships. We assume the Causal Markov condition holds of physical causality and physical probability.
 This Causal Markov Condition plays a significant deterministic role in the various features of the model and the events or phenomena
 it predicts. A causal net must have the Causal Markov Condition as an assumption or premise. For structural equation models (SEM), Causal
