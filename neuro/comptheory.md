@@ -256,4 +256,11 @@ on how networks function in a computational theory of mind. The nervous systems 
 too many parameters to all be entirely controlled by genetics, neurodevelopment involves a massive
 synaptogenesis that grow using optimization processes, some parameters are used for feedback to adapt
 behavior to circumstances, and natural selection optimizes nervous systems in such a way that we may
-regard the nervous system's selective pressures as error-minimizing. 
+regard the nervous system's selective pressures as error-minimizing.
+
+The neural circuit in visual tracking of moving objects uses many unkonwn parameters and specific 
+weights. We can construct a network by fixing the known parameters and train it on input and output
+to determine the unknown parameters. The probability inference methods depend on the dregree of similar between
+artificial and biological networks. We may use models to generate hypotheses because the nervous system
+evolution may be described with a cost function and artificial mdoels use backpropagation to search through
+possibilites.  
