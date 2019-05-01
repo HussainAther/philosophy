@@ -218,12 +218,20 @@ networks, we can analyze the time frequency of these networks using wavelet anay
 methods of describing temporal correlations between the networks.
 
 FC is similar to functionalism in that we're defining our representations in terms of their functions. Functionalism holds that
-qualitative states (e.g., pain) are functional states of a system, interrelated to inputs, outputs, and other internal states.
-If we had a neuroscientific system that realizes the same set of functional states a person, it still has the problem of
-liberalism and chauvinism, philosopher Ned Block argued. Liberalism is the problem a mentality theory faces when it attributes
-mentality to systems that don't have it, such as behaviorism, Block believed. A behavioral disposition may be necessary
-for the possession of a certain mental state, but it isn't sufficient. Chauvinism is the problem that a theory withholds attributing
-mentality to systems that seem to possess it.
+qualitative states (e.g., pain) are functional states of a system, interrelated to inputs, outputs, and other internal states. For this reason,
+cognitive models of the mind have used FC in their explanations. If we had a neuroscientific system that realizes the same set of
+functional states a person, it still has the problem of liberalism and chauvinism, philosopher Ned Block argued. Liberalism is the
+problem a mentality theory faces when it attributes mentality to systems that don't have it, such as behaviorism, Block believed.
+Functional connectivity in neuroscience must address the objection against functionalism of how mentality theories attribute mentality
+to systems without it. A behavioral disposition may be necessary for the possession of a certain mental state, but it isn't sufficient.
+Chauvinism is the problem that a theory withholds attributing mentality to systems that seem to possess it. Block argued type physicalism falls to
+chauvinism because it's the view that mental state types are equivalent to physical state types.
+
+We may talk about the mental state of pain casued by sitting on a tack that causes behaviors such as loud cries and other mental
+states such as anger. We define these functional defintions (of analytic functionalism) using causal roles that are analytic and a priori
+truths about the other mental states alongside their propositional attitude. Identities are necessary and not subject to empirical
+observation. Psychofunctinoalism, on the other hand, uses empirical observation (in an posteriori manner) and experimentation to
+determine which mental state terms and concepts are contingent to their observations.
 
 ## Structural connectivity 
 
