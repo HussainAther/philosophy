@@ -181,4 +181,22 @@ In math, we generally use bifurcation plots to study dynamical system behavior w
 or similar perturbations. We may use Ohm's law to relate current, potential, capacitance, and resistance among 
 membrane channel dynamics. The dopamine neuron uses ionic currents using the Hodgkin-Huxley models. We can use
 these fundamentals to create circuit models of neuronal activity using population firing rates to calculate
-dopamine efflux in the nucleus accumbens. 
+dopamine efflux in the nucleus accumbens.
+
+## Functional connectivity
+
+Functional connectivity (FC) is the statistical correlation of neural activity to two different regions. We find
+evidence for this at the micro-circuit level (the relationship between structure and function through anatomical 
+and neurophysiological research techniques). We can integrate information across brain networks using large-scale
+brain connectivity at finer temporal and spatial resolution. If we introduce spatiotemporal models of resting-state
+networks, we can analyze the time frequency of these networks using wavelet anaylsis, sliding-windows, and similar
+methods of describing temporal correlations between the networks. 
+
+## Structural connectivity 
+
+Structural connectivity (SC) are the long-range anatomical connections among brain areas through white-matter
+fiber projections. We use fiber tracking using bounded diffusion of molecules in water to create non-invasive
+connectivity maps. In the past scientists used diffusion tensor imaging (DTI), we track neural fibers, but more 
+recent studies have used advances in graph theory for much more research on topological features in brain connectivity. 
+
+We can characterize the relationship between FC and SC  
