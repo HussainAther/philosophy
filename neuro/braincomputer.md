@@ -89,7 +89,7 @@ criteria. Such AI would require this knowledge to determine what to do.
 Tensor network theory still needs to unify results across the disciplines of cogntive science, psychology, and neuroscience in such
 a way that we can construct a universalized, common set of rules with coherent explanations that we can experimentally test and verify.
 Attempts to describe the vestibulu-ocular reflex, the method of determining movement from visual image stimuli, using semicircular canals
-of the vestibular system, we furhter imagine each eyeball detecting the images and communicating to those receptors. This system needs
+of the vestibular system, we further imagine each eyeball detecting the images and communicating to those receptors. This system needs
 to determine how muscles contract so the eyes move in a way to refelect the head movements. The corresponding tensor approach would imagine
 the system converting a head position vector into a vector that describse muscle positions. The transformation 
 from vestibular to oculomotor, according to the Pellionisz-Llinás hypothesis, takes a premotor vector intoa motor vector. The vestibulur 
@@ -206,4 +206,17 @@ based on minimization of predicted and observed depdent variables. EC also refer
 that captures the features that shape connectivity like synaptic strengths, neurotransmitter concentrations, and
 neural excitability. Through both model-driven and data-driven approaches (the former generation signals under 
 assumptions and the latter using statistics, information theoreitcal measures, or phase relationships to extract
-EC), we can infer EC and the topology of these networks. Using     
+EC), we can infer EC and the topology of these networks. Using binary graphs, path length measures, clustering coefficients,
+and other ideas from graph theory alongside results from diffusion-based tractogrpahy, we can show 
+the resting-state networks in various regions of the brain. Scientists have introduced Network Based Statistics
+for comparing whole-brain connectivity between different groups of connections.
+
+We use the covariance between populations of neural activity with the Jacobian of the system of equations
+describing the neural activity in each node. For an input covariance matrix, we can describe the covariance
+between neural populations. The Kuramoto network model uses the global graph metrics of schizophrenia patients
+to account for the neurophysiological impairment to describe resting-state network activity between topological
+properties in schizophrenia. We may use either noise-driven spontaneous dynamics and complex interactions 
+between phase-oscillators (with coupling, delays, and noise) to introduce a dynamic nature to the model, but these
+two factors contradict one another. The former implies temporal correlations in spontaneous activity emerge from
+uncorrelated noise propagation through connections while the latter uses complex interactions of oscillatory
+activities in regions of the brain.     
