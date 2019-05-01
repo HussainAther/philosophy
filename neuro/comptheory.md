@@ -62,7 +62,9 @@ upon by everyone. There are many competing hypotheses and theories to how the lo
 structural form of the mental states that correspond to them. If we take an intentional stance to the mind (that we treat the
 object that has a behavior we want to predict as a rational agent that has beliefs, desires, and similar mental states that
 exhibit intentinoality), we can uncover objective, real patterns of the world, and this is an empirical claim we can determine beyond
-the skepticism assocaited with it.
+the skepticism assocaited with it. Philosopher Daniel Dennett argued any object or systsem whose behavior we predict with
+this strategy is a believer. A true believer is an intentnioal system whose behavior we can reliably predict wit hthe intentional
+stance.
 
 ## Causality
 
