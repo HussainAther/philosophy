@@ -219,4 +219,7 @@ properties in schizophrenia. We may use either noise-driven spontaneous dynamics
 between phase-oscillators (with coupling, delays, and noise) to introduce a dynamic nature to the model, but these
 two factors contradict one another. The former implies temporal correlations in spontaneous activity emerge from
 uncorrelated noise propagation through connections while the latter uses complex interactions of oscillatory
-activities in regions of the brain.     
+activities in regions of the brain. We may use a supercritical Hopf bifurcation to reconcile the two using synchronized
+networks and their corresponding temporal variations. From this, the Kolomogorov-Smirnov distance between empirical
+and simulated FC dynamic distributions is optimal at this critical point and more senstiive to deviations from the
+critical point. 
