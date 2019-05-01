@@ -46,6 +46,13 @@ levels by the research methods such as how through learning and memory we can ta
 modifications in presynaptic neurotransmitter releases in habituation. Which level is functional and which level is structural
 is difficult to determine, too. 
 
+## Mental state semantics
+
+According to the computational theory of mind, the mind operates on symbols and uses symbolic representations to
+represent mental states. We discuss the meaning of these symbols as the semantics and the relationships between
+them as the syntax. We may argue that more complicated mental states come from these basic symbolic "words" of the language
+of thought.  
+
 ## Causality
 
 A calculator's representation and rules for manipulating representations can explain its behavior much the same way
