@@ -63,8 +63,10 @@ structural form of the mental states that correspond to them. If we take an inte
 object that has a behavior we want to predict as a rational agent that has beliefs, desires, and similar mental states that
 exhibit intentinoality), we can uncover objective, real patterns of the world, and this is an empirical claim we can determine beyond
 the skepticism assocaited with it. Philosopher Daniel Dennett argued any object or systsem whose behavior we predict with
-this strategy is a believer. A true believer is an intentnioal system whose behavior we can reliably predict wit hthe intentional
-stance.
+this strategy is a believer. A true believer, Dennett argued, is an intentional system whose behavior we can reliably predict wit hthe intentional
+stance. Our brains have somehow handled the statistical combinatorial explosion that accompanies its own complex nature
+such that we can use billlions of cells in networks with one another, and the only representational system we have upon which
+to model is human language. We haven't imagined any plausible alterantives in such detail as we do our own language.
 
 ## Causality
 
