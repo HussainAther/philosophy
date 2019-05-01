@@ -199,4 +199,11 @@ fiber projections. We use fiber tracking using bounded diffusion of molecules in
 connectivity maps. In the past scientists used diffusion tensor imaging (DTI), we track neural fibers, but more 
 recent studies have used advances in graph theory for much more research on topological features in brain connectivity. 
 
-We can characterize the relationship between FC and SC  
+We can characterize the relationship between FC and SC as the former relying on connections between areas and the
+latter the physical characteristics of the fibers. Effective connectivity (EC) characterizes the interactions between
+visual processing regions (a psychophysiological interaction analysis) using structural equation modeling (SEM) 
+based on minimization of predicted and observed depdent variables. EC also refers to the broader definition of SC
+that captures the features that shape connectivity like synaptic strengths, neurotransmitter concentrations, and
+neural excitability. Through both model-driven and data-driven approaches (the former generation signals under 
+assumptions and the latter using statistics, information theoreitcal measures, or phase relationships to extract
+EC), we can infer EC and the topology of these networks. Using     
