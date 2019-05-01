@@ -169,4 +169,11 @@ The computationalist position also has issues with how to model affects, such as
 play a role in rational human behavior. The computationalist may be inclined to treat emotions as external or even unnecessary to their models.
 Computationalists also can't account for the effects of basic emotions on perception and categorization using their current models.
 These emotions themselves may be more fundamental to those perceptions and categories that we form, given their unique nature on intellectual
-perception.  
+perception. 
+
+## Neural circuitry
+
+We may imagine the brain as a computer through neural circuitry excitation/inhibitation ratios as a property for cognitive
+function in cortical circuits. Research in circuit function on synaptic parameters in memory and decision-making
+can give us parameter spcaes to reduce NMDAR conductance strengths from excitatory pyramidal neurons to inhibitory
+interneurons or excitatory pyramidal neurons.  
