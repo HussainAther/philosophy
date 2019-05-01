@@ -1,5 +1,5 @@
-# The brain-computer analogy and the computational theory of mind
-
+# A computational theory of mind
+ 
 Brains are only like computers in a specific abstract sense. We can take apart this analogy in the context
 of the brain-computer analogy to determine knowledge for philosophy, neuroscience, artificial intelligence,
 and other research areas. It's very harmful in many ways to treat the nervous system as the hardware in such 
@@ -9,7 +9,12 @@ us a basic description of what happens at each stage, but don't tell us how a gi
 output. Instead, they obfuscate the description of the brain by using unneccessary comparisons to explain
 phenomena that are better off explained by describing the phenomena directly and precisely.
 
-An output of a computer depends on its program, input, and functional stages that lead to the output.
+An output of a computer depends on its program, input, and functional stages that lead to the output. 
+We can theorize and speculate on artificial and biological computers by using this analogy with other
+phenomena such as artificial neural networks in computer science and mathematics or biological computers
+among the brains of different organisms. These computers show connections between the disciplines underlying
+computation with its theory from statistical mechanics and thermodynamics. We can use ideas from information theory, 
+entropy dynamics, and constraint problems on the resulting artificial and biological computers.   
 
 ## Intentionality 
 
