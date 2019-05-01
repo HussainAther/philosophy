@@ -215,7 +215,15 @@ evidence for this at the micro-circuit level (the relationship between structure
 and neurophysiological research techniques). We can integrate information across brain networks using large-scale
 brain connectivity at finer temporal and spatial resolution. If we introduce spatiotemporal models of resting-state
 networks, we can analyze the time frequency of these networks using wavelet anaylsis, sliding-windows, and similar
-methods of describing temporal correlations between the networks. 
+methods of describing temporal correlations between the networks.
+
+FC is similar to functionalism in that we're defining our representations in terms of their functions. Functionalism holds that
+qualitative states (e.g., pain) are functional states of a system, interrelated to inputs, outputs, and other internal states.
+If we had a neuroscientific system that realizes the same set of functional states a person, it still has the problem of
+liberalism and chauvinism, philosopher Ned Block argued. Liberalism is the problem a mentality theory faces when it attributes
+mentality to systems that don't have it, such as behaviorism, Block believed. A behavioral disposition may be necessary
+for the possession of a certain mental state, but it isn't sufficient. Chauvinism is the problem that a theory withholds attributing
+mentality to systems that seem to possess it.
 
 ## Structural connectivity 
 
