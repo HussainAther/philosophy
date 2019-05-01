@@ -241,4 +241,3 @@ difference learning as a general way biological systems could learn to value sta
 We can used a modified form of Hebbian learning such that it depends on incorrect prediction
 of the future to reinforce a bidirectional synaptic change. These Hebbian synapses could
 then store predictions of the future in a way that accounts the actions of dopamine neurons.
- 
