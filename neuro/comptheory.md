@@ -263,4 +263,13 @@ weights. We can construct a network by fixing the known parameters and train it 
 to determine the unknown parameters. The probability inference methods depend on the dregree of similar between
 artificial and biological networks. We may use models to generate hypotheses because the nervous system
 evolution may be described with a cost function and artificial mdoels use backpropagation to search through
-possibilites.  
+possibilites. 
+
+## Conclusion
+
+As 18th-century German philosopher Immanuel Kant said, studying concepts of the mind without empirical science 
+is empty and studying science without philosophy is blind. Understanding how hte brain works means figuring out
+going from simulating in a computer to making synthetic brains. We see how models interact with the actual world
+(whether they simulate the world or directly use it), determine which real-world parameters are relevant
+to our models, and extend models to cover all levels of organization. We wrestle with reduction, causation,
+and other phenomena through both science and philosophy.
