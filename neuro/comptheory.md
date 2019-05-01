@@ -140,8 +140,6 @@ of an image emerges from various strucutres working in a dynamic, systemic manne
 update their brain-computer models using evolution the same way sensorimotor mechanisms have to suit a simultaneous solution
 in visual recognition.
 
-## A computational theory of mind
-
 We distinguish between different levels of description of computational proceseses. These levels have certain reducible 
 relationships among them in which we can make varying levels of commitment to the reductionism between them. The theory of symbolic computational
 functionalism of the computational theory of mind (known as computationalism) lets minds manipulate discrete, defined symbols
