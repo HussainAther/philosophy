@@ -39,7 +39,7 @@ and arguing without knowing exactly the neuroscience of our brains, we can also 
 a computer is designed to do without knowing exactly how a computer. Albeit, we must know some computer basics such
 as turning on a computer by pressing a button as well taking care of our brains by taking care of our bodies, we must also
 account for intentionality in understanding why intentions works, rather than simply knowing that we have intentions and
-following in blind dogma. 
+following in blind dogma.
 
 ## Levels of organization
 
@@ -57,7 +57,9 @@ is difficult to determine, too.
 According to the computational theory of mind, the mind operates on symbols and uses symbolic representations to
 represent mental states. We discuss the meaning of these symbols as the semantics and the relationships between
 them as the syntax. We may argue that more complicated mental states come from these basic symbolic "words" of the language
-of thought.  
+of thought.  The hypothesis that there's a language of thought encoded within our brains is not obvious, nor is it agreed
+upon by everyone. There are many competing hypotheses and theories to how the logical form fo propositions relate to the
+structural form of the mental states that correspond to them.
 
 ## Causality
 
