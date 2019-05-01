@@ -178,4 +178,7 @@ function in cortical circuits. Research in circuit function on synaptic paramete
 can give us parameter spcaes to reduce NMDAR conductance strengths from excitatory pyramidal neurons to inhibitory
 interneurons or excitatory pyramidal neurons. We may apply dopamine neuronal activity using a bifurcation diagram.
 In math, we generally use bifurcation plots to study dynamical system behavior with respect to parameter variations
-or similar perturbations.  
+or similar perturbations. We may use Ohm's law to relate current, potential, capacitance, and resistance among 
+membrane channel dynamics. The dopamine neuron uses ionic currents using the Hodgkin-Huxley models. We can use
+these fundamentals to create circuit models of neuronal activity using population firing rates to calculate
+dopamine efflux in the nucleus accumbens. 
