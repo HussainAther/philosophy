@@ -234,7 +234,8 @@ neural aspects of affectively charged decision-making tasks. The Markovian assum
 lets us use decision-making models that describe how nervous tissue carries out
 perceptual inference. The Markovian assumption lets us use Markov models such that
 the various states that they use to describe processes are independent of the states
-that came before it. Hopfield neural networks alongside the work of Hinton-Sejnowski would let computational models use rules such as the Bush-Mosteller rule (learning based on trial-based
+that came before it. Hopfield neural networks alongside the work of Hinton-Sejnowski would let 
+computational models use rules such as the Bush-Mosteller rule (learning based on trial-based
 differences between predictions and outcomes) or the Sutton-Barto approach (Monte Carlo methods
 and temporal-difference learning in artificial neural networks). We can introduce the temporal
 difference error such that the agent in the system chooses an action that maximizes
@@ -242,4 +243,17 @@ a temporal reward. When diffusion ascending systems of nervous systems could use
 difference learning as a general way biological systems could learn to value states.
 We can used a modified form of Hebbian learning such that it depends on incorrect prediction
 of the future to reinforce a bidirectional synaptic change. These Hebbian synapses could
-then store predictions of the future in a way that accounts the actions of dopamine neurons.
+then store predictions of the future in a way that accounts the actions of dopamine neurons$i.
+
+## Optimizing procedures
+
+We may use optimizing methods from mathematics, physics, and computer science in nueroscience. 
+If we assume artificial neural netwroks are simialr to biological ones, we may use error minimization
+as an optimization procedure. The way we adjust parameters and weights we may analyze the computaitons
+of a neural system in how it generate ideas from the organization of a network. We may use 
+backpropagation in creating models that have the capacities of a biological neural network, and speculate
+on how networks function in a computational theory of mind. The nervous systems of the brain have
+too many parameters to all be entirely controlled by genetics, neurodevelopment involves a massive
+synaptogenesis that grow using optimization processes, some parameters are used for feedback to adapt
+behavior to circumstances, and natural selection optimizes nervous systems in such a way that we may
+regard the nervous system's selective pressures as error-minimizing. 
