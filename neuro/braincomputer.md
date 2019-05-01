@@ -176,4 +176,6 @@ perception.
 We may imagine the brain as a computer through neural circuitry excitation/inhibitation ratios as a property for cognitive
 function in cortical circuits. Research in circuit function on synaptic parameters in memory and decision-making
 can give us parameter spcaes to reduce NMDAR conductance strengths from excitatory pyramidal neurons to inhibitory
-interneurons or excitatory pyramidal neurons.  
+interneurons or excitatory pyramidal neurons. We may apply dopamine neuronal activity using a bifurcation diagram.
+In math, we generally use bifurcation plots to study dynamical system behavior with respect to parameter variations
+or similar perturbations.  
