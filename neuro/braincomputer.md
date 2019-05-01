@@ -236,8 +236,7 @@ neural aspects of affectively charged decision-making tasks. The Markovian assum
 lets us use decision-making models that describe how nervous tissue carries out
 perceptual inference. The Markovian assumption lets us use Markov models such that
 the various states that they use to describe processes are independent of the states
-that came before it. Hopfield neural networks alongside the work of Hinton-Sejnowski would let  
-computational models use rules such as the Bush-Mosteller rule (learning based on trial-based
+that came before it. Hopfield neural networks alongside the work of Hinton-Sejnowski would let computational models use rules such as the Bush-Mosteller rule (learning based on trial-based
 differences between predictions and outcomes) or the Sutton-Barto approach (Monte Carlo methods
 and temporal-difference learning in artificial neural networks). We can introduce the temporal
 difference error such that the agent in the system chooses an action that maximizes
