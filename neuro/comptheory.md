@@ -59,7 +59,10 @@ represent mental states. We discuss the meaning of these symbols as the semantic
 them as the syntax. We may argue that more complicated mental states come from these basic symbolic "words" of the language
 of thought.  The hypothesis that there's a language of thought encoded within our brains is not obvious, nor is it agreed
 upon by everyone. There are many competing hypotheses and theories to how the logical form fo propositions relate to the
-structural form of the mental states that correspond to them.
+structural form of the mental states that correspond to them. If we take an intentional stance to the mind (that we treat the
+object that has a behavior we want to predict as a rational agent that has beliefs, desires, and similar mental states that
+exhibit intentinoality), we can uncover objective, real patterns of the world, and this is an empirical claim we can determine beyond
+the skepticism assocaited with it.
 
 ## Causality
 
