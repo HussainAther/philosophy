@@ -33,7 +33,13 @@ machinery doesn't change that it believes, wants, and understands things. The ro
 on how complex its internal informational network of states it has.
 
 We need altogether a better theory of representation in organisms much the same way we have theoretical definitions
-and ideas of what molecules, proteins, and neutrons are. 
+and ideas of what molecules, proteins, and neutrons are. We can also study the mind as it relates to the computer by
+differentiating between understanding its design and its function. Though we can perform actions such thinking, feeling,
+and arguing without knowing exactly the neuroscience of our brains, we can also use a computer for, more or less, what
+a computer is designed to do without knowing exactly how a computer. Albeit, we must know some computer basics such
+as turning on a computer by pressing a button as well taking care of our brains by taking care of our bodies, we must also
+account for intentionality in understanding why intentions works, rather than simply knowing that we have intentions and
+following in blind dogma. 
 
 ## Levels of organization
 
@@ -123,7 +129,7 @@ sensorimotor control, we can determine the nature and dynamics of cognition. We 
 organization that correspond to cognitive activity as the way sentiential representations act according to logical rules. Phase spaces
 may recognize certain features as humans do, such as eyes of faces or shapes of animals. We may describe phase spaces in such a way
 that they're occupied by these sensory stimuli. Using the cones of photoreceptors' reflectances responsible for color, we can demonstrate
-a computational problem of how to represent a unique color with a triplet of reflectance values. 
+a computational problem of how to represent a unique color with a triplet of reflectance values.
 
 ## Parallel models 
 
