@@ -20,8 +20,18 @@ The computational theory of mind is the leading contemporary version of the repr
 in which we use mental structures to represent mental processes. The computational theory of mind
 tries to exlain all psychological states in terms of mental representations. Philosopher Stephen Stich argued 
 cognitive psychology doesn't and shouldn't taxonomize mental states by their semantic properties. Those 
-semantic properties are determined by the extrinsic properties of a mental state. Stich proposess a syntactic theroy
-of the mind, arguing the semantic properties of mental states don't have an explanatory role in the mental states. 
+semantic properties are determined by the extrinsic properties of a mental state. Stich proposess a Syntactic Theory
+of the mind, arguing the semantic properties of mental states don't have an explanatory role in the mental states.
+The Syntactic Theroy of Mind uses computational theories of psychological states that only concern with the formal
+properties of the objects the state relate to. We use semantically evaluable objects with the computations of mental
+processes. Computational theory of mind proponents disagree on how personal-level representations (thoughts) and process
+(inferences) in the brain are realized. Classical Architecture proponents (classicists) such as Turing, Fodor, Pylyshyn, 
+Newell, and Simon, believe mental representations are symbolic structures that have semantically evaluable
+constituents. Mental processes are rule-governed manipulations of them that are sensitive to their constituent nature.
+Connectionist Architecture proponents (connectionists) like McCulloch, Pitts, Rumelhart, and McClelland believe mental
+representations are realized by activation patterns in simple processors (nodes). These mental processes are made
+of the spreading activation of these patterns. The nodes aren't semanticalyl evaluable typically. One may argue
+that localist theories are neither definitive nor representative of the connectionist program.  
 
 ## Intentionality 
 
