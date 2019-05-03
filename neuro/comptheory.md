@@ -49,14 +49,20 @@ basic). Connectionists argue information processes in these networks resembles h
 trained by exposure to objects learn and distinguish. Some argue connectionism means there aren't propositional attitudes.
 LOTH-style representation may, on the other hand, be necessary for the general features of connectionist architectures.
 
-Stich believes mental processes are computational, but these computations aren't sequences of mental representations.
+Stich believed mental processes are computational, but these computations aren't sequences of mental representations.
 Other philosophers accept mental representation, but deny that the computational theory of mind gives the correct
 account of mental states and processes. Writer Tim Van Gelder doesn't believe psychological processes are computational.
 Instead, dynamic cognitive systems give rise to states that are quantifiable of a complex system of the nervous system,
 the body, and the environment in which they are created. Cognitibe processes aren't rule-governed by discrete symbolic
 states. Instead, they're continuous, evolving total states of dynamic systems by mutually determining states
 of the system's components. The dynamic system leads to representation that is information-theoretic through state
-variables or parameters. 
+variables or parameters.
+
+Philosopher Steven Horst wrote that computational models are useful in scientific psychology, but they don't give us a philosophical
+understandinf of intentinoality of commonsense mental states. The computational theory of mind tries to reduce the intentionality
+of states to the intentionality of the mental symbols, but the relevant notion of symbolic content is bound by the notions
+of convention and intention. Horst believed the computational theory of the mind uses the very properties that it is 
+supposed to reduce things to as a circular argument that need to be reduced themselves. 
  
 ## Intentionality 
 
