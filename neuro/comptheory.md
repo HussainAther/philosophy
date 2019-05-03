@@ -16,6 +16,8 @@ among the brains of different organisms. These computers show connections betwee
 computation with its theory from statistical mechanics and thermodynamics. We can use ideas from information theory, 
 entropy dynamics, and constraint problems on the resulting artificial and biological computers.  
 
+## Classicalism vs connectionism
+
 The computational theory of mind is the leading contemporary version of the representational theory of mind,
 in which we use mental structures to represent mental processes. The computational theory of mind
 tries to exlain all psychological states in terms of mental representations. Philosopher Stephen Stich argued 
@@ -31,8 +33,31 @@ constituents. Mental processes are rule-governed manipulations of them that are 
 Connectionist Architecture proponents (connectionists) like McCulloch, Pitts, Rumelhart, and McClelland believe mental
 representations are realized by activation patterns in simple processors (nodes). These mental processes are made
 of the spreading activation of these patterns. The nodes aren't semanticalyl evaluable typically. One may argue
-that localist theories are neither definitive nor representative of the connectionist program.  
+that localist theories are neither definitive nor representative of the connectionist program. 
 
+Classicists want to find mental properties similar to language. Fodor's Language of Thought Hypothesis (LOTH) uses
+mental symbols to make up the neural basis ofa thought like a language. In the LOTH, the potential infity of complex
+representational mental states comes from primitive representational states that form using recursive formation rules.
+We use a combinatorial structure to account for productivity and systematcity of the system of mental representations.
+We explain the properties of thought using the content of representational units and their combinability into contentful
+complexes. The semantics of langauge and thought is compositional.  
+
+Connectionists want to consider the architecture of the brain, networks of interconnected neurons. This architecture
+can't carry out classical serial computations, but, instead, parallel computationsl lack semantic compositionality
+nor are semantically evaluable the way classicists argue. Representation is distributed, not local (unless it's computationally
+basic). Connectionists argue information processes in these networks resembles human cognitive functioning. Connectionist networks
+trained by exposure to objects learn and distinguish. Some argue connectionism means there aren't propositional attitudes.
+LOTH-style representation may, on the other hand, be necessary for the general features of connectionist architectures.
+
+Stich believes mental processes are computational, but these computations aren't sequences of mental representations.
+Other philosophers accept mental representation, but deny that the computational theory of mind gives the correct
+account of mental states and processes. Writer Tim Van Gelder doesn't believe psychological processes are computational.
+Instead, dynamic cognitive systems give rise to states that are quantifiable of a complex system of the nervous system,
+the body, and the environment in which they are created. Cognitibe processes aren't rule-governed by discrete symbolic
+states. Instead, they're continuous, evolving total states of dynamic systems by mutually determining states
+of the system's components. The dynamic system leads to representation that is information-theoretic through state
+variables or parameters. 
+ 
 ## Intentionality 
 
 If we treat propositional attitudes with intentionality as a physical properties, we can build a computer
@@ -304,7 +329,7 @@ then store predictions of the future in a way that accounts the actions of dopam
 
 We may use optimizing methods from mathematics, physics, and computer science in nueroscience. 
 If we assume artificial neural netwroks are simialr to biological ones, we may use error minimization
-as an optimization procedure. The way we adjust parameters and weights we may analyze the computaitons
+as an optimization procedure. The way we adjust parameters and weights we may analyze the computations
 of a neural system in how it generate ideas from the organization of a network. We may use 
 backpropagation in creating models that have the capacities of a biological neural network, and speculate
 on how networks function in a computational theory of mind. The nervous systems of the brain have
