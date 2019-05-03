@@ -14,7 +14,14 @@ We can theorize and speculate on artificial and biological computers by using th
 phenomena such as artificial neural networks in computer science and mathematics or biological computers
 among the brains of different organisms. These computers show connections between the disciplines underlying
 computation with its theory from statistical mechanics and thermodynamics. We can use ideas from information theory, 
-entropy dynamics, and constraint problems on the resulting artificial and biological computers.   
+entropy dynamics, and constraint problems on the resulting artificial and biological computers.  
+
+The computational theory of mind is the leading contemporary version of the representational theory of mind,
+in which we use mental structures to represent mental processes. The computational theory of mind
+tries to exlain all psychological states in terms of mental representations. Philosopher Stephen Stich argued 
+cognitive psychology doesn't and shouldn't taxonomize mental states by their semantic properties. Those 
+semantic properties are determined by the extrinsic properties of a mental state. Stich proposess a syntactic theroy
+of the mind, arguing the semantic properties of mental states don't have an explanatory role in the mental states. 
 
 ## Intentionality 
 
