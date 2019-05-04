@@ -19,4 +19,6 @@ regions activate to infer a cognitive process when the inference depends on the 
 employs a given cognitive process and the likelihood of the pattern of activation for the process. Neuropsychologist
 Max Coltheart raised the issue that neuroimaging has not been used in accordance with psychological theory. Philosopher-cognitive
 scientist Adina Roskies argued this it's impossible for brain imaging to be consistent with all psychological theories.
- 
+
+Some neuroimaging techniques rely on using a single cognitiev process inserted into another set of cognitive processes
+without affecting the rest.  
