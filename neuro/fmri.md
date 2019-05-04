@@ -8,8 +8,15 @@ parts of the brain acting in tandem with one another for cognitive tasks in thei
 about Localization of Function." They put forward the thought experiment of a radio repair man
 taking a tube from a radio that causes the radio to whistle with the repair man concluding that
 he ripped out the anti-whistling tube. The man confuses the function of the effect the same way neuroscientists
-in brain lesion and neuroimaging experiments. Cognitive scientists who use the brain activity activation
-to validate cogntiive theories also fall victim to many instances of circular reasoning. In some situations
-they believe that a region in the brain causes an effect on the body and these effects on the body cause regions
-of the brain to activate. 
+in brain lesion and neuroimaging experiments. 
 
+Cognitive scientists who use the brain activity activation to validate cogntiive theories also fall victim to many 
+instances of circular reasoning. In some situations they believe that a region in the brain causes an effect on the 
+body and these effects an the body cause regions of the brain to activate.
+
+We may further press fMRI researchers for their use of reverse inference of using the instances when brain 
+regions activate to infer a cognitive process when the inference depends on the likelihood of the pattern a task
+employs a given cognitive process and the likelihood of the pattern of activation for the process. Neuropsychologist
+Max Coltheart raised the issue that neuroimaging has not been used in accordance with psychological theory. Philosopher-cognitive
+scientist Adina Roskies argued this it's impossible for brain imaging to be consistent with all psychological theories.
+ 
