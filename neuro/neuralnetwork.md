@@ -9,3 +9,8 @@ that may encompass all of those roles. Neuroscientist Christof Koch noted that n
 "the realization that the biophysical, anatomical, and physiological data are necessary to understanding the brain, [but]
 they are, unfortunately, not sufficient" in his book "Methods in Neuronal Modeling: From Ions to Networks." 
 
+Neuroscientist Terrence Sejnowski's human visual system neural network research at the Howard Hughes Medical Institute 
+at the Salk Institute and University of California, San Diego, lead to the book "The Computational Brain" with philosopher 
+Patricia Churchland. MIT computer scientist Shimon Ullman has worked on using the computations of the visual system using
+psychological and biological data. 
+ 
