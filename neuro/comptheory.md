@@ -286,8 +286,10 @@ determine which mental state terms and concepts are contingent to their observat
 Structural connectivity (SC) are the long-range anatomical connections among brain areas through white-matter
 fiber projections. We use fiber tracking using bounded diffusion of molecules in water to create non-invasive
 connectivity maps. In the past scientists used diffusion tensor imaging (DTI), we track neural fibers, but more 
-recent studies have used advances in graph theory for much more research on topological features in brain connectivity. 
-
+recent studies have used advances in graph theory for much more research on topological features in brain connectivity.
+We use graph theory to use matrices characterizing covariance between regions to create network maps. Though graph theory
+relies on a priori information, we must a void cherry picking regions and connections in accordance with established theories.
+ 
 We can characterize the relationship between FC and SC as the former relying on connections between areas and the
 latter the physical characteristics of the fibers. Effective connectivity (EC) characterizes the interactions between
 visual processing regions (a psychophysiological interaction analysis) using structural equation modeling (SEM) 
