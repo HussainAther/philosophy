@@ -204,7 +204,7 @@ During this process the crystalline structures have a global energy minimum that
 From these fluctuations in noise, the system breaks out of superficial minimima. The Metropolis-Hastings algorithm lets us 
 gauge locally improbably hypotheses such that they may win over other hypotheses. 
 
-To make the model reflect empirical data in neuroscience, we must show it accounts for processing of various neurobiologiacl pathways.
+To make the model reflect empirical data in neuroscience, we must show it accounts for processing of various neurobiological pathways.
 Computer vision models need to account for contours of perception as well as emergent phenomena such as recognizing how a property
 of an image emerges from various structures working in a dynamic, systemic manner of the visual image itself. Connectionists could
 update their brain-computer models using evolution the same way sensorimotor mechanisms have to suit a simultaneous solution
