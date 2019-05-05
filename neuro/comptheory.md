@@ -262,7 +262,7 @@ Functional connectivity (FC) is the statistical correlation of neural activity t
 evidence for this at the micro-circuit level (the relationship between structure and function through anatomical 
 and neurophysiological research techniques). We can integrate information across brain networks using large-scale
 brain connectivity at finer temporal and spatial resolution. If we introduce spatiotemporal models of resting-state
-networks, we can analyze the time frequency of these networks using wavelet anaylsis, sliding-windows, and similar
+networks, we can analyze the time frequency of these networks using wavelet analysis, sliding-windows, and similar
 methods of describing temporal correlations between the networks.
 
 FC is similar to functionalism in that we're defining our representations in terms of their functions. Functionalism holds that
@@ -293,7 +293,7 @@ relies on a priori information, we must a void cherry picking regions and connec
 We can characterize the relationship between FC and SC as the former relying on connections between areas and the
 latter the physical characteristics of the fibers. Effective connectivity (EC) characterizes the interactions between
 visual processing regions (a psychophysiological interaction analysis) using structural equation modeling (SEM) 
-based on minimization of predicted and observed depdent variables. EC also refers to the broader definition of SC
+based on minimization of predicted and observed dependent variables. EC also refers to the broader definition of SC
 that captures the features that shape connectivity like synaptic strengths, neurotransmitter concentrations, and
 neural excitability. Through both model-driven and data-driven approaches (the former generation signals under 
 assumptions and the latter using statistics, information theoreitcal measures, or phase relationships to extract
@@ -312,7 +312,7 @@ two factors contradict one another. The former implies temporal correlations in 
 uncorrelated noise propagation through connections while the latter uses complex interactions of oscillatory
 activities in regions of the brain. We may use a supercritical Hopf bifurcation to reconcile the two using synchronized
 networks and their corresponding temporal variations. From this, the Kolomogorov-Smirnov distance between empirical
-and simulated FC dynamic distributions is optimal at this critical point and more senstiive to deviations from the
+and simulated FC dynamic distributions is optimal at this critical point and more sensitive to deviations from the
 critical point.
 
 ## Reinforcement learning
@@ -335,8 +335,8 @@ then store predictions of the future in a way that accounts the actions of dopam
 
 ## Optimizing procedures
 
-We may use optimizing methods from mathematics, physics, and computer science in nueroscience. 
-If we assume artificial neural netwroks are simialr to biological ones, we may use error minimization
+We may use optimizing methods from mathematics, physics, and computer science in neuroscience. 
+If we assume artificial neural networks are similar to biological ones, we may use error minimization
 as an optimization procedure. The way we adjust parameters and weights we may analyze the computations
 of a neural system in how it generate ideas from the organization of a network. We may use 
 backpropagation in creating models that have the capacities of a biological neural network, and speculate
@@ -346,17 +346,17 @@ synaptogenesis that grow using optimization processes, some parameters are used 
 behavior to circumstances, and natural selection optimizes nervous systems in such a way that we may
 regard the nervous system's selective pressures as error-minimizing.
 
-The neural circuit in visual tracking of moving objects uses many unkonwn parameters and specific 
+The neural circuit in visual tracking of moving objects uses many unknown parameters and specific 
 weights. We can construct a network by fixing the known parameters and train it on input and output
-to determine the unknown parameters. The probability inference methods depend on the dregree of similar between
+to determine the unknown parameters. The probability inference methods depend on the degree of similar between
 artificial and biological networks. We may use models to generate hypotheses because the nervous system
-evolution may be described with a cost function and artificial mdoels use backpropagation to search through
-possibilites. 
+evolution may be described with a cost function and artificial models use backpropagation to search through
+possibilities. 
 
 ## Conclusion
 
 As 18th-century German philosopher Immanuel Kant said, studying concepts of the mind without empirical science 
-is empty and studying science without philosophy is blind. Understanding how hte brain works means figuring out
+is empty and studying science without philosophy is blind. Understanding how the brain works means figuring out
 going from simulating in a computer to making synthetic brains. We see how models interact with the actual world
 (whether they simulate the world or directly use it), determine which real-world parameters are relevant
 to our models, and extend models to cover all levels of organization. We wrestle with reduction, causation,
