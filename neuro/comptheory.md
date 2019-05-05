@@ -298,7 +298,7 @@ that captures the features that shape connectivity like synaptic strengths, neur
 neural excitability. Through both model-driven and data-driven approaches (the former generation signals under 
 assumptions and the latter using statistics, information theoreitcal measures, or phase relationships to extract
 EC), we can infer EC and the topology of these networks. Using binary graphs, path length measures, clustering coefficients,
-and other ideas from graph theory alongside results from diffusion-based tractogrpahy, we can show 
+and other ideas from graph theory alongside results from diffusion-based tractography, we can show 
 the resting-state networks in various regions of the brain. Scientists have introduced Network Based Statistics
 for comparing whole-brain connectivity between different groups of connections.
 
