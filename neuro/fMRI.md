@@ -10,7 +10,7 @@ taking a tube from a radio that causes the radio to whistle with the repair man 
 he ripped out the anti-whistling tube. The man confuses the function of the effect the same way neuroscientists
 in brain lesion and neuroimaging experiments. 
 
-Cognitive scientists who use the brain activity activation to validate cogntiive theories also fall victim to many 
+Cognitive scientists who use the brain activity activation to validate cognitive theories also fall victim to many 
 instances of circular reasoning. In some situations they believe that a region in the brain causes an effect on the 
 body and these effects an the body cause regions of the brain to activate.
 
@@ -23,12 +23,11 @@ scientist Adina Roskies argued this it's impossible for brain imaging to be cons
 Some neuroimaging techniques rely on using a single cognitive process inserted into another set of cognitive processes
 without affecting the rest.  
 
-Philosopher-neuroscientist Joshua Greene has performed research using fMRI. Do people ultimately base their mature moral 
-judgments on their passions or on reason and logic? Taking philosophy back to its empirical roots, Greene embraces the 
-trolley problem to test how people respond to various scenarios and decisions involving the problem. In the problem, a runaway trolley 
-speeds down railroad tracks as it approaches five people tied to the tracks in front of it. You may pull a lever to switch the trolley
-to another path that would only kill one person. In an alternate experiment, you may push a man off a bridge in such a way he would
-stop the trolley from killing the five people.
+Philosopher-neuroscientist Joshua Greene has performed research using fMRI to study ethics. Taking philosophy back to its empirical roots, 
+Greene embraces the trolley problem to test how people respond to various scenarios and decisions involving the problem. In the problem, 
+a runaway trolley speeds down railroad tracks as it approaches five people tied to the tracks in front of it. You may pull a lever 
+to switch the trolley to another path that would only kill one person. In an alternate experiment, you may push a man off a bridge 
+in such a way he would stop the trolley from killing the five people.
 
 The research has shown the majority of people believe it's moral to pull the lever but not push the large man. Greene's fMRI research
 has shown that, when people think through both dilemmas, they take a rational, utilitarian approach. This is rooted in the brain's
