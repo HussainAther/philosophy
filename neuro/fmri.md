@@ -20,5 +20,5 @@ employs a given cognitive process and the likelihood of the pattern of activatio
 Max Coltheart raised the issue that neuroimaging has not been used in accordance with psychological theory. Philosopher-cognitive
 scientist Adina Roskies argued this it's impossible for brain imaging to be consistent with all psychological theories.
 
-Some neuroimaging techniques rely on using a single cognitiev process inserted into another set of cognitive processes
+Some neuroimaging techniques rely on using a single cognitive process inserted into another set of cognitive processes
 without affecting the rest.  
