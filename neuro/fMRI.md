@@ -31,6 +31,6 @@ in such a way he would stop the trolley from killing the five people.
 
 The research has shown the majority of people believe it's moral to pull the lever but not push the large man. Greene's fMRI research
 has shown that, when people think through both dilemmas, they take a rational, utilitarian approach. This is rooted in the brain's
-dorsolateral prefrontal contrex. Pushing a man off the bridge also involves a neural system with emotional responses in the way
+dorsolateral prefrontal cortex. Pushing a man off the bridge also involves a neural system with emotional responses in the way
 it produces a strong negative response. 
 
