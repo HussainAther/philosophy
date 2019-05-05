@@ -210,14 +210,14 @@ of an image emerges from various strucutres working in a dynamic, systemic manne
 update their brain-computer models using evolution the same way sensorimotor mechanisms have to suit a simultaneous solution
 in visual recognition.
 
-We distinguish between different levels of description of computational proceseses. These levels have certain reducible 
+We distinguish between different levels of description of computational processes. These levels have certain reducible 
 relationships among them in which we can make varying levels of commitment to the reductionism between them. The theory of symbolic computational
 functionalism of the computational theory of mind (known as computationalism) lets minds manipulate discrete, defined symbols
 to model discrete, defined logical structures and computer languages. A human mind may be a deterministic finite state automata under
 this theory, and the theory is independent of implementation. Even if different beings have different physical structures of themselves,
 they may have similar or the same mental states. Philosopher Patricia Churchland and neuroscientist Terrence Sejnowski have criticized
-that the implementation is important, especially as lower theroetical levels (such as neuroscientific phenomena) are significant
-to higher ones. Opponents may aslo argue that the representations of computationalism don't tell us anything more than
+that the implementation is important, especially as lower theoretical levels (such as neuroscientific phenomena) are significant
+to higher ones. Opponents may also argue that the representations of computationalism don't tell us anything more than
 the non-representational descriptions do. Using representation may just amount to an unnecessary model or analogy that only steers us
 away from the precise, defined meaning of the world. 
 
