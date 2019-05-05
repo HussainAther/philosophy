@@ -6,7 +6,7 @@ and other research areas. It's very harmful in many ways to treat the nervous sy
 a way that we need to understand the cognitive science as software when we don't understand the limitations 
 of such a metaphor. Any theory of anatomical connection we demonstrate in vertebrate nervous systems may give
 us a basic description of what happens at each stage, but don't tell us how a given input relates to a certain
-output. Instead, they obfuscate the description of the brain by using unneccessary comparisons to explain
+output. Instead, they obfuscate the description of the brain by using unnecessary comparisons to explain
 phenomena that are better off explained by describing the phenomena directly and precisely.
 
 An output of a computer depends on its program, input, and functional stages that lead to the output. 
@@ -20,11 +20,11 @@ entropy dynamics, and constraint problems on the resulting artificial and biolog
 
 The computational theory of mind is the leading contemporary version of the representational theory of mind,
 in which we use mental structures to represent mental processes. The computational theory of mind
-tries to exlain all psychological states in terms of mental representations. Philosopher Stephen Stich argued 
+tries to explain all psychological states in terms of mental representations. Philosopher Stephen Stich argued 
 cognitive psychology doesn't and shouldn't taxonomize mental states by their semantic properties. Those 
 semantic properties are determined by the extrinsic properties of a mental state. Stich proposess a Syntactic Theory
 of the mind, arguing the semantic properties of mental states don't have an explanatory role in the mental states.
-The Syntactic Theroy of Mind uses computational theories of psychological states that only concern with the formal
+The Syntactic Theory of Mind uses computational theories of psychological states that only concern with the formal
 properties of the objects the state relate to. We use semantically evaluable objects with the computations of mental
 processes. Computational theory of mind proponents disagree on how personal-level representations (thoughts) and process
 (inferences) in the brain are realized. Classical Architecture proponents (classicists) such as Turing, Fodor, Pylyshyn, 
@@ -36,14 +36,14 @@ of the spreading activation of these patterns. The nodes aren't semanticalyl eva
 that localist theories are neither definitive nor representative of the connectionist program. 
 
 Classicists want to find mental properties similar to language. Fodor's Language of Thought Hypothesis (LOTH) uses
-mental symbols to make up the neural basis ofa thought like a language. In the LOTH, the potential infity of complex
+mental symbols to make up the neural basis ofa thought like a language. In the LOTH, the potential infinity of complex
 representational mental states comes from primitive representational states that form using recursive formation rules.
-We use a combinatorial structure to account for productivity and systematcity of the system of mental representations.
+We use a combinatorial structure to account for productivity and systematicity of the system of mental representations.
 We explain the properties of thought using the content of representational units and their combinability into contentful
-complexes. The semantics of langauge and thought is compositional.  
+complexes. The semantics of language and thought is compositional.  
 
 Connectionists want to consider the architecture of the brain, networks of interconnected neurons. This architecture
-can't carry out classical serial computations, but, instead, parallel computationsl lack semantic compositionality
+can't carry out classical serial computations, but, instead, parallel computations lack semantic compositionality
 nor are semantically evaluable the way classicists argue. Representation is distributed, not local (unless it's computationally
 basic). Connectionists argue information processes in these networks resembles human cognitive functioning. Connectionist networks
 trained by exposure to objects learn and distinguish. Some argue connectionism means there aren't propositional attitudes.
@@ -53,13 +53,13 @@ Stich believed mental processes are computational, but these computations aren't
 Other philosophers accept mental representation, but deny that the computational theory of mind gives the correct
 account of mental states and processes. Writer Tim Van Gelder doesn't believe psychological processes are computational.
 Instead, dynamic cognitive systems give rise to states that are quantifiable of a complex system of the nervous system,
-the body, and the environment in which they are created. Cognitibe processes aren't rule-governed by discrete symbolic
+the body, and the environment in which they are created. Cognitive processes aren't rule-governed by discrete symbolic
 states. Instead, they're continuous, evolving total states of dynamic systems by mutually determining states
 of the system's components. The dynamic system leads to representation that is information-theoretic through state
 variables or parameters.
 
 Philosopher Steven Horst wrote that computational models are useful in scientific psychology, but they don't give us a philosophical
-understandinf of intentionality of commonsense mental states. The computational theory of mind tries to reduce the intentionality
+understanding of intentionality of commonsense mental states. The computational theory of mind tries to reduce the intentionality
 of states to the intentionality of the mental symbols, but the relevant notion of symbolic content is bound by the notions
 of convention and intention. Horst believed the computational theory of the mind uses the very properties that it is 
 supposed to reduce things to as a circular argument that need to be reduced themselves. 
@@ -72,9 +72,9 @@ attitudes will have genuine intentional states. Intentionality of propositional 
 property. 
 
 We may consider the network theory of meaning (or holistic theory or conceptual-role theory) such that the meaning
-of an expression plays a role in its internal representatinoal economy. This way it relates to sensory input and
+of an expression plays a role in its internal representational economy. This way it relates to sensory input and
 behavioral output. Meaning is relational as an expression's meaning is a function of its inferential and computational
-role in a person's internal system. A robot that behaves like a human is still subject to the quesitno of whether
+role in a person's internal system. A robot that behaves like a human is still subject to the question of whether
 those thoughts it generates have the same meaning that represent our own meaning. Assigning meaning to the internal
 states of a robot would be applying a double standard arbitrarily with no useful purpose. The robot's internal 
 machinery doesn't change that it believes, wants, and understands things. The robot's intentional states depend
@@ -94,7 +94,7 @@ following in blind dogma.
 The brain-computer analogy presents a problem of complexity that we know we have in the brain as that relates to
 organization of a computer. The semantic, syntactic, and mechanistic levels introduce issues with the level of the
 algorithm and the structural implementation of those features. Neurobiological theory challenges the way of
-specifiying the organizational description. The levels of membrane, cell, synapse, cell assembly, circuit, and behavior
+specifying the organizational description. The levels of membrane, cell, synapse, cell assembly, circuit, and behavior
 can be argued as levels, but even within them we have different partitions of the levels of themselves. We can also determine
 levels by the research methods such as how through learning and memory we can take a cellular approach to show 
 modifications in presynaptic neurotransmitter releases in habituation. Which level is functional and which level is structural
@@ -109,7 +109,7 @@ of thought.  The hypothesis that there's a language of thought encoded within ou
 upon by everyone. There are many competing hypotheses and theories to how the logical form fo propositions relate to the
 structural form of the mental states that correspond to them. If we take an intentional stance to the mind (that we treat the
 object that has a behavior we want to predict as a rational agent that has beliefs, desires, and similar mental states that
-exhibit intentinoality), we can uncover objective, real patterns of the world, and this is an empirical claim we can determine beyond
+exhibit intentionality), we can uncover objective, real patterns of the world, and this is an empirical claim we can determine beyond
 the skepticism associated with it. Philosopher Daniel Dennett argued any object or system whose behavior we predict with
 this strategy is a believer. A true believer, Dennett argued, is an intentional system whose behavior we can reliably predict with the intentional
 stance. Our brains have somehow handled the statistical combinatorial explosion that accompanies its own complex nature
