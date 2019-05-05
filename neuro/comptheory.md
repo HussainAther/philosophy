@@ -59,7 +59,7 @@ of the system's components. The dynamic system leads to representation that is i
 variables or parameters.
 
 Philosopher Steven Horst wrote that computational models are useful in scientific psychology, but they don't give us a philosophical
-understandinf of intentinoality of commonsense mental states. The computational theory of mind tries to reduce the intentionality
+understandinf of intentionality of commonsense mental states. The computational theory of mind tries to reduce the intentionality
 of states to the intentionality of the mental symbols, but the relevant notion of symbolic content is bound by the notions
 of convention and intention. Horst believed the computational theory of the mind uses the very properties that it is 
 supposed to reduce things to as a circular argument that need to be reduced themselves. 
@@ -110,11 +110,11 @@ upon by everyone. There are many competing hypotheses and theories to how the lo
 structural form of the mental states that correspond to them. If we take an intentional stance to the mind (that we treat the
 object that has a behavior we want to predict as a rational agent that has beliefs, desires, and similar mental states that
 exhibit intentinoality), we can uncover objective, real patterns of the world, and this is an empirical claim we can determine beyond
-the skepticism assocaited with it. Philosopher Daniel Dennett argued any object or systsem whose behavior we predict with
-this strategy is a believer. A true believer, Dennett argued, is an intentional system whose behavior we can reliably predict wit hthe intentional
+the skepticism associated with it. Philosopher Daniel Dennett argued any object or system whose behavior we predict with
+this strategy is a believer. A true believer, Dennett argued, is an intentional system whose behavior we can reliably predict with the intentional
 stance. Our brains have somehow handled the statistical combinatorial explosion that accompanies its own complex nature
-such that we can use billlions of cells in networks with one another, and the only representational system we have upon which
-to model is human language. We haven't imagined any plausible alterantives in such detail as we do our own language.
+such that we can use billions of cells in networks with one another, and the only representational system we have upon which
+to model is human language. We haven't imagined any plausible alternatives in such detail as we do our own language.
 
 ## Causality
 
@@ -122,59 +122,59 @@ A calculator's representation and rules for manipulating representations can exp
 we describe how and why people do what they do. Philosopher Zenon Pylyshyn said we explain why a machine does
 something with certain interpretations of the symbols in a domain. Psychologcial theory would cross-classify
 categories of neurophysiology theory that would make neurophysiological generalizations miss important relations
-that are only describably at the level at which representations are referred to. The psychological maps only would 
+that are only describable at the level at which representations are referred to. The psychological maps only would 
 map onto an indefinite mix of neurobiological categories.
 
 ## Connectionism (Parallel distributed processing)
 
 As philosopher Paul Churchland has argued, we may use connectionism or parallel distributed processing (PDP) in figuring out the computational
-operatinos in nervous systems in such a way we may use computer models of parallel distributed systems to generate the appropriate
+operations in nervous systems in such a way we may use computer models of parallel distributed systems to generate the appropriate
 phenomena on a higher level (cognitive science, psychology, etc.) from basic processes (neuroscience, physics, etc.).
 
 ### Tensor network theory
 
-Neuroscientists began the theory began on the cerebellum because it has a limited nubmer of neuron types that are each
+Neuroscientists began the theory began on the cerebellum because it has a limited number of neuron types that are each
 distinct on a physiological level and connected in a specific way that the cerebellar cortex produces the Purkinje cell
 with two different cell systems as input. Using wiring diagrams of cerebellar neurons to describe the connections accept
 input and result output in a parallel manner. We have a trade-off between detail to understand the system with how the array
 itself processes information. Through tensor network theory we attempt to use principles from mathematics, physics, and computer
 science in understanding how these systems may model the nervous system. We can create a schematic neuron to find out more about
 the patterns of neurons arranged in mathematical arrays. Though the model may be limited by the assumptions of casual theory
-and epistemic concerns of the phenoemna we attempt to describe, it's a nice heuristic to see something we wouldn't otherwise
+and epistemic concerns of the phenomena we attempt to describe, it's a nice heuristic to see something we wouldn't otherwise
 see through single-cell data. We may use concepts from linear algebra and statistics to create output vectors in a coordinate
-system such that the corresponding tensor matrix governs the transformtaion of ensembles from input-output relationships
+system such that the corresponding tensor matrix governs the transformation of ensembles from input-output relationships
 by the corresponding reference frame. The spiking frequency defines a point on an axis of the coordinate system with the output
 a vector in the space of the output neurons. We may generalize a tensor mathematical to transform vectors into other vectors
 such that we address the basic problem of functionalist sensorimotor control as going from one different coordinate system
 to another. 
 
 When we figure out what the mind-brain does, then how it might implement various functions in a top-down manner among different
-levels of science, the theorizing is highyl constrained, yet very well-informed, by the data of the level at which we implement.
+levels of science, the theorizing is highly constrained, yet very well-informed, by the data of the level at which we implement.
 But, with tensor network theory, we wouldn't label these processes as top-down, but, rather, from lower-level fundamental processes
 to higher-level descriptions. 
 
 We use a tensor transformer to transform in a way we still need: to transform vectors in sensory space to vectors in motor space. 
-We may deform one phase space to get an object in the other one using represesntations as positions in phase space and computations
+We may deform one phase space to get an object in the other one using representations as positions in phase space and computations
 as coordinate transformations between phase spaces. The Pellionisz-Llinás approach uses sensorimotor problems constrained by
 realistic creatures as a method of reducing at bottom the problem of making coordinate transformations between phase spaces. In tensor
 network theory, we look for functional relationships between connected cell assemblies and investigate them for properties relevant
-to phase spaces much the same way a computer or artifically intelligent machine searches for solutions among sentence-related
+to phase spaces much the same way a computer or artificially intelligent machine searches for solutions among sentence-related
 criteria. Such AI would require this knowledge to determine what to do.
 
-Tensor network theory still needs to unify results across the disciplines of cogntive science, psychology, and neuroscience in such
+Tensor network theory still needs to unify results across the disciplines of cognitive science, psychology, and neuroscience in such
 a way that we can construct a universalized, common set of rules with coherent explanations that we can experimentally test and verify.
 Attempts to describe the vestibulu-ocular reflex, the method of determining movement from visual image stimuli, using semicircular canals
 of the vestibular system, we further imagine each eyeball detecting the images and communicating to those receptors. This system needs
-to determine how muscles contract so the eyes move in a way to refelect the head movements. The corresponding tensor approach would imagine
-the system converting a head position vector into a vector that describse muscle positions. The transformation 
-from vestibular to oculomotor, according to the Pellionisz-Llinás hypothesis, takes a premotor vector intoa motor vector. The vestibulur 
+to determine how muscles contract so the eyes move in a way to reflect the head movements. The corresponding tensor approach would imagine
+the system converting a head position vector into a vector that describe muscle positions. The transformation 
+from vestibular to oculomotor, according to the Pellionisz-Llinás hypothesis, takes a premotor vector into a motor vector. The vestibulur 
 organ, we can show, has a set of positions it prefers that we can call an eigenposition. 
 
-We further pose Churchland's phase-space sandwhich hypothesis that describes spatial organizatino of maps layer so that the corresponding
+We further pose Churchland's phase-space sandwich hypothesis that describes spatial organization of maps layer so that the corresponding
 neurons may perform any transformation from two dimensions to two dimensions. The maps representing phase spaces aren't literally stacked upon one another. 
 They may remain spatially distant from each other. With the topology of the cortical area, we still have to answer whether tensor network
 theory can account for neuroplasticity. Covariant proprioception vectors can give feedback about motor performance which can further
-provide information of trasnformations of the cerebellar matrix. The matrix would then turn into a state such that its eigenvectors
+provide information of transformations of the cerebellar matrix. The matrix would then turn into a state such that its eigenvectors
 are identical so that they are the "correct" coordinate transformation. Climbing fibers of the cerebellum may provide a pathway
 for reverbative feedback that modifies transformational properties of the cerebellar network. This is found in AI that use relaxation
 algorithms.  
