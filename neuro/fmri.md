@@ -22,3 +22,7 @@ scientist Adina Roskies argued this it's impossible for brain imaging to be cons
 
 Some neuroimaging techniques rely on using a single cognitive process inserted into another set of cognitive processes
 without affecting the rest.  
+
+Philosopher-neuroscientist Joshua Greene has performed research using fMRI. Do people ultimately base their mature moral 
+judgments on their passions, as sentimentalists such as 18th-century philosopher David Hume argued, or on reason and logic, 
+as rationalists such as Immanuel Kant believed?
