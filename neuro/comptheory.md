@@ -36,7 +36,7 @@ of the spreading activation of these patterns. The nodes aren't semantically eva
 that localist theories are neither definitive nor representative of the connectionist program. 
 
 Classicists want to find mental properties similar to language. Fodor's Language of Thought Hypothesis (LOTH) uses
-mental symbols to make up the neural basis ofa thought like a language. In the LOTH, the potential infinity of complex
+mental symbols to make up the neural basis of a thought like a language. In the LOTH, the potential infinity of complex
 representational mental states comes from primitive representational states that form using recursive formation rules.
 We use a combinatorial structure to account for productivity and systematicity of the system of mental representations.
 We explain the properties of thought using the content of representational units and their combinability into contentful
@@ -120,7 +120,7 @@ to model is human language. We haven't imagined any plausible alternatives in su
 
 A calculator's representation and rules for manipulating representations can explain its behavior much the same way
 we describe how and why people do what they do. Philosopher Zenon Pylyshyn said we explain why a machine does
-something with certain interpretations of the symbols in a domain. Psychologcial theory would cross-classify
+something with certain interpretations of the symbols in a domain. Psychological theory would cross-classify
 categories of neurophysiology theory that would make neurophysiological generalizations miss important relations
 that are only describable at the level at which representations are referred to. The psychological maps only would 
 map onto an indefinite mix of neurobiological categories.
@@ -224,14 +224,14 @@ away from the precise, defined meaning of the world.
 The computationalist may respond she doesn't want to make a physiologically accurate human mind model, but wants to find intelligent
 features for any agent. In AI, one might want to solve a problem in computational space that doesn't represent human features. 
 She may also respond that representational theories note when the features of representation, such as the similarity between representations
-and their objects and how accruate they are, in such a way that the representational theory is more effective, valid, and justified
+and their objects and how accurate they are, in such a way that the representational theory is more effective, valid, and justified
 than non-representational theories. 
 
-We may account for the intentional nature of basic emotions even if they have a physiological component to them, such as changes in facial expression or bodily mechanisms. Weak content cognitivism, the belief taht emotions are or are caused by propositional attitudes, may 
+We may account for the intentional nature of basic emotions even if they have a physiological component to them, such as changes in facial expression or bodily mechanisms. Weak content cognitivism, the belief that emotions are or are caused by propositional attitudes, may 
 attack this relationship of emotions to a bodily response, but the relationship of emotions to beliefs doesn't mean all emotions are caused
-by propositional attidues like beliefs. A computational theory of mind should account for emotoinal effects and similar affects that
+by propositional attitudes like beliefs. A computational theory of mind should account for emotional effects and similar affects that
 influence perception and judgement. But the changes in emotions don't seem discrete as though there were differences in logical systems
-as we described with the Hinton-Sejnowski theory or with tensor network theory. Emotions form a continous gradient that doesn't seem to
+as we described with the Hinton-Sejnowski theory or with tensor network theory. Emotions form a continuous gradient that doesn't seem to
 arise from a sort of combinatorial engine that the computationalist theory would argue. We would need a semantic activation model that adheres to principles of symbolic computational functionalism as well.  
 
 The connectionist model describes effects of some emotions, but doesn't model emotion itself. To allow semantic activation models to use emotions
@@ -246,9 +246,9 @@ perception.
 
 ## Neural circuitry
 
-We may imagine the brain as a computer through neural circuitry excitation/inhibitation ratios as a property for cognitive
+We may imagine the brain as a computer through neural circuitry excitation/inhibition ratios as a property for cognitive
 function in cortical circuits. Research in circuit function on synaptic parameters in memory and decision-making
-can give us parameter spcaes to reduce NMDAR conductance strengths from excitatory pyramidal neurons to inhibitory
+can give us parameter spaces to reduce NMDAR conductance strengths from excitatory pyramidal neurons to inhibitory
 interneurons or excitatory pyramidal neurons. We may apply dopamine neuronal activity using a bifurcation diagram.
 In math, we generally use bifurcation plots to study dynamical system behavior with respect to parameter variations
 or similar perturbations. We may use Ohm's law to relate current, potential, capacitance, and resistance among 
@@ -275,8 +275,8 @@ to systems without it. A behavioral disposition may be necessary for the possess
 Chauvinism is the problem that a theory withholds attributing mentality to systems that seem to possess it. Block argued type physicalism falls to
 chauvinism because it's the view that mental state types are equivalent to physical state types.
 
-We may talk about the mental state of pain casued by sitting on a tack that causes behaviors such as loud cries and other mental
-states such as anger. We define these functional defintions (of analytic functionalism) using causal roles that are analytic and a priori
+We may talk about the mental state of pain caused by sitting on a tack that causes behaviors such as loud cries and other mental
+states such as anger. We define these functional definitions (of analytic functionalism) using causal roles that are analytic and a priori
 truths about the other mental states alongside their propositional attitude. Identities are necessary and not subject to empirical
 observation. Psychofunctinoalism, on the other hand, uses empirical observation (in an posteriori manner) and experimentation to
 determine which mental state terms and concepts are contingent to their observations.
