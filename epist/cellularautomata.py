@@ -91,3 +91,8 @@ This is further explored in conwaygameoflife.py.
 Stephen Wolfram's Principle of Computational Equivalence:
 Almost all processes that are not obviously simple can be viewed as computations of equivalent sophistication.
 """
+
+"""
+Rule 30 is considered to be chaotic enough to generate good pseudo-random numbers. 
+As a matter of fact, rule 30 is used by the Mathematica software for its default random number generator.
+"""
