@@ -100,3 +100,24 @@ The purpose of this task is to demonstrate that we show the ten first bytes that
 state of all cells but one equal to zero, and follow the evolution of the particular cell whose state was initially one. 
 Then regroup those bits by packets of eight, reconstituting bytes with the first bit being the most significant.
 """
+
+def eca_wrap(cells, rule):
+    """
+    The ends of cells wrap around for Wolfram's rules.
+    """
+    lencells = len(cells)
+    rulebits = "{0:08b}".format(rule)
+    neighbours2next = {tuple("{0:03b}".format(n)):rulebits[::-1][n] for n in range(8)}
+    c = cells
+    while True:
+        yield c
+        c = "".join(neighbours2next[(c[i-1], c[i], c[(i+1) % lencells])] for i in range(lencells))
+
+def rule30bytes(lencells=100):
+    """
+    We wrap the ends of our cells as we perform Rule 30 on a lenth of cells lencells.
+    """
+    cells = "1" + "0" * (lencells - 1)
+    gen = eca_wrap(cells, 30)
+    while True:
+        yield int("".join(next(gen)[0] for i in range(8)), 2))
