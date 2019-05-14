@@ -95,4 +95,8 @@ Almost all processes that are not obviously simple can be viewed as computations
 """
 Rule 30 is considered to be chaotic enough to generate good pseudo-random numbers. 
 As a matter of fact, rule 30 is used by the Mathematica software for its default random number generator.
+
+The purpose of this task is to demonstrate that we show the ten first bytes that emerge from this recommendation. Start with a 
+state of all cells but one equal to zero, and follow the evolution of the particular cell whose state was initially one. 
+Then regroup those bits by packets of eight, reconstituting bytes with the first bit being the most significant.
 """
