@@ -1,4 +1,4 @@
-#The limits of reasoning and inference
+# The limits of reasoning and inference
 
 In determining how machines differ from humans, we can observe intelligence and 
 various methods of reasoning through the physical universe itself. With the connectedness 
