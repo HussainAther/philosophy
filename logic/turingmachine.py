@@ -65,4 +65,25 @@ class TuringMachine(object):
         if final_states == None:
             self.__final_states = set()
         else:
-            self.__final_states = set(final_states) 
+            self.__final_states = set(final_states)
+
+    def get_tape(self):
+        """
+        Return the tape as it is.
+        """ 
+        return str(self.__tape)
+    
+    def step(self):
+        """
+        Perform a step in our function.
+        """
+        char_under_head = self.__tape[self.__head_position]
+        x = (self.__current_state, char_under_head)
+        if x in self.__transition_function:
+            y = self.__transition_function[x]
+            self.__tape[self.__head_position] = y[1]
+            if y[2] == "R":
+                self.__head_position += 1
+            elif y[2] == "L":
+                self.__head_position -= 1
+            self.__current_state = y[0] 
