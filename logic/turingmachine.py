@@ -6,6 +6,10 @@ class Tape(object):
     """
     Represent an object the Turing machine.
     """
-    """
-    The dictionary of the
-    """
+    blank_symbol = " " # For printing a blank symbol on the tape
+    
+    def __init__(self, tape_string = ""): 
+        """
+        The dictionary of th turing machine is the tape that has the entries
+        we print on the tape. 
+        """
