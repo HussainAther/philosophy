@@ -13,3 +13,5 @@ class Tape(object):
         The dictionary of th turing machine is the tape that has the entries
         we print on the tape. 
         """
+        self.__tape = dict((enumerate(tape_string)))
+        
