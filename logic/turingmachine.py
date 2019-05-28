@@ -87,3 +87,12 @@ class TuringMachine(object):
             elif y[2] == "L":
                 self.__head_position -= 1
             self.__current_state = y[0] 
+
+    def final(self):
+        """
+        Have we reached a final state?
+        """
+        if self.__current_state in self.__final_states:
+            return True
+        else:
+            return False
