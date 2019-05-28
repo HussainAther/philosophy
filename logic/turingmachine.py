@@ -4,7 +4,7 @@ Turing machine implementation. (turing)
 
 class Tape(object):
     """
-    Represent an object the Turing machine.
+    Represent an object the Turing machine tape.
     """
     blank_symbol = " " # For printing a blank symbol on the tape
     
@@ -38,4 +38,31 @@ class Tape(object):
         """
         Set a character chat at a certain position pos on the tape. 
         """
-        self.__tape[pos] = char 
+        self.__tape[pos] = char
+
+class TuringMachine(object):
+    """
+    The Turing machine object.
+    """
+    
+    def __init__(self,
+        """
+        Initialize the tape and the machine with the states.
+        """ 
+                 tape = "", 
+                 blank_symbol = " ",
+                 initial_state = "",
+                 final_states = None,
+                 transition_function = None):
+        self.__tape = Tape(tape)
+        self.__head_position = 0
+        self.__blank_symbol = blank_symbol
+        self.__current_state = initial_state
+        if transition_function == None:
+            self.__transition_function = {}
+        else:
+            self.__transition_function = transition_function
+        if final_states == None:
+            self.__final_states = set()
+        else:
+            self.__final_states = set(final_states) 
