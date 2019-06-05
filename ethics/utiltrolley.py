@@ -5,7 +5,7 @@ a lever that would change the track of an incoming train such that it would
 kill fewer people tied to the tracks. 
 
 Given a directed graph as an input file and a nonnegative integer attached to
-each edge (the number of people tied o that track). Still, this argument has
+each edge (the number of people tied to that track). Still, this argument has
 its limits. It assumes each human has the same utility and that changing the
 path the train would take is completely within our control. It also doesn't 
 address the question of what caused the scenario to begin with (e.g., how 
