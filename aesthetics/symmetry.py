@@ -7,7 +7,7 @@ mathematics and science.
 
 Usage:
 
-'python symmetry.py i m'
+"python symmetry.py i m"
 
 in which i is the input file and m is the method (1 or 2).
 Method 1 is for reading in an input file line by line and 2
