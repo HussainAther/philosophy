@@ -32,7 +32,7 @@ def birk(f, a):
     Measure from Birkhoff's mathematical theory of aesthetics return the Birkhoff measure 
     for a given function f and corresponding array a.
     """
-    c = 1 / simplicity(f) # For a given function f, calculate the simplicity using our 
-                          # imported function. Then take the inverse to measure complexity.
+    c = 1 / len(simplicity(f)) # For a given function f, calculate the simplicity using our 
+                               # imported function. Then take the inverse to measure complexity.
     o = arrayorder(a) # A rough estimate of order using the array a.  
     return o / c
