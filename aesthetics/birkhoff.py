@@ -1,3 +1,5 @@
+from simplicity import simplicity
+
 """
 Mathematician George David Birkhoff created an aethetic measure M = O/C
 as the ratio of order to complexity.
@@ -25,9 +27,12 @@ def arrayorder(a, method="oop"):
                  return False
         return True
 
-def birk(o, c):
+def birk(f, a):
     """
-    Measure from Birkhoff's mathematical theory of aesthetics.
+    Measure from Birkhoff's mathematical theory of aesthetics return the Birkhoff measure 
+    for a given function f and corresponding array a.
     """
+    c = 1 / simplicity(f) # For a given function f, calculate the simplicity using our 
+                          # imported function. Then take the inverse to measure complexity.
+    o = arrayorder(a) # A rough estimate of order using the array a.  
     return o / c
-    
