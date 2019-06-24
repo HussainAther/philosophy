@@ -17,5 +17,3 @@ def simplicity(f):
     programming to begin with). It's not to be taken seriously.
     """
     return signature(f)
-
-
