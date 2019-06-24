@@ -5,7 +5,8 @@ import os
 How pythonic is your code? 
 
 Compute a Python score based on how close code is to the principles
-given by the Zen of Python.
+given by the Zen of Python. Use this script as `python zenofpython.py file`
+in which `file` is the file to be assessed for pythonic qualities.
 
 Beautiful is better than ugly.
 Explicit is better than implicit.
