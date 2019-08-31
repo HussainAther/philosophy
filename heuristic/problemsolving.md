@@ -26,7 +26,8 @@ possible, and the different logic functions map at least one of hte 2^k feature 
 If you have two objects that are different in at least one of the original k features, you can compute
 all the 2^(2^k) logic functions. If the original vectors have no vectors that are identical to one another,
 half of the logic functions will be equal and half will be different independent of the difference of the 
-original features.
+original features. All objects are equally different if you represent them with all possible combinations
+of the original features.
 
 ### Systematic Feature Elicitation
 
