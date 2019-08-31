@@ -75,4 +75,12 @@ With function approximation problems, we can use vector quantization to approxim
 exemplar (prototype or codebook) vectors. They should represent a discrete subset of the problem using the features
 of interest naturally represented in the prolbem space. This method uses a non-parametric model of a target function
 using symbolic representation in the domain (such as tree-based approaches). A k-Nearest-Neighbor method can be a non-parametric
-method for this. We may also paralellize instance-based methods with discrete, independent nature of which they're used. 
+method for this. We may also paralellize instance-based methods with discrete, independent nature of which they're used.
+
+# Aristotle and Plato
+
+The Aristotle and Platonic views of knowledge contrast one another. The Aristotelian scholar makes observations about the world and
+uses them in methods of reasoning established by logic. From there, she can infer what meaaningful conclusions
+account for these observations. The Platonic thinker or scholar uses great, intuitive visions of 
+different areas of research even if she can't put them into words or mathematics to describe everything. Platonic thinkers do keep
+a great interest in reality and wonders how to figure out the world she lives in.
