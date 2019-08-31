@@ -29,6 +29,9 @@ half of the logic functions will be equal and half will be different independent
 original features. All objects are equally different if you represent them with all possible combinations
 of the original features.
 
+These two theorems tell you that you need to have insight into the features that match and algorithm when
+performing experiments and methods in pattern recognition.
+
 ### Systematic Feature Elicitation
 
 We can define a feature of a system as a distinctive element or property we use to differentiate
