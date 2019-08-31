@@ -11,7 +11,7 @@ to the function optimization and approximation.
 
 We generally regard tools and techniques with respect to their efficiency or effectiveness
 in solving problems. In the philosophy of mathematics and discussions on machine learning,
-the "no free lunch theorem" (that averaging over all optimization problems means all non-resampling 
+the "no free lunch theorem" or "No free lunch theorem" (that averaging over all optimization problems means all non-resampling 
 optimization algorithms perform equally well) can tell us generally that there are bound claims of applicability
 of a given strategy with respect to its feature overlap with the attributes of a given problem
 domain. We can describe the appropriateness (can the approach address the problem), feasability
@@ -19,6 +19,14 @@ domain. We can describe the appropriateness (can the approach address the proble
 or unintended effects). We can address issues of suitability using (1) the systemic elicitation of 
 system and problem features and (2) consideration of overlap of problem-problem, algorithm-algorithm,
 and problem-algorithm overlap of features sets.
+
+By contrast, the "ugly duckling theorem," as articulated by Satosi Watanabe, describes the behavior of 
+binary feaatures in pattern recognition. If you have k features, there are 2^k different features vectors
+possible, and the different logic functions map at least one of hte 2^k feature vectors differently.
+If you have two objects that are different in at least one of the original k features, you can compute
+all the 2^(2^k) logic functions. If the original vectors have no vectors that are identical to one another,
+half of the logic functions will be equal and half will be different independent of the difference of the 
+original features.
 
 ### Systematic Feature Elicitation
 
