@@ -1,3 +1,5 @@
+import sys
+
 """
 A Quine is a self-referential program that can, without any external access, 
 output its own source.
@@ -19,3 +21,5 @@ as a character string, or a literal data structure). The plain code then accesse
 quoted code and prints it out twice, once unquoted and once with the proper quotation 
 marks added. Often, the plain code and the quoted code have to be nested.
 """
+
+sys.stdout.write(open(sys.argv[0]).read())
