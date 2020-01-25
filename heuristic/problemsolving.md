@@ -66,7 +66,7 @@ what we're looking for or start weak and increasingly strengthen our methods.
 ### Function Optimization
 
 We can optimize functions globally or locally. Global seeks optimal structures or approximations over the entire
-problem domain scope while local focuses on optimal structures within constrained regions of the decisino variable
+problem domain scope while local focuses on optimal structures within constrained regions of the decision variable
 search space (such as a single peak or valley within a defined area). Drawing from evolutionary computation, swarm intelligence,
 and similar sub-fields of computational intelligence, we may also optimize routines and methods using parallelization
 that can exploit similarities between parallel hardware to optimize communication to computation ratios (known as granularity).
